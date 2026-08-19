@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,27 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122185525838935139",
+      "title": "Acoustic Night at the Municipality of Titay.❤️",
+      "description": "Acoustic Night at the Municipality of Titay.❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122185525838935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1678739373204504/"
+    },
+    {
+      "id": "fb-751559508033473_122185468244935139",
+      "title": "ACOUSTIC NIGHT TONIGHT! 🎶",
+      "description": "ACOUSTIC NIGHT TONIGHT! 🎶\n\nJoin us tonight here at the Municipal Park and enjoy a relaxing evening filled with great food, good music, and wonderful company! 🎸✨\n\nBring your family and friends, and let’s make tonight a night to remember. ❤️\n\nDaghang salamat, Mayora DONRIO Martinez Castillo, for making evenings like this possible for the people of Titay! \n\nSee you tonight! 🎶\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122185468244935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122185468244935139"
+    },
+    {
+      "id": "fb-751559508033473_122185367696935139",
+      "title": "Visit Titay Municipal Park!",
+      "description": "Visit Titay Municipal Park!\n\nHave some chill night and good music.❤️\n\nPwede sab mag date2?\n\n#DASIGTITAY\n\n#nocopyrightinfringementintendedmusicbelongstotherightfulowner",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122185367696935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1342799834684760/"
+    },
     {
       "id": "fb-751559508033473_122185064750935139",
       "title": "Another batch of streetlights has been installed at the Municipal Grounds and P…",
@@ -102,37 +123,270 @@
       "description": "𝐒𝐓𝐀𝐓𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐍𝐈𝐂𝐈𝐏𝐀𝐋𝐈𝐓𝐘 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 | 𝐇𝐎𝐍. 𝐃𝐎𝐍𝐑𝐈𝐎 𝐌𝐀𝐑𝐓𝐈𝐍𝐄𝐙 - 𝐂𝐀𝐒𝐓𝐈𝐋𝐋𝐎\n\nA year of meaningful progress guided by D.O.N.R.I.O.—Development, Opportunities, Neighborhood Welfare, Resilience, Inclusion, and Oneness.\n\nHon. Riorita “DONRIO” Martinez Castillo delivered her State of the Municipality Address (SOMA), highlighting the Municipality of Titay’s accomplishments and shared vision for a stronger and more progressive community.\n\nDasig Titay! 💙❤️\n\n#SOMA2026 \n#DASIGTITAY\n#DONRIO",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122183236202935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122183236202935139"
-    },
-    {
-      "id": "fb-751559508033473_122182821590935139",
-      "title": "Cooking Challenge during the 52nd Nutrition Month Culmination Program with our…",
-      "description": "Cooking Challenge during the 52nd Nutrition Month Culmination Program with our MaDASIGong Mayor DONRIO Martinez.❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122182821590935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1413584917390374/"
-    },
-    {
-      "id": "fb-751559508033473_122182696154935139",
-      "title": "Preparation’s in full bloom for tomorrow’s 52nd Nutrition Month Culmination Pro…",
-      "description": "Preparation’s in full bloom for tomorrow’s 52nd Nutrition Month Culmination Program.❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122182696154935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/976294262123963/"
-    },
-    {
-      "id": "fb-751559508033473_122182662116935139",
-      "title": "In our continuing effort to make the Municipality of Titay a better, more inclu…",
-      "description": "In our continuing effort to make the Municipality of Titay a better, more inclusive, and safer place for everyone, we remind all residents and visitors to uphold the principles of the Safe Spaces Act (Republic Act No. 11313). Let us treat one another with respect, dignity, and kindness, and help create an environment free from sexual harassment, gender-based discrimination, bullying, and all forms of abuse.\n\nA safe community begins with each one of us. Together, let us foster a culture of respect where everyone feels valued, protected, and empowered.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122182662116935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122182662116935139"
-    },
-    {
-      "id": "fb-751559508033473_122182645646935139",
-      "title": "Bayan ng Titay. Dasig Titay!❤️",
-      "description": "Bayan ng Titay. Dasig Titay!❤️\n\nCredits: Carlos Miguel Basilio.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122182645646935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/932057259908646/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp-111540694644827_1069476152262379",
+      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
+      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay MFS Shift B duty personnel received a report from a concerned citizen requesting emergency medical assistance in Achasol, Titay, Zamboanga Sibugay Province. Titay MFS Shift B personnel immediately responded to the scene.\nUpon arrival at the scene, the patient was found seated on a chair, conscious and alert. The patient presented with elevated blood pressure of 160/90 mmHg and complained of right-sided body weakness, slurred speech, and dizziness. The patient reported a history of hypertension and had been taking Amlodipine 5 mg as maintenance medication since last year.\nAn initial assessment was immediately conducted. Due to the patient's presenting signs and symptoms, the patient was carefully assisted and transferred to the ambulance using a two-man carry technique for further assessment, monitoring, and transport to an appropriate medical facility.\nThe patient was immediately transported to Dr. George T Hofer Medical Center for further medical evaluation and management.\nUpon arrival at Dr. George T Hofer Medical Center, Tenan, Ipil, Zamboanga Sibugay, the patient was properly endorsed to the attending medical staff on duty.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/777824768_1069475945595733_6470642745705479360_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEsBEEBr4lTCT7AhxJZUxICw0Gf0ygDlVXDQZ_TKAOVVbfmLDciHNaYbEQ2JxxzxBOgzbQr4yKGd6Mq_Gwa7hik&_nc_ohc=tbRJ-dePHZUQ7kNvwEX9rPH&_nc_oc=AdoFcuhMvwESOwXj9nNSO-ctAaDaNPRAolEuR0Gm8ZfVMjnAfZQAORALxe9Ih3njqvM&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQJq0Iq1WKUk0K9q9qjWyqz7qA1EhNTP-qiUCfbnmeOjo2HAGWyQJHW3fXQXjtkwasW30RdxvJD5Cw&oh=00_AQE3F_z4-1zprtF8di3zOzAi3qyhKPJumaUwi1xCF9sGOg&oe=6A8B5F2F",
+      "publishedDate": "2026-08-19T03:10:53+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1069476152262379",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1069473742262620",
+      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
+      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay MFS Shift B duty personnel received a report of a medical emergency in Kitabog, Titay, Zamboanga Sibugay. The responding personnel were immediately dispatched and promptly proceeded to the scene to provide the necessary medical assistance.\nUpon arrival at the scene, the patient was found conscious, alert, and oriented while being carried by his mother. The patient had been experiencing diarrhea for four (4) days. Earlier today, the patient had been discharged after a three-day admission at Dr. Perlie B. Sibud County Hospital. However, following his discharge at approximately 1500H, the patient continued to experience diarrhea, with more than five (5) episodes reported.\nAn initial assessment was conducted to determine the patient's current condition and need for immediate medical intervention and transport. The patient was carried to the ambulance by EMS personnel.\nThe patient was immediately transported to Dr. Henry R. De Villa Memorial Hospital, Poblacion, Ipil, Zamboanga Sibugay, for further medical evaluation and management.\nUpon arrival at Dr. Henry R. De Villa Memorial Hospital, Poblacion, Ipil, Zamboanga Sibugay, the patient was properly endorsed to the medical staff on duty.\n \n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
+      "imageUrl": "https://scontent.fcgy2-3.fna.fbcdn.net/v/t39.30808-6/778985966_1069473312262663_4097191130802963652_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFlcmBwElYDHn0AEfXU4Pam4VgPLfeFmhjhWA8t94WaGDTx7tYCTX1qC64mUjYrLYVT4gWzywqj4xVtNfo3SXsi&_nc_ohc=s-63XDfNgIEQ7kNvwFfHyj3&_nc_oc=AdqamL5cIB2jE3kNm0-EFsKVVoAgib0XmyzafJTiwnqal-QKdVKr84vZsr5u5vDMWgc&_nc_zt=23&_nc_ht=scontent.fcgy2-3.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQITYg6XHf_PLulyuHJ_21w1F0xlniofIhevpBtyHtdzr8WvIwKAcgSiu0Awvd0RVI1RJmP0mMdlig&oh=00_AQG3Gc5y1X3LzAeMeUsykc_0cNeU0eWTfs8w5ch8dx7pgQ&oe=6A8B864C",
+      "publishedDate": "2026-08-19T03:07:03+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1069473742262620",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1050284504662054",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 19 August 2026 (Tuesday) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://scontent.fcgy2-3.fna.fbcdn.net/v/t15.5256-10/778291181_2854109228299459_6741334438068403148_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=032300&_nc_eui2=AeEF5__V16XxQzcasR3_OOak8RRWQz9MeS_xFFZDP0x5LxXVdWvQGClWPbJEqc6pGm0YNKYRq79b8GBYpS65tMFA&_nc_ohc=Yw324e-hff4Q7kNvwE-sDyE&_nc_oc=AdoOJNlFvJn5IWqCaClj2DqSa9ipt5xu22EcrqV55RXtlF_EosnEC1C905nk4sQKAXQ&_nc_zt=23&_nc_ht=scontent.fcgy2-3.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQL-Mdl3LBuAVaDLsQvO4X9Y3_TTqFg9-LFvV1ydwAw1L7YDwuZaWNVTjtrzg3L6gXvLOSS7MI0UnA&oh=00_AQERRthRy-ytCLzLqVP5HevRtLPBChMjonUk-RhxznT6WA&oe=6A8B952A",
+      "publishedDate": "2026-08-18T21:51:49+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1050284504662054",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1677972566608178",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 18 August 2026 (Tuesday) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t15.5256-10/776323801_1430732218877263_8135411467863169292_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=032300&_nc_eui2=AeH0t0kAqI0zIBFacz_2au-Xvdy7RYDn4pO93LtFgOfik4G_XFqBtU5K2OY9ol8G2zfXwKUvZpkuoz8_USFTFPhD&_nc_ohc=uUqJY78skT4Q7kNvwGpa2FE&_nc_oc=AdrsXAxCSx28c1Y2YbDq92a59Kss3wH-hy12pzG_O1GlzAfCllBvNZMBEFJch78nIAk&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQJp7m6mO336U_EmibPk_oLU_FHoPndb8N0XVr11Pwc2WDibD1YR3QYmC_Pojj2AIJD0SqieknW1Hg&oh=00_AQGwRZoWD0ZIA30b5how0MWzXCtDDXNNgxgfChKnmSLotA&oe=6A8B87E3",
+      "publishedDate": "2026-08-17T21:34:21+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1677972566608178",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619555866847340",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-3.fna.fbcdn.net/v/t39.30808-6/776586524_1619555823514011_5115246930453443371_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dhwfv2QAPtQQ7kNvwHSvVnW&_nc_oc=AdrxrGxFxf5yDkqCMnBg_nOS_6KhPzQif4SkZDugbWewLAyMqjhVqyr0qvmEYcvM51Q&_nc_zt=23&_nc_ht=scontent.fcgy2-3.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQLHdnMdIByIdJrPzAeMhvtS-fPPzR3-Px9YcG3_axD3r8mfDn8qSh42MyqE7G9-FTO_u4EELFEzVA&oh=00_AQHZbq627GBfAYnmtvg9cZfHVds44IdeTYERG2jK5Z1Ubw&oe=6A8B812A",
+      "publishedDate": "2026-08-17T05:19:22+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619555866847340",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619555556847371",
+      "title": "AUGUST 21, 2026    𝓝𝓲𝓷𝓸𝔂 𝓐𝓺𝓾𝓲𝓷𝓸 𝓓𝓪𝔂 2026",
+      "summary": "AUGUST 21, 2026    𝓝𝓲𝓷𝓸𝔂 𝓐𝓺𝓾𝓲𝓷𝓸 𝓓𝓪𝔂 2026 \n\nAraw ni Ninoy Aquino reminds us of the importance of courage, patriotism, democracy, and peaceful service to our nation. May his legacy inspire every Filipino to uphold truth, freedom, and unity.\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect See less",
+      "imageUrl": "https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/774833115_1619550583514535_2748450254223165889_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-7zWFllgV_AQ7kNvwFhc1AP&_nc_oc=AdpktXDpeYVqa7r0atVmzZrs8oY2EOW7eZM-xq8k0qxJbqTtKy5D5ZuMudIRlGNIue4&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQJPRAoCT5D2eesL3r5FaiJz7rTNSpVNKdCiL_gNSQ3_gKAht_nxMevOukhhig_tP7_rtnh6a9P9qQ&oh=00_AQEGW7yeDLKBFcHOh1HLlyJA6bDTkWHPYIX798gTHzvaXA&oe=6A8B6603",
+      "publishedDate": "2026-08-17T05:18:55+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619555556847371",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619544843515109",
+      "title": "FOOT PATROL:",
+      "summary": "FOOT PATROL:\nAugust 17, 2026 @ about 7:02 AM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Foot Patrol at  Barangay Poblacion, Titay, Zamboanga Sibugay \n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n“In case of emergency call 911” \n#dofootpatrolaugust2026\n#pro9footpatrolaugust172026\n#zsbppofootpatrolaugust172026\n#titaympsfootpatrolaugust172026 See less",
+      "imageUrl": "https://scontent.fcgy2-4.fna.fbcdn.net/v/t15.5256-10/778236519_3163479720512267_5127676561926143520_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nUPNgTz0zZUQ7kNvwFgo6-6&_nc_oc=Adr_iyNKvjAjq6OQzljTurUUOPk0J0blrcP8kwRgb13z-hWDX2G9uTA1jg82QoxxyVg&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQJ9XVw9t_4JE5ks3XaYRuUNZh4rwg6PXLY9Ccg8vHWu74dzgCvzxk0d3NEDF0ZiOq6NJqPibFL6gw&oh=00_AQHNcqupuBdj5_9WoZvLnZjN8xBYd3zIopVQ0DBB-YckGA&oe=6A8B9328",
+      "publishedDate": "2026-08-17T04:59:55+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1575928490860981/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619543343515259",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL:\nAugust 17, 2026 @ about 7:00 AM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay Updates\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatrolaugust2026\n#pro9mobilepatrolaugust172026\n#zsbppomobilepatrolaugust172026\n#titaympsmobilepatrolaugust172026 See less",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t15.5256-10/778255182_1964112211642075_7909985762798150592_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Yd5Pfwqu-sUQ7kNvwFW0IY2&_nc_oc=Adow_YI9siRATqxKGYpLlgapKxiP0ahyYxLveBraPYGFE24pTyd4r3-u2w6bwYUiheU&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQJFspOXdaVfK9AVy5I4N6VYPRBpPi3pDtmIVlDVIxyRJVcj4UGX4ZhfvGgr45G3PRVSA0Poh8YjOQ&oh=00_AQH8JxQPF-17He5p4GDOdSMiER8tn-FTOx93PwmXf5KzZw&oe=6A8B82D1",
+      "publishedDate": "2026-08-17T04:57:13+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1046866134628188/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619429100193350",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-3.fna.fbcdn.net/v/t39.30808-6/774699137_1619428863526707_138402065247256401_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CCspOLOAKR4Q7kNvwH8aD0K&_nc_oc=AdrW6gBr619P0JOauuCVTgQFe0zSXaVvLl0XDQTJ6H95UNICqjvcUCP4-yidqYICMBc&_nc_zt=23&_nc_ht=scontent.fcgy2-3.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQLJfzBeeoO6BWiEq28PsHGvbXM7YWuwfpuuPaVQy2wJ90PPSCN7veHAePLCNmtGLfzLGmn04e50uA&oh=00_AQFp0oyAD4jjAQPPov_lAcjhhPbMD3-mQ4mKnrKQOtsisQ&oe=6A8B8C64",
+      "publishedDate": "2026-08-17T01:41:10+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619429100193350",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619428716860055",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/774886690_1619428666860060_4020889319137659626_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0urWGjXPKBYQ7kNvwEHtyJz&_nc_oc=Adr2luVoIo1u1YevxKHYW3MFuCmLn7nI4wSAhOv0geMWiHuhWiAEX0bDrUrz3qJSsxA&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQLAZ3wZF6YV5h4_nuRF1amFkhECOtCOWp6fkt4_oWKklL2PHSNqehG1yNw3Upm2JVTGfHNnVHfQRg&oh=00_AQFMcuDLftgp1N_HBvNXAl74-soEukn15KJWZv1YVZcsNA&oe=6A8B756C",
+      "publishedDate": "2026-08-17T01:40:36+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619428716860055",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619428523526741",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/776222573_1619428480193412_8100581732946229904_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WuqkD3t01d4Q7kNvwGjcCRD&_nc_oc=Adp6iSlInhGU8V5yVdfEXSfysyeEep0nHhV2zP8SLWNeeyrbb4GbKw28fXnDBZ4R4P4&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQLHcOOPAYjW3lG8n8-vlHFtA8Y4dQv3XGcMyJWmetER1SVxpxOWtx3yEGmx-D3oxCr_iCD7yKdedA&oh=00_AQG6g2ZxlQNgcO5d_wWEBwgm4eFi3VCvRBGfNKo8-TOSYQ&oe=6A8B8114",
+      "publishedDate": "2026-08-17T01:40:20+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619428523526741",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619428163526777",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/774668293_1619428090193451_2019894153543703555_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=odlalwChjWkQ7kNvwFZuUZL&_nc_oc=Adqyxc42Ls0ojYig5njZVGiGzOwKjlP80qBQPCDAmvOGGHX8GrC8StODHd8zTnJE4Ko&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQLa90bhDoZR3Dvq2IdVkYZBJwGK8FVJ3EeZhmmsyzAoR7x4TmQjFBMGe7eTphdoYKB3V3RhQLSZdw&oh=00_AQFvxrZGdYLJ6wWDmjDN7QyOGvSfIxOLs40AgKCUVhiYow&oe=6A8B722A",
+      "publishedDate": "2026-08-17T01:39:46+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619428163526777",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619427846860142",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/774476401_1619427810193479_9201464581207281926_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kDi7vWeq0q4Q7kNvwFJv8dV&_nc_oc=AdpYsMxf8TkAZlxAn4nfCapnY7cf1W8XPPIzfdpY048QyjMJmibiQuHt_5IdJOU3Pqc&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQIwhDdmach5G7VBBGRNNK4FugDxgcIH7SqIIoENxoORj-08Dk8924ZfWSNPSp7wcPhyKr2TyJrYDw&oh=00_AQE9eiwvRFLMlAPXyIVbWr5qg3eAWJqkwc21E1LjmB1hdg&oe=6A8B6AA9",
+      "publishedDate": "2026-08-17T01:39:18+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619427846860142",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619427333526860",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-3.fna.fbcdn.net/v/t39.30808-6/775495287_1619427286860198_1922644506803186964_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tQbW3Tz13XQQ7kNvwGcvCzC&_nc_oc=AdpaeamQXkWSHuD3QRIGT5-elhOkFdeTguV6IwLbIlzJr6GK7xC9fxHIRzFQI14-ZAA&_nc_zt=23&_nc_ht=scontent.fcgy2-3.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQLNtIczLUUyFvz-DO4ovDA8b4STQTr_o5hHlBSd9gziWCUkkc1ChqV52QmuSBAaRbLUs-NeJCi3CQ&oh=00_AQH1ItaH4js0749XC2mxCBuwt0NG1cSRU9QdaDa9N_IRwQ&oe=6A8B87B8",
+      "publishedDate": "2026-08-17T01:38:57+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619427333526860",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1619426993526894",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/778728015_1619426863526907_8547263122032581511_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qRNSI61hVxoQ7kNvwHiOOgq&_nc_oc=AdrK4DN9dSmbDsmW4P5SFS8yJ27gM58Q7SEHZVfWSvUY358EL709aexwDObmB85HCd4&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQKUT8Qf8j_7AnAWlI46KWrXtUQ5Tf-EehW2lbqbnH4Re2uNCJpC63DpEUfghwmg1QCoB6UfSHlSwA&oh=00_AQHVAHJ-zcCZ81A0HYJAxudRwQdI9faSI6EoxJ7OtDvRig&oe=6A8B824B",
+      "publishedDate": "2026-08-17T01:38:27+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1619426993526894",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1655287309578299",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 17 (MONDAY) August 2026 headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t15.5256-10/774575332_1072736738466831_5063334645341572517_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=032300&_nc_eui2=AeFTwjx5YCIJx2jLsbckjMGNbzg_xbsDj6dvOD_FuwOPp8--mmoZn6gM0BRjog5hAX_f44cbl-iJpTPTOHwmexmc&_nc_ohc=pNCOuzU_LhMQ7kNvwHC9wj_&_nc_oc=AdoFZDm_8z7GcMe43NQO5VDvNQuzvnvxcwcbDES7jTdSRs0nwf9-Sfw9w9ld_IawfB4&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQIEi0Vi01YwOmBiIeHFeF2kcjSqwwV2wRjaqLojejWjE9YP-BWgUxMNE2gWFqSEVzsLE_aBJf1_1g&oh=00_AQEBXG7tLsrDkmGx6xTC5L3IkArKx6QitYoWizP_j23urQ&oe=6A8B94DB",
+      "publishedDate": "2026-08-16T21:23:16+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1655287309578299",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1067243719152289",
+      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
+      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n\n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay Municipal Fire Station (MFS) Shift A duty personnel responded to a medical emergency in Barangay Azusano, Titay, Zamboanga Sibugay. Upon receipt of the report, Shift A duty personnel were immediately dispatched and proceeded to the scene to provide the necessary emergency medical assistance.  Upon arrival at the scene, the responding team found a female patient lying supine on a bed and unresponsive. \n\nA primary assessment was immediately conducted to evaluate her airway, breathing, circulation, level of consciousness, and overall condition.  Immediate life-saving measures were initiated by maintaining a patent airway and performing cardiopulmonary resuscitation (CPR) at a ratio of 30 chest compressions to 2 ventilations per cycle. \n\nThe patient's condition and response to resuscitation efforts were continuously monitored throughout the intervention.  The patient was immediately transported via BFP ambulance to Dr. George T. Hofer Medical Center, Barangay Tenan, Ipil, Zamboanga Sibugay, for further medical evaluation, treatment, and management. Resuscitative measures and continuous monitoring were maintained as appropriate during transport. \n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n\n#SaBFPLigtasAngMayAlam\n\n#TitayMFS\n\n#EmergencyMedicalResponse\n\n#WeServeToSave",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/774666594_1067644605778867_2762560255684589192_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF0QBwwReBNW4zA2jsl4bteSNQ3XCU_zcdI1DdcJT_Nxx9uUE9_yWYNQ-aFKbX4AqeyHYd6Y135OCW0oJV6edPO&_nc_ohc=x5lQNjj3vm4Q7kNvwETYv-9&_nc_oc=Adq1bbPNhzjDVFturlHRynECi4Kj8ltD00ky3uzN70Q6ZUg3I2sV6BDZgkgW3Pp0ueA&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQIVRMmO7NuUrjn83q_c8huz1zxm8TnkTh8b3kNMewwmCf5dmqgxpk9HA9Pp6kaIoXf0vtTbgYy4EQ&oh=00_AQHyAThQ4TbOg7NsEgOg1n9mzIwQbaOE0LAs03hVXWNjvQ&oe=6A8B8B0A",
+      "publishedDate": "2026-08-16T12:04:37+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1067243719152289",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1067093752500619",
+      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
+      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay Municipal Fire Station (MFS) Shift A duty personnel responded to a medical emergency at Barangay San Antonio, Titay, Zamboanga Sibugay. Shift A duty personnel were immediately dispatched and promptly responded to the scene to provide the necessary emergency medical assistance.   \nUpon arrival at the scene, the responding team found an 8-month-old infant, conscious, pale looking and tachypneic with a history of 10 episodes of vomiting.  mmediate first aid was rendered by maintaining a patent airway and placing the patient in a lateral position to reduce the risk of aspiration and airway obstruction.  The patient was immediately transported via BFP Ambulance to Dr. George T. Hofer Medical Center, Barangay Tenan, Ipil, Zamboanga Sibugay, for further medical evaluation, treatment, and management.  \n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/775048374_1067092069167454_2864889728235183685_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGFISQo-EedNO-WXwpAFed3oUGhn5SdfrGhQaGflJ1-sZhhs0rxTjfzQ-UonvOMCf1WUKLBARAlSoPGvABWdOqK&_nc_ohc=qhWowMBYlSAQ7kNvwHr5qxA&_nc_oc=AdoS-wqV0-wP0S2UaBHp9fTY3ImjOMjyUHOrrtO_yUK9nTqw-gzMtNewv7qozRVnZyY&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQKs2FLOPaxhCz4FqjSJUoEVmwy1h4HNIt1O0q2DHQPX2ZeWGpT2RH6CZN5Jn15pfHYyOQdDCZ0TYw&oh=00_AQHbZAteg2rNcFp0HYPlqv4nSR7C5gD2vZSt-6cgH2zTuQ&oe=6A8B7635",
+      "publishedDate": "2026-08-16T07:55:07+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1067093752500619",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618571223612471",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL:\nAugust 16, 2026 @ about 9:38 AM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay Updates\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatrolaugust2026\n#pro9mobilepatrolaugust162026\n#zsbppomobilepatrolaugust162026\n#titaympsmobilepatrolaugust162026",
+      "imageUrl": "https://scontent.fcgy2-4.fna.fbcdn.net/v/t15.5256-10/774042271_4626915700963878_2372693028426921020_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5ixe9wT2H_oQ7kNvwE8WaxI&_nc_oc=AdpeHX6wxxTISJxJ5xHhW5ItKx1BtW3rJXFMGCkgqM8X9LFiFuu8bzxigGJpNAEut4I&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQK8Y7T-vjs-4dh9YXbEy7jQExN2B29gQ_VGq9lMMdvAZLoeH9woilV-1zg9Cvzmnt3O8rGujZbnCQ&oh=00_AQFMhr-U6-TGLp_XbN5Bbs4XwGjMcIMf9u0KgCPSVIiuiA&oe=6A8B70ED",
+      "publishedDate": "2026-08-16T03:01:26+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1091988933387945/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618482716954655",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/774471217_1618482626954664_4721570806634196240_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CTF4Cp_8u64Q7kNvwHaas-Q&_nc_oc=AdrpXWKYcVVQ0iih2dWTZjtPhoKD-qvXjco0Lt7rsSfRj2yFGYQd0QJYEK-G-QNyXjk&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQKGLjOause30giHMS-vvOrYF11yXx50Ke9Sqa_LSK6_w9WNgjKfGMw6wUyCvE-SovF38s5W_2pTLQ&oh=00_AQFpphrFTtkSqo9BkkZ3-eC9pIq-J2crJCyc4aWY3fcPuA&oe=6A8B773A",
+      "publishedDate": "2026-08-16T00:16:15+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618482716954655",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618482366954690",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/774597535_1618482330288027_7936916877100092885_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uh3nqVymPZgQ7kNvwG2--_4&_nc_oc=AdrJkfeH6KEi8ZqAmSh7wnX9qnXQZlEl9I5IFMuplfJcL9ds7xxhuXXQegHsojVgwkc&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQJErNqoxnPv34HZGD3RkN-I5AJg_wXGKqQZQW1neIzsv64dwfclw-VJxlgdJK02YRql_wtB-10eCA&oh=00_AQHdijCFSfu8Z_PYvDIvlYJ8R9EJ6CzaI2qPCaPJPT6J6Q&oe=6A8B95A3",
+      "publishedDate": "2026-08-16T00:15:42+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618482366954690",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618482046954722",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/776324183_1618482016954725_2879342458487504581_n.webp?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6Qrz4meR5KgQ7kNvwEON_jz&_nc_oc=AdqVY00m4dky0lkDGudJ76VH9zdDfsa9OCIQREp9PkMy6WsUnT8564crj_Hvg9mE16Y&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQKo9evlKFzKh-QEn7yaRPs5Krqc-P4Ns7togxluTOQAV3_W1cAeiPM6P1FIzYknwriLddYIIaXXew&oh=00_AQH0dG-R0Fwv6tOyl5UEmNsA9Gaq_ifHdptF0SHOVv9lrw&oe=6A8B84B6",
+      "publishedDate": "2026-08-16T00:15:10+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618482046954722",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618481923621401",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/775973354_1618481843621409_516733913593827066_n.webp?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HMnZE1mF34oQ7kNvwF0n2K2&_nc_oc=AdrThhsT1PDNuDIcJyuE6VCFycpXr4IHzFdTPhS1ClDBZ4tWz_IVlh8BPuDJ6gBWeYM&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQIcVFbBwF_jRvptr4We8_5ulsKGhnFLEYLZk2_6wvoQy9TMuVwuBXG4_MVi0nD5gRYiGKmPhg8bJw&oh=00_AQH0S9ypCco7bcWIRdsZoA4jreahK7-w5CN9gNF1DY1oaA&oe=6A8B8214",
+      "publishedDate": "2026-08-16T00:14:50+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618481923621401",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618481700288090",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": null,
+      "publishedDate": "2026-08-16T00:14:31+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618481700288090",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618481496954777",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/774314702_1618481446954782_871978841748398431_n.webp?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7YeOuiqS2TcQ7kNvwE9F3Rz&_nc_oc=Adoj_LkBqCOf-7AoZkqWVFiS_erLufNouKKQA15BJzSka0wsC4VkiDN38sE4qc2_zGE&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQIaLz9TGP99j_hCCW6woDAEZpWN89IfURrrTxwcRODpm6OrM54VaIv_M2vHZuaUfuGF1_URqr6hsQ&oh=00_AQFMiXGHBZAQitoGUE9dIXj_-0ZcFJ2ECzpfe5DlGXxqaw&oe=6A8B8BDF",
+      "publishedDate": "2026-08-16T00:14:14+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618481496954777",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618481213621472",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/774513198_1618481130288147_4822868186236752786_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vpL82FRZxuUQ7kNvwE56LW9&_nc_oc=AdoN-aCmMWQYPbvEKsMOtcChD_5lgTdMC4JD0HQHhovM4RiPBAtaoLYbmJatSk5P7lw&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQJYEMrHHux_nlLitm-rNufszWT1DnXnZ58AbefMw8RWKsP7e4izsViXJMBxAjJSNNNTi2-KLVKoJA&oh=00_AQE004ABKd3IRzMiT8FscmjWkskF95m4T7fgVtOMrO9ABQ&oe=6A8B91A7",
+      "publishedDate": "2026-08-16T00:13:54+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618481213621472",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1618042810331979",
+      "title": "FOOT PATROL:",
+      "summary": "FOOT PATROL:\nAugust 15, 2026 @ about 8:16 AM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Foot Patrol and distribution of IEC materials at Barangay Poblacion, Titay, Zamboanga Sibugay \n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n“In case of emergency call 911” \n#dofootpatrolaugust2026\n#pro9footpatrolaugust152026\n#zsbppofootpatrolaugust152026\n#titaympsfootpatrolaugust152026",
+      "imageUrl": "https://scontent.fcgy2-4.fna.fbcdn.net/v/t15.5256-10/774993803_28395489776735586_8606238651846764900_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hlf2C7qE_oIQ7kNvwGm3JVh&_nc_oc=Adq4za9KQK0NmAqBomai--OhZo4_TkK9_tP_xg7s9Y_zbq4Fen8mjyQ1Cr1vW63iiJ0&_nc_zt=23&_nc_ht=scontent.fcgy2-4.fna&edm=AKIiGfEEAAAA&_nc_gid=FSXGDsgdLog-1rEJc-a8tg&_nc_tpa=Q5bMBQIKfOiorxlA82LFYOPk-2RbVZstTHSFjC6ZNP6PqLs_BKGZ6JRUeGfm0U1m1SEe5_4oAVuFOlyzZg&oh=00_AQFLBdk2gdWe4leDpvgBXARUh2peqFtmq1BokEjh2Lw21w&oe=6A8B6A0B",
+      "publishedDate": "2026-08-15T13:55:02+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1354500710185976/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1353919806913402",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 15 (SATURDAY) August 2026 headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t15.5256-10/771207803_1583586473486746_389466865187582121_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_eui2=AeGUIkkIkk5HYUBid1wVRCp6JxKSt4b4CZwnEpK3hvgJnDaapLiWLRI6CM7eiIbmRU4fBdnPPSgcIIZHSW2zhoGG&_nc_ohc=59wyhz4k1gsQ7kNvwEQ-zXR&_nc_oc=Adp55ybjt4CR88RIxgH4BYAJhZZgX7zrB_y21j0Cl6bzk3HQTRFVZqbdOwyKuyMxfgc&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQKt2hQYSMhZTdpIsVIkVyha-FklG6I-bR2P144XCpJGq0JiADVVC1XA_i_bWYJZLZbyMWjnirYXWA&oh=00_AQEX4ZrSXZX9MsjHIH2Mf7cX5SA8_Q_to0XF8Zi3BxnjrA&oe=6A8B8A1A",
+      "publishedDate": "2026-08-14T21:35:16+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1353919806913402",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1780995063258708",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 14 (FRIDAY) August 2026 headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t15.5256-10/772888872_930766273407980_933767435460109166_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=032300&_nc_eui2=AeFScDGkuwtk1skTjfnSsFy5Z4u66PW5Xwhni7ro9blfCApFl_cxtmi7vOGzjzoa3N7ilMZwUnU69QF7eHwOIk-y&_nc_ohc=4_g4XQIknR8Q7kNvwFPcKZe&_nc_oc=Adr-qjgxXckXPxI9QsSPhkyGu6Wm2C6TPIk63cs-0klxAAsYOkfbCEqM1s-A2PhCQZM&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&edm=AKIiGfEEAAAA&_nc_gid=UewkoxFXCLBZdFCoGXE32A&_nc_tpa=Q5bMBQK8xZsRaSye2REXOLrp7wB7_kiomZpX-yqr9P_2aPDXuN9Uz77EH0nVbEJ-D3-nKu1r6VUzsByRWg&oh=00_AQFKQtBYnpPuX1H_a4x6DQPnJBsMZm1Y_u5wcCd1Bcu78Q&oe=6A8B5ED2",
+      "publishedDate": "2026-08-13T21:13:43+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1780995063258708",
+      "source": "BFP Titay"
+    },
     {
       "id": "news1",
       "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 ",
@@ -140,14 +394,6 @@
       "imageUrl": "https://scontent.fceb1-4.fna.fbcdn.net/v/t39.99422-6/734622864_1026494120029807_3727868997145974335_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W7eALu-LdzQQ7kNvwEdl2tA&_nc_oc=AdqOdojhgqnTXogDAOtbY20QDYikNuhyDU4jwG_VLZGwrkOxUIE19o-XdoVevOAfP8O2pfwJJVv-rqe0ITkDAi0y&_nc_zt=14&_nc_ht=scontent.fceb1-4.fna&_nc_gid=Uzs7SkTR3JkWnmbyyOggoA&_nc_ss=7b2a8&oh=00_AQDjzqSuOcmeQjk2PlaWPZTQ4pk64F44LNxZkd5gUmTsGA&oe=6A53835F",
       "publishedDate": "July 08, 2026",
       "fullContentUrl": "https://www.facebook.com/share/p/192mFvdCn9/"
-    },
-    {
-      "id": "news10",
-      "title": "𝐑𝐢𝐬𝐢𝐧𝐠 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐬 𝐎𝐯𝐞𝐫 𝐘𝐨𝐮𝐭𝐡-𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐎𝐟𝐟𝐞𝐧𝐬𝐞𝐬",
-      "summary": "𝘗𝘦𝘳𝘴𝘰𝘯𝘯𝘦𝘭 𝘰𝘧 𝘛𝘪𝘵𝘢𝘺 𝘔𝘶𝘯𝘪𝘤𝘪𝘱𝘢𝘭 𝘗𝘰𝘭𝘪𝘤𝘦 𝘚𝘵𝘢𝘵𝘪𝘰𝘯, 𝘶𝘯𝘥𝘦𝘳 𝘵𝘩𝘦 𝘭𝘦𝘢𝘥𝘦𝘳𝘴𝘩𝘪𝘱 𝘰𝘧 𝙋𝙈𝘼𝙅 𝘼𝙍𝙉𝙊𝙇𝘿 𝘼 𝙀𝙎𝙋𝘼𝙍𝙀𝙎, 𝘼𝘾𝙊𝙋, 𝘳𝘦𝘮𝘢𝘪𝘯 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘪𝘯 𝘦𝘯𝘴𝘶𝘳𝘪𝘯𝘨 𝘵𝘩𝘦 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘢𝘯𝘥 𝘴𝘢𝘧𝘦𝘵𝘺 𝘰𝘧 𝘰𝘶𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵𝘴 𝘣𝘺 𝘪𝘯𝘵𝘦𝘯𝘴𝘪𝘧𝘺𝘪𝘯𝘨 𝘦𝘧𝘧𝘰𝘳𝘵𝘴 𝘵𝘰 𝘱𝘳𝘦𝘷𝘦𝘯𝘵 𝘺𝘰𝘶𝘵𝘩-𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘰𝘧𝘧𝘦𝘯𝘴𝘦𝘴. 𝘛𝘩𝘳𝘰𝘶𝘨𝘩 𝘪𝘯𝘤𝘳𝘦𝘢𝘴𝘦𝘥 𝘱𝘰𝘭𝘪𝘤𝘦 𝘷𝘪𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘺, 𝘴𝘤𝘩𝘰𝘰𝘭 𝘷𝘪𝘴𝘪𝘵𝘴, 𝘢𝘯𝘥 𝘤𝘭𝘰𝘴𝘦 𝘤𝘰𝘰𝘳𝘥𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘴𝘤𝘩𝘰𝘰𝘭 𝘢𝘶𝘵𝘩𝘰𝘳𝘪𝘵𝘪𝘦𝘴 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺, 𝘛𝘪𝘵𝘢𝘺 𝘔𝘗𝘚 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘦𝘴 𝘵𝘰 𝘶𝘱𝘩𝘰𝘭𝘥 𝘪𝘵𝘴 𝘤𝘰𝘮𝘮𝘪𝘵𝘮𝘦𝘯𝘵 𝘵𝘰 𝘱𝘳𝘰𝘷𝘪𝘥𝘪𝘯𝘨 𝘢 𝘴𝘢𝘧𝘦 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵 𝘧𝘰𝘳 𝘢𝘭𝘭 𝘭𝘦𝘢𝘳𝘯𝘦𝘳𝘴.\r\n#BagongPNPparaSaBagongPilipinas\r\n#serbisyongmabilistapatatnararamdaman\r\n#ToServeandProtect ",
-      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/730398211_1567586368710957_8243928313686714196_n.jpg?stp=dst-jpg_tt6&cstp=mx1365x2048&ctp=p526x296&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHzmRgVo8gO932Cb-aNPtSGuKo1WpV2zta4qjValXbO1sMXrvqQe-7lp746Ep3makW87st9x2qSfKFhHewjdD9d&_nc_ohc=Z-T77At4ESwQ7kNvwF3K1LZ&_nc_oc=AdrjcCBYiwoQtfP5j-lyeZOI3UX3hE8uEcR0zm1459elPN58RUn2GaTRp_Gsji_vFSWyIjHrV3TiysY7gpDUa5zA&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&_nc_gid=YmVEptXPDERTq5_QKCcaeA&_nc_ss=7b2a8&oh=00_Af8GFBFo7e92TBCwQiPdDXo0QXjVRRzcwO_qdzGGSlda9Q&oe=6A47BC0E",
-      "publishedDate": " 29 June 2026",
-      "fullContentUrl": "https://www.facebook.com/share/p/18uahjpj7X/"
     },
     {
       "id": "news2",
@@ -212,6 +458,14 @@
       "imageUrl": "https://scontent.fceb1-1.fna.fbcdn.net/v/t39.30808-6/739800186_1579737377495856_7073909158262309007_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=VbiHJhBiIYoQ7kNvwFHJvi0&_nc_oc=AdpvNFa39LB7LUD2sXmxfQs9qYbJh04PinKJpMJ6n1GtHy86h3ZzCh-DIpmc2hdHeU8EnAX1Dbc-1UhlyyWYtwZS&_nc_zt=23&_nc_ht=scontent.fceb1-1.fna&_nc_gid=4Eg5BKaTmC9jn-8KS_BLbQ&_nc_ss=7b2a8&oh=00_AQDchkcbiRv7IMxT0aBzdhcZae9SKdIimJr0_TyyXRLqPg&oe=6A5385A9",
       "publishedDate": "July 08, 2026",
       "fullContentUrl": "https://www.facebook.com/share/p/18wkQ9cw48/"
+    },
+    {
+      "id": "news10",
+      "title": "𝐑𝐢𝐬𝐢𝐧𝐠 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐬 𝐎𝐯𝐞𝐫 𝐘𝐨𝐮𝐭𝐡-𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐎𝐟𝐟𝐞𝐧𝐬𝐞𝐬",
+      "summary": "𝘗𝘦𝘳𝘴𝘰𝘯𝘯𝘦𝘭 𝘰𝘧 𝘛𝘪𝘵𝘢𝘺 𝘔𝘶𝘯𝘪𝘤𝘪𝘱𝘢𝘭 𝘗𝘰𝘭𝘪𝘤𝘦 𝘚𝘵𝘢𝘵𝘪𝘰𝘯, 𝘶𝘯𝘥𝘦𝘳 𝘵𝘩𝘦 𝘭𝘦𝘢𝘥𝘦𝘳𝘴𝘩𝘪𝘱 𝘰𝘧 𝙋𝙈𝘼𝙅 𝘼𝙍𝙉𝙊𝙇𝘿 𝘼 𝙀𝙎𝙋𝘼𝙍𝙀𝙎, 𝘼𝘾𝙊𝙋, 𝘳𝘦𝘮𝘢𝘪𝘯 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘪𝘯 𝘦𝘯𝘴𝘶𝘳𝘪𝘯𝘨 𝘵𝘩𝘦 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘢𝘯𝘥 𝘴𝘢𝘧𝘦𝘵𝘺 𝘰𝘧 𝘰𝘶𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵𝘴 𝘣𝘺 𝘪𝘯𝘵𝘦𝘯𝘴𝘪𝘧𝘺𝘪𝘯𝘨 𝘦𝘧𝘧𝘰𝘳𝘵𝘴 𝘵𝘰 𝘱𝘳𝘦𝘷𝘦𝘯𝘵 𝘺𝘰𝘶𝘵𝘩-𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘰𝘧𝘧𝘦𝘯𝘴𝘦𝘴. 𝘛𝘩𝘳𝘰𝘶𝘨𝘩 𝘪𝘯𝘤𝘳𝘦𝘢𝘴𝘦𝘥 𝘱𝘰𝘭𝘪𝘤𝘦 𝘷𝘪𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘺, 𝘴𝘤𝘩𝘰𝘰𝘭 𝘷𝘪𝘴𝘪𝘵𝘴, 𝘢𝘯𝘥 𝘤𝘭𝘰𝘴𝘦 𝘤𝘰𝘰𝘳𝘥𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘴𝘤𝘩𝘰𝘰𝘭 𝘢𝘶𝘵𝘩𝘰𝘳𝘪𝘵𝘪𝘦𝘴 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺, 𝘛𝘪𝘵𝘢𝘺 𝘔𝘗𝘚 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘦𝘴 𝘵𝘰 𝘶𝘱𝘩𝘰𝘭𝘥 𝘪𝘵𝘴 𝘤𝘰𝘮𝘮𝘪𝘵𝘮𝘦𝘯𝘵 𝘵𝘰 𝘱𝘳𝘰𝘷𝘪𝘥𝘪𝘯𝘨 𝘢 𝘴𝘢𝘧𝘦 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵 𝘧𝘰𝘳 𝘢𝘭𝘭 𝘭𝘦𝘢𝘳𝘯𝘦𝘳𝘴.\r\n#BagongPNPparaSaBagongPilipinas\r\n#serbisyongmabilistapatatnararamdaman\r\n#ToServeandProtect ",
+      "imageUrl": "https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/730398211_1567586368710957_8243928313686714196_n.jpg?stp=dst-jpg_tt6&cstp=mx1365x2048&ctp=p526x296&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHzmRgVo8gO932Cb-aNPtSGuKo1WpV2zta4qjValXbO1sMXrvqQe-7lp746Ep3makW87st9x2qSfKFhHewjdD9d&_nc_ohc=Z-T77At4ESwQ7kNvwF3K1LZ&_nc_oc=AdrjcCBYiwoQtfP5j-lyeZOI3UX3hE8uEcR0zm1459elPN58RUn2GaTRp_Gsji_vFSWyIjHrV3TiysY7gpDUa5zA&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&_nc_gid=YmVEptXPDERTq5_QKCcaeA&_nc_ss=7b2a8&oh=00_Af8GFBFo7e92TBCwQiPdDXo0QXjVRRzcwO_qdzGGSlda9Q&oe=6A47BC0E",
+      "publishedDate": " 29 June 2026",
+      "fullContentUrl": "https://www.facebook.com/share/p/18uahjpj7X/"
     }
   ]
 }
