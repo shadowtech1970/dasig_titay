@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122185826120935139",
+      "title": "Blessing of the New Self-Loading Truck.",
+      "description": "Blessing of the New Self-Loading Truck.\n\nAnother valuable addition to the growing fleet of equipment of the Municipality of Titay, ready to support our operations and better serve our people. Daghang salamat, Mayora DONRIO Martinez for this new equipment and for your continued commitment to improving public service.\n\nOur heartfelt thanks as well to Rev. Fr. Ian Pamintuan for leading the blessing, and to the people of Titay for your unwavering support and trust. Together, we continue building a more responsive and progressive Titay. \n\nDasig Kanunay, Dasig Titay.💙\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122185826120935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122185826120935139"
+    },
     {
       "id": "fb-751559508033473_122185525838935139",
       "title": "Acoustic Night at the Municipality of Titay.❤️",
@@ -116,16 +123,18 @@
       "description": "🌱 NUTRITION & NATURE HAND IN HAND: 52nd Nutrition Month Culmination Program 🌱\n\nThe Municipality of Titay successfully celebrated the 52nd Nutrition Month Culmination Program carrying the meaningful theme: “Nutrisyon at Kalikasan Ating Pangalagaan.” 💚🌾\n\nThis momentous occasion was made possible through the visionary leadership of our Honorable Mayor DONRIO Martinez Castillo, alongside the dedication of event manager Ma’am Analiza Bornales, with special recognition and acknowledgment to Ma’am Nimfa D. Ekong, our REGIONAL Nutrition Program Coordinator.\n\nA heartfelt thank you to all 30 Barangays, our dedicated Barangay Captains, local officials, and every single Titayanon who joined, supported, and participated in making this event a grand success! Together, we continue to promote healthy living and environmental stewardship for a stronger, healthier Titay.\n\n#52ndNutritionMonth #NutrisyonAtKalikasan #NutritionMonth2026 #DasigTitay",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122183396468935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122183396468935139"
-    },
-    {
-      "id": "fb-751559508033473_122183236202935139",
-      "title": "𝐒𝐓𝐀𝐓𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐍𝐈𝐂𝐈𝐏𝐀𝐋𝐈𝐓𝐘 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 | 𝐇𝐎𝐍. 𝐃𝐎𝐍…",
-      "description": "𝐒𝐓𝐀𝐓𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐍𝐈𝐂𝐈𝐏𝐀𝐋𝐈𝐓𝐘 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 | 𝐇𝐎𝐍. 𝐃𝐎𝐍𝐑𝐈𝐎 𝐌𝐀𝐑𝐓𝐈𝐍𝐄𝐙 - 𝐂𝐀𝐒𝐓𝐈𝐋𝐋𝐎\n\nA year of meaningful progress guided by D.O.N.R.I.O.—Development, Opportunities, Neighborhood Welfare, Resilience, Inclusion, and Oneness.\n\nHon. Riorita “DONRIO” Martinez Castillo delivered her State of the Municipality Address (SOMA), highlighting the Municipality of Titay’s accomplishments and shared vision for a stronger and more progressive community.\n\nDasig Titay! 💙❤️\n\n#SOMA2026 \n#DASIGTITAY\n#DONRIO",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122183236202935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122183236202935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1622610673208526",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL:\nAugust 20, 2026 @ about 3:24 PM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay Updates\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n\n“In case of emergency call 911”\n\n#domobilepatrolaugust2026\n#pro9mobilepatrolaugust202026\n#zsbppomobilepatrolaugust202026\n#titaympsmobilepatrolaugust202026 See less",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1622610673208526.jpg",
+      "publishedDate": "2026-08-20T09:58:56+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/2117999912462789/",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1069476152262379",
       "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
@@ -358,15 +367,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1618481213621472.jpg",
       "publishedDate": "2026-08-16T00:13:54+0000",
       "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1618481213621472",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1618042810331979",
-      "title": "FOOT PATROL:",
-      "summary": "FOOT PATROL:\nAugust 15, 2026 @ about 8:16 AM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Foot Patrol and distribution of IEC materials at Barangay Poblacion, Titay, Zamboanga Sibugay \n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n“In case of emergency call 911” \n#dofootpatrolaugust2026\n#pro9footpatrolaugust152026\n#zsbppofootpatrolaugust152026\n#titaympsfootpatrolaugust152026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1618042810331979.jpg",
-      "publishedDate": "2026-08-15T13:55:02+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/1354500710185976/",
       "source": "PNP Titay"
     },
     {
