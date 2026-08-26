@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -34,9 +34,23 @@
   ],
   "advertisements": [
     {
+      "id": "fb-751559508033473_122186701334935139",
+      "title": "A view of the sunset at Mount Gampoy, Culasian, Titay, Zamboanga Sibugay.",
+      "description": "A view of the sunset at Mount Gampoy, Culasian, Titay, Zamboanga Sibugay.\n\nLove Titay. Dasig Titay.❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122186701334935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1617527226758792/"
+    },
+    {
+      "id": "fb-751559508033473_122186664770935139",
+      "title": "Because birthdays are a celebration of love—of loving and being loved—one beaut…",
+      "description": "Because birthdays are a celebration of love—of loving and being loved—one beautiful way of manifesting that love is through heartfelt greetings and well wishes. ❤️\n\nHere are some of the warmest birthday wishes and greetings from our LGU Family to our beloved Municipal Mayor, Hon. DONRIO Martinez🎂🎉\n\nMay these messages remind you of the love, gratitude, and appreciation of the people you serve. Happy Birthday, Mayora! ❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122186664770935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1842729803763697/"
+    },
+    {
       "id": "fb-751559508033473_122186584826935139",
       "title": "Happy Birthday, Mayora DONRIO Martinez-Castillo!",
-      "description": "Happy Birthday, Mayora DONRIO Martinez-Castillo! \n\nThank you for leading with a heart that never gets tired of serving, for turning dreams into action, and for inspiring every Titayan to carry the DASIG spirit—to move forward with courage, hope, unity, and love for our community.\n\nMay you continue to be blessed with good health, wisdom, strength, and countless reasons to smile. May the Lord bless your journey and give you many more years to serve and inspire the people of Titay.\n\nHappy Birthday, Mayora DONRIO! May the DASIG spirit in you continue to shine and inspire us all. ❤️\n\n#DASIGTITAY",
+      "description": "Happy Birthday, Mayora DONRIO Martinez-Castillo! \n\nThank you for leading with a heart that never gets tired of serving, for turning dreams into action, and for inspiring every Titayanon to carry the DASIG spirit—to move forward with courage, hope, unity, and love for our community.\n\nMay you continue to be blessed with good health, wisdom, strength, and countless reasons to smile. May the Lord bless your journey and give you many more years to serve and inspire the people of Titay.\n\nHappy Birthday, Mayora DONRIO! May the DASIG spirit in you continue to shine and inspire us all. ❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122186584826935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122186584826935139"
     },
@@ -123,16 +137,27 @@
       "description": "Brighter Nights at Titay Wet Market!\n\nStreetlights are now installed at the Titay Wet Market, making the area brighter, safer, and more welcoming for our vendors and the community.\n\nDaghang salamat, Mayora DONRIO Martinez Castillo, for continuously bringing meaningful improvements to Titay. 💙\n\nPara sa Titay, DASIG!\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122183981090935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1376697461277224/"
-    },
-    {
-      "id": "fb-751559508033473_122183972048935139",
-      "title": "OFFICIALLY GRADUATED!",
-      "description": "OFFICIALLY GRADUATED!\n\nOn the final day of our Filipino Brand of Service Excellence (FBSE) Training, we were honored to be joined by our Municipal Mayor, Hon. Riorita DONRIO Martinez Castillo, as our local vendors, business owners, and tourism stakeholders wrapped up this meaningful learning experience.\n\nOur heartfelt thank you to the Department of Tourism Region IX (DOT-IX) for bringing this valuable training closer to our local entrepreneurs and for continuously supporting the growth of tourism in Titay.\n\nDaghang salamat to RD Dara May L. Cataluña, Nerissa Ong, Sir JM Sta. Teresa, and our resource speaker Sir Gil Regondola for sharing your expertise and inspiring our participants to deliver service with excellence and the true warmth of Filipino hospitality.\n\n #DasigTitay",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122183972048935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/2314518942718332/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp2-1002128899657876_122120319873081011",
+      "title": "FIRE SAFETY TIP OF THE DAY",
+      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 26, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\n\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122120319873081011.jpg",
+      "publishedDate": "2026-08-26T02:00:13+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122120319873081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122120316543081011",
+      "title": "Aktibong Kabataan, Handa sa Sakuna.",
+      "summary": "Aktibong Kabataan, Handa sa Sakuna.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122120316543081011.jpg",
+      "publishedDate": "2026-08-26T00:52:23+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122120316543081011",
+      "source": "BFP RIX CRS Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1555033502222246",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
@@ -251,6 +276,15 @@
       "source": "PNP Titay"
     },
     {
+      "id": "fb-bfp2-1002128899657876_122120176929081011",
+      "title": "FIRE SAFETY TIP OF THE DAY",
+      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 24, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\n\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122120176929081011.jpg",
+      "publishedDate": "2026-08-24T02:00:16+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122120176929081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
       "id": "fb-bfp-111540694644827_1073616578515003",
       "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
       "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay Municipal Fire Station (MFS) Shift B duty personnel provided immediate medical assistance to a walk-in male patient who arrived at the station complaining of injuries sustained in a vehicular accident. Upon arrival, the patient underwent a physical assessment, which revealed abrasions on his left knee and right elbow.\nFirst aid was provided by thoroughly irrigating the wounds with normal saline solution, followed by the application of povidone-iodine (Betadine) and sterile gauze dressings to help prevent infection.\nThe patient refused transport to the nearest hospital for further medical evaluation. Duty personnel advised him of the importance of seeking immediate medical attention should his condition worsen. A Refusal of Transport Form (RTF) was thoroughly explained to the patient, which he acknowledged and signed.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
@@ -258,6 +292,15 @@
       "publishedDate": "2026-08-24T01:43:21+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1073616578515003",
       "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122120136417081011",
+      "title": "Ang Kaalaman ay Nagliligtas ng Buhay",
+      "summary": "Ang Kaalaman ay Nagliligtas ng Buhay",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122120136417081011.jpg",
+      "publishedDate": "2026-08-23T12:34:38+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122120136417081011",
+      "source": "BFP RIX CRS Titay"
     },
     {
       "id": "fb-pnp-101676331183641_1625054772964116",
@@ -377,6 +420,24 @@
       "source": "PNP Titay"
     },
     {
+      "id": "fb-bfp2-1002128899657876_122120032929081011",
+      "title": "Personnel of the Titay Municipal Fire Station (MFS) conducted emergency respons…",
+      "summary": "Personnel of the Titay Municipal Fire Station (MFS) conducted emergency response training for student leaders of Palomoc National High School on August 21, 2026, as part of the establishment and strengthening of the school's School Emergency Response Team (SERT).\n\nThe training equipped the student leaders with essential skills in firefighting, basic first aid, rescue, hazard identification, and emergency communication, preparing them to take an active role in keeping their school community safe during emergencies.\n\nREAD: https://titayfirestation.com/updates/2026/08/22/palomoc-nhs-student-leaders-step-up-as-school-emergency-responders/",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122120032929081011.jpg",
+      "publishedDate": "2026-08-22T05:52:29+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122120032929081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122120017167081011",
+      "title": "Building Leaders, Preparing for Emergencies!",
+      "summary": "Building Leaders, Preparing for Emergencies!\n\nTitay MFS trains the student leaders of Palomoc National High School to become capable and prepared School Emergency Response Team members. Through hands-on training and teamwork, students develop essential skills in emergency preparedness, first aid, evacuation and disaster response.\n\nTogether, we empower young leaders to respond, protect and save lives when it matters most.💪🧑‍🚒👩‍🚒 SSLG - Palomoc NHS\n\n#TitayMFS #PalomocNationalHighSchool #EmergencyResponseTeam #StudentLeaders #DisasterPreparedness #YouthEmpowerment #SafetyFirst",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122120017167081011.jpg",
+      "publishedDate": "2026-08-22T01:29:10+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1530708895472439/",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
       "id": "fb-bfp-111540694644827_1841847803468406",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
       "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 22 August 2026 (Saturday) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
@@ -395,13 +456,274 @@
       "source": "BFP Titay"
     },
     {
-      "id": "fb-bfp-111540694644827_1071151588761502",
-      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
-      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay Municipal Fire Station (MFS) Shift B duty personnel provided medical assistance to a walk-in male patient that arrived at the station complaining of a laceration on the upper left side of the head and an abrasion on the left shoulder sustained during a sports-related injury. He further stated that immediately after the incident, he experienced a seizure accompanied by a sensation of darkness in his surroundings, suggestive of a possible transient alteration of consciousness.\nThe lacerated wound was cleansed and dressed, and a sterile bandage was applied to protect the wound and minimize the risk of infection. The patient was then assisted in walking to the ambulance.\nThe patient was transported to Dr. George T. Hofer Medical Center for further medical evaluation and management.\nUpon arrival at Dr. George T. Hofer Medical Center, Tenan, Ipil, Zamboanga Sibugay, the patient was properly endorsed to the attending medical staff on duty.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1071151588761502.jpg",
-      "publishedDate": "2026-08-21T03:28:22+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1071151588761502",
-      "source": "BFP Titay"
+      "id": "fb-bfp2-1002128899657876_122119939719081011",
+      "title": "FIRE SAFETY TIP OF THE DAY",
+      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 21, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\n\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119939719081011.jpg",
+      "publishedDate": "2026-08-21T02:00:07+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119939719081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119881837081011",
+      "title": "🌿 Restore our environment. Protect our landscape.",
+      "summary": "🌿 Restore our environment. Protect our landscape.\n\nAt Matilum Cave, every cleanup is a step toward preserving nature, protecting our natural treasures, and keeping this beautiful destination safe for future generations. Let us explore responsibly, leave no trash behind, and be guardians of the environment. 🌱🪨\n\nProtect the cave. Protect nature. Protect our future.\n\n#MatilumCave #EnvironmentalProtection #CleanAndGreen #ProtectOurLandscape #BFP #TouristSafety",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119881837081011.jpg",
+      "publishedDate": "2026-08-20T09:14:45+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1788151459273218/",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119878417081011",
+      "title": "Cave Clean-Up and Safety Assessment at MaTiLum Cave",
+      "summary": "Cave Clean-Up and Safety Assessment at MaTiLum Cave\n\nOn August 20, 2026, the Titay Municipal Fire Station, headed by SFO4 Neil P Siaron, joined the Community Environment and Natural Resources Office (CENRO) of Kabasalan, MENRO Titay, and the Barangay Councils of Timalang, Mati, and Lumbia in a cave clean-up drive at MaTiLum Cave, with activities conducted both inside the cave and in its surrounding areas. As part of its safety mission, the BFP personnel also assessed the cave’s safety conditions and identified potential hazards to help ensure the safety of tourists and visitors.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119878417081011.jpg",
+      "publishedDate": "2026-08-20T08:23:31+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119878417081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119875915081011",
+      "title": "Tree Planting Activity at MaTiLum Cave",
+      "summary": "Tree Planting Activity at MaTiLum Cave\n\nOn August 20, 2026, the Titay Municipal Fire Station, headed by SFO4 Neil P Siaron, joined the Community Environment and Natural Resources Office (CENRO) of Kabasalan, MENRO Titay, and the Barangay Councils of Timalang, Mati, and Lumbia in a tree planting activity around the opening of MaTiLum Cave, promoting environmental protection, conservation, and community stewardship of the area.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119875915081011.jpg",
+      "publishedDate": "2026-08-20T08:14:10+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119875915081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119763283081011",
+      "title": "FIRE SAFETY TIP OF THE DAY",
+      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 19, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119763283081011.jpg",
+      "publishedDate": "2026-08-19T02:00:06+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119763283081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119662729081011",
+      "title": "Fire Safety on Demand Conducted in Barangay Pulidan",
+      "summary": "Fire Safety on Demand Conducted in Barangay Pulidan\n\nOn August 14, 2026, Titay Municipal Fire Station, headed by SFO4 Neil P Siaron, conducted a Fire Safety on Demand activity at Barangay Pulidan. The activity aimed to strengthen fire safety awareness among residents and promote preventive measures to reduce the risk of fire incidents in the community.\n\nThe activity provided an opportunity for firefighters to engage with the residents, discuss basic fire safety practices, and emphasize the importance of preparedness and vigilance in preventing fires. Through this initiative, Titay MFS continues to bring fire safety education closer to the community and encourage active participation in creating a safer and more fire-resilient barangay.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119662729081011.jpg",
+      "publishedDate": "2026-08-17T19:47:19+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119662729081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119609419081011",
+      "title": "TITAY SCHOOLS, GET READY TO SERTify!",
+      "summary": "TITAY SCHOOLS, GET READY TO SERTify!\n\nSFO4 Neil PSiaron met with Marilou B. Chio, EMD Public Schools District Supervisor, to strengthen coordination for the organization of the School Emergency Response Team (SERT).\n\nThis initiative marks another step toward building prepared, resilient, and disaster-ready schools in the Titay community.\n\nOne school. One team. One mission.\n\nTITAY SCHOOLS — SOON TO BE SERTified! 🚨",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119609419081011.jpg",
+      "publishedDate": "2026-08-17T04:13:32+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119609419081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119608495081011",
+      "title": "San Isidro Day Care is now SERTify: Ready. Alert. Act.",
+      "summary": "San Isidro Day Care is now SERTify: Ready. Alert. Act.\n\nRecognizing the vulnerability of young children during disasters, on August 14, 2026 Titay MFS personnel visited the remote San Isidro Day Care Center to conduct a fire and earthquake drill. The activity aimed to equip the children and daycare personnel with basic emergency preparedness and response measures, particularly in an area that is seldom reached by firefighters due to its distance.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119608495081011.jpg",
+      "publishedDate": "2026-08-17T04:06:42+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119608495081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119601811081011",
+      "title": "FIRE SAFETY TIP OF THE DAY",
+      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 17, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119601811081011.jpg",
+      "publishedDate": "2026-08-17T02:00:21+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119601811081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119600137081011",
+      "title": "Warmth Beyond the Flames",
+      "summary": "Warmth Beyond the Flames\n\nFirefighters don’t only fight fires, they bring warmth, hope, and love to the little hearts they serve. For every child we protect, we remind them that heroes are not only found in stories, but in those who choose to care",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119600137081011.jpg",
+      "publishedDate": "2026-08-17T01:30:21+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119600137081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119380471081011",
+      "title": "FIRE SAFETY TIP OF THE DAY",
+      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 14, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119380471081011.jpg",
+      "publishedDate": "2026-08-14T02:00:03+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119380471081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119324707081011",
+      "title": "The Titay Municipal Fire Station (MFS), through its Community Relations Section…",
+      "summary": "The Titay Municipal Fire Station (MFS), through its Community Relations Section and in collaboration with the Department of Social Welfare and Development (DSWD), conducted Fire Safety on Demand in Barangay New Canaan on August 8, 2026, bringing fire safety and disaster preparedness education closer to residents of one of the municipality's far-flung communities.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119324707081011.jpg",
+      "publishedDate": "2026-08-13T08:53:04+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119324707081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119317285081011",
+      "title": "FIRE SQUARE ROADSHOW BRINGS LIFE-SAVING SKILLS TO SANTA FE",
+      "summary": "FIRE SQUARE ROADSHOW BRINGS LIFE-SAVING SKILLS TO SANTA FE\n\nOn August 13, 2026, Titay Municipal Fire Station, headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal, brought the Fire Square Roadshow to Santa Fe, Titay, Zamboanga Sibugay, equipping participants with practical skills in basic firefighting, first aid, and rescue. The activity went beyond lectures as BFP personnel used engaging activities, hands-on demonstrations, and group exercises to encourage active participation and strengthen the participants’ confidence in responding to emergencies.\n\nThrough teamwork, practice, and real-life scenarios, the participants learned that disaster preparedness is not only about knowing what to do, but also having the courage, skills, and teamwork to act when lives are at risk.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119317285081011.jpg",
+      "publishedDate": "2026-08-13T07:32:23+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119317285081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122119311633081011",
+      "title": "TITAY MFS AND COMELEC STRENGTHEN READINESS IN ACHASOL",
+      "summary": "TITAY MFS AND COMELEC STRENGTHEN READINESS IN ACHASOL\n\nOn August 13, 2026, Titay Municipal Fire Station, in collaboration with the Commission on Elections (COMELEC), conducted a safety and disaster preparedness inspection at Achasol Elementary School in Barangay Achasol, Titay, Zamboanga Sibugay. The inspection assessed the school’s readiness for possible hazards, including fire, earthquake, flooding, and other emergencies, while ensuring its preparedness as a safe venue for the upcoming Barangay and Sangguniang Kabataan Elections.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119311633081011.jpg",
+      "publishedDate": "2026-08-13T06:59:31+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119311633081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122141596887246473",
+      "title": "Area Monitoring at Bagsakan Center",
+      "summary": "Area Monitoring at Bagsakan Center\n#TSKiyapo2026\n#LDRRMOinAction",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122141596887246473.jpg",
+      "publishedDate": "2026-07-24T10:54:41+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122141596887246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122141591793246473",
+      "title": "Area monitoring at Purok Malinawon , Poblacion Titay",
+      "summary": "Area monitoring at Purok Malinawon , Poblacion Titay\n#TSKiyapo2026\n#LDRRMOinAction",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122141591793246473.jpg",
+      "publishedDate": "2026-07-24T10:11:51+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122141591793246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122139052827246473",
+      "title": "EARTHQUAKE INFORMATION | PHIVOLCS ADVISORY",
+      "summary": "EARTHQUAKE INFORMATION | PHIVOLCS ADVISORY\n\nA Magnitude 2.3 earthquake was recorded by PHIVOLCS today, 26 June 2026, at 7:09 PM, with its epicenter located 18 km North 22° West of Sarangani Island, Davao Occidental, at a depth of 81 km.\n\nAt this magnitude, no damage and aftershocks are expected.\n\nAlthough this was a minor earthquake, it serves as a reminder that our municipality should always be prepared for any emergency.\n\n🔹 Safety Reminders:\n✅ Stay calm and avoid spreading unverified information.\n✅ Familiarize yourself with safe evacuation areas and emergency exits.\n✅ Prepare and maintain your emergency go bag.\n✅ During strong earthquakes, remember: DROP, COVER, and HOLD ON.\n✅ Follow only official updates from PHIVOLCS and LDRRMO-Titay.\n\nLet us remain vigilant and always practice disaster preparedness. Being prepared today can save lives tomorrow.",
+      "imageUrl": null,
+      "publishedDate": "2026-06-26T11:46:44+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122139052827246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122135908353246473",
+      "title": "🚨EMERGENCY RESPONSE UPDATE🚨",
+      "summary": "🚨EMERGENCY RESPONSE UPDATE🚨\n\nPersonnel from LDRRMO-Titay immediately responded to an emergency call around 1:00pm today (May 25,2026) reporting a fallen tree near the Petro Oil Gas Station located at Barangay Kitabog, Titay, Zamboanga Sibugay.\n\nThe team promptly conducted clearing operations and ensured the safety of motorists and nearby residents.\n\nUnder the leadership of George D. Carabaña Jr., the office remains committed to providing immediate response and public safety services at all times.\n\n#LDRRMOTitay #EmergencyResponse #SerbisyongAndam #KaluwasanUna #TitayZamboangaSibugay",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122135908353246473.jpg",
+      "publishedDate": "2026-05-25T05:45:11+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122135908353246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122132120919246473",
+      "title": "🚨 **EMERGENCY RESPONSE REPORT** 🚨",
+      "summary": "🚨 **EMERGENCY RESPONSE REPORT** 🚨\n\nAt approximately 12:30 PM on April 21, 2026, the LDRRMO Titay received an emergency call from Bazak Farm & Resort, Namnama, Titay.\n\nThe response team was immediately dispatched and arrived at the scene at around 12:35 PM. Upon assessment, it was determined that the victim sustained an injury to his left arm.\n\nThe patient was promptly attended to and provided with the necessary initial response and assistance.\n\nWe remind everyone to always prioritize safety and immediately report emergencies to ensure timely response.\n\n#LDRRMOTitay #EmergencyResponse #SerbisyongMayPuso",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122132120919246473.jpg",
+      "publishedDate": "2026-04-21T06:37:22+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122132120919246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122123308107246473",
+      "title": "Good PM, PAGASA issued GFA#1 for Region 9 @6PM, 22 February 2026",
+      "summary": "Good PM, PAGASA issued GFA#1 for Region 9 @6PM, 22 February 2026\nShear Line affecting Visayas. Northeast Monsoon affecting Luzon. Easterlies affecting Mindanao.\n\nForecast 12-hr Rainfall: Light to moderate rains and thunderstorms.\nWatercourses likely to be affected: Zamboanga sibugay, ZamboangaDelsur, ZamboangaDelNorte\nAdvised To take necessary precautionary measures.\nPAGASA-HMD-FFWS",
+      "imageUrl": null,
+      "publishedDate": "2026-02-22T10:29:04+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122123308107246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122123293551246473",
+      "title": "FORECAST(5PM, 22Feb'26) Mindanao will experience cloudy skies with scattered ra…",
+      "summary": "FORECAST(5PM, 22Feb'26) Mindanao will experience cloudy skies with scattered rainshowers and thunderstorms due to Easterlies. Possible flash floods or landslides due to moderate to at times heavy rains. Light to moderate winds from east to northeast with slight to moderate seas (0.6 to 2.1 meters). /kcc/cmep",
+      "imageUrl": null,
+      "publishedDate": "2026-02-22T08:38:31+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122123293551246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122123133465246473",
+      "title": "Team on standby for the Sibug Ngari Bagay Ultra 50k at around 10:00PM",
+      "summary": "Team on standby for the Sibug Ngari Bagay Ultra 50k at around 10:00PM \nStation Area -Titay Seaoil bound to Station 4-Longilog Area\n#DASIGTITAY \n#LDRRMOTITAY\n#25THArawngSibugay",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122123133465246473.jpg",
+      "publishedDate": "2026-02-21T14:01:29+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122123133465246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122123018631246473",
+      "title": "ON DUTY FOR PUBLIC SAFETY 🚑",
+      "summary": "ON DUTY FOR PUBLIC SAFETY 🚑\n\nThe LDRRMO Rescue Team under the supervision of MDRRM Officer George D. Carabaña Jr., was deployed at Brgy. Longilog, Titay for the 2026 MTB XCO Race in celebration of the 25th Araw ng Sibugay.\nEnsuring preparedness, rapid response, and zero casualty is our mission.\nServing with vigilance. Responding with commitment.\n#KeepSafeEveryoneAndGodbless \n#25tharawngsibugay\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122123018631246473.jpg",
+      "publishedDate": "2026-02-21T01:28:17+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122123018631246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122122891599246473",
+      "title": "Gud everyone baka naa po kaila Ani nga motor ,Ang tag iya ani gi forward sa Ten…",
+      "summary": "Gud everyone baka naa po kaila Ani nga motor ,Ang tag iya ani gi forward sa Tenan po",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122122891599246473.jpg",
+      "publishedDate": "2026-02-20T12:04:16+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122122891599246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122121516273246473",
+      "title": "Rainfall Advisory No. 2  #MINPRSD",
+      "summary": "Rainfall Advisory No. 2  #MINPRSD\nWeather System: Easterlies \nIssued at 11:00 AM 14 February 2026\n\nModerate to heavy rains are being experienced in #Sulu and #TawiTawi which may persist within 2-3 hours and may affect nearby areas.\n\nThe public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today./ PAGASA Mind/ ebz/cedgc",
+      "imageUrl": null,
+      "publishedDate": "2026-02-14T04:29:52+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122121516273246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122121291771246473",
+      "title": "Thunderstorm Advisory No. 2  #MINPRSD",
+      "summary": "Thunderstorm Advisory No. 2  #MINPRSD\nIssued at 08:00 PM 13 February 2026\n\nModerate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoDelNorte(SantoTomas, BraulioE.Dujali, CityOfPanabo, CityOfTagum, CityOfSamal), #DavaoDeOro(Maco, Mabini, Mawab), #DavaoCity, #AgusanDelNorte(Jabonga, Santiago, Tubay), #SurigaoDelNorte(Placer, Mainit, Tubod, Alegria, Bacuag, Gigaquit, Claver, Malimono, Sison, TaganaAn), #ZamboangaDelSur(PagadianCity, Dumalinao, Tigbao, Kumalarang, Lapuyan, SanMiguel, Guipos, Lakewood, SanPablo, Dinas, Dimataling, VincenzoA.Sagun, Margosatubig, Pitogo, Tabina), #ZamboangaSibugay(Buug, Diplahan, Siay, Payao, Imelda, Malangas, Alicia, Talusan, Mabuhay, Olutanga), #ZamboangaCity, #Basilan, #ZamboangaDelNorte(Labason and Liloy) within the next 1-2 hours.\n\nThe above conditions are being experienced in #DavaoDelNorte(Carmen) and #AgusanDelNorte(Kitcharao) which may persist within 1-2 hours and may affect nearby areas.\n\nAll are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.\n\nKeep monitoring for updates./ PAGASA Mind/ ebz/cta",
+      "imageUrl": null,
+      "publishedDate": "2026-02-13T12:23:12+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122121291771246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122120963925246473",
+      "title": "BRGY. MATE FIRE INCIDENT",
+      "summary": "BRGY. MATE FIRE INCIDENT\n12 February 2026\n\nAt approximately 2:00PM, LDRRMO personnel under the supervision of George D. Carabaña Jr., responded to a fire incident at the residence of Merryjane Husain and Rolando Husain in Mate, Titay, Zamboanga Sibugay. Initial assessment determined that the cause of the fire was a lightning strike during the weather disturbance.\n\nUpon receiving the report, our team immediately proceeded to the area to conduct emergency response operations, ensure the safety of the occupants, and assist in fire control and damage assessment. We continue to remind everyone to remain alert during inclement weather, as lightning strikes can pose serious risks to both lives and property.\n\nIn case of emergencies, please contact:�Titay LDRRMO�📞 [09623484758]",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122120963925246473.jpg",
+      "publishedDate": "2026-02-12T10:28:06+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122120963925246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122117889777246473",
+      "title": "With Dasig Titay – I just got recognized as one of their top fans! 🎉",
+      "summary": "With Dasig Titay – I just got recognized as one of their top fans! 🎉",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-ldrrmo-1007263869129517_122117889777246473.jpg",
+      "publishedDate": "2026-02-10T13:56:21+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122117889777246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122117825865246473",
+      "title": "Rainfall Advisory No. 5  #MINPRSD",
+      "summary": "Rainfall Advisory No. 5  #MINPRSD\nWeather System: Shearline / Wind Convergence \nIssued at 08:00 PM 10 February 2026\n\nLight to Moderate rains are expected over #DavaoOriental(Cateel, Caraga, Manay, Boston), \n\n#MisamisOccidental(Plaridel, Baliangao, Calamba, SapangDalaga, Concepcion, DonVictorianoChiongbian, Aloran, Panaon, Jimenez),\n\n #MaguindanaoDelNorte(DatuOdinSinsuat, Upi, DatuBlahT.Sinsuat, Kabuntalan, Talitay),\n\n #SultanKudarat(Lebak, Lambayong, Esperanza), \n\n#ZamboangaSibugay(Kabasalan, Diplahan, Imelda, Payao, Buug, Malangas),\n\n #DavaoDelNorte(Carmen, CityOfPanabo, CityOfTagum, BraulioE.Dujali, SantoTomas),\n\n #DavaoDeOro(Compostela, NewBataan, Maragusan), \n\n#NorthCotabato(Pikit\n\n#MaguindanaoDelSur(DatuPiang, SultanSaBarongis, RajahBuayan, ShariffSaydonaMustapha, DatuSalibo, Mamasapano, DatuAbdullahSangki, ShariffAguak, DatuUnsay, DatuSaudiAmpatuan, Guindulungan, DatuHofferAmpatuan, Ampatuan, SouthUpi, DatuAnggalMidtimbang, Talayan),\n\n #LanaoDelSur(Wao, Bumbaran), \n\n#Bukidnon(Pangantucan and Kalilangan) within the next 2-3 hours.\n\nModerate to heavy rains are being experienced in #DavaoOriental(Baganga), #MisamisOccidental(LopezJaena, OroquietaCity) and #ZamboangaSibugay(Siay) which may persist within 2-3 hours and may affect nearby areas.\n\nThe public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today. /kcc/ass",
+      "imageUrl": null,
+      "publishedDate": "2026-02-10T13:38:05+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122117825865246473",
+      "source": "LDRRMO Titay"
+    },
+    {
+      "id": "fb-ldrrmo-1007263869129517_122117050383246473",
+      "title": "LOCALIZED 24-HOUR PUBLIC WEATHER FORECAST",
+      "summary": "LOCALIZED 24-HOUR PUBLIC WEATHER FORECAST\nFor 𝐙𝐚𝐦𝐛𝐨𝐚𝐧𝐠𝐚 𝐏𝐞𝐧𝐢𝐧𝐬𝐮𝐥𝐚 𝐚𝐧𝐝 𝐌𝐢𝐬𝐚𝐦𝐢𝐬 𝐎𝐜𝐜𝐢𝐝𝐞𝐧𝐭𝐚𝐥\n5AM 10 February 2026\n\n𝐒𝐘𝐍𝐎𝐏𝐒𝐈𝐒: \nShear Line affecting Dinagat Islands\n\n𝐅𝐎𝐑𝐄𝐂𝐀𝐒𝐓:\nZamboanga Peninsula and Misamis Occidental will experience partly cloudy to cloudy skies with isolated rainshowers or thunderstorms due to Localized Thunderstorms. Possible flash floods or landslides due to severe thunderstorms. Light to moderate winds from Northeast to East with slight to moderate seas (0.6 to 2.1 meters).\n\n𝐊𝐀𝐔𝐆𝐀𝐋𝐈𝐍𝐆𝐎𝐍𝐆 𝐃𝐀𝐘𝐀𝐋𝐄𝐊𝐓𝐎:\nAng Zamboanga Peninsula ug ang Misamis Occidental makasinati sa panalagsang pagdag-om ngadto sa mapanganuron nga kalangitan inubanan sa pat-ak pat-ak nga pagulan, kilat ug pagpanalugdog tungod sa Localized Thunderstorms. Posible ang pagbaha o pagdahili sa yuta tungod sa severe thunderstorms. hinay ngadto sa kasarangan nga hagin ang magagikan sa Amihanang Silangan nga direksyon ug ang kadagatan hapsay ngadto sa kasarangan ang pagbalud (0.6 to 2.1 meters).\n \n𝐎𝐕𝐄𝐑 𝐃𝐈𝐏𝐎𝐋𝐎𝐆 𝐂𝐈𝐓𝐘:\nSunrise today:                              06:06 AM\nSunset today:                               05:55 PM\nMoonset today:                           12:36 PM\nMoonrise  tomorrow:                   12:48 AM",
+      "imageUrl": null,
+      "publishedDate": "2026-02-09T22:16:14+0000",
+      "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122117050383246473",
+      "source": "LDRRMO Titay"
     }
   ]
 }
