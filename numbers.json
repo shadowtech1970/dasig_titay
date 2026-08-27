@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122186720990935139",
+      "title": "See you soon, Miss Joy Barcoma!❤️",
+      "description": "See you soon, Miss Joy Barcoma!❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122186720990935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122186720990935139"
+    },
     {
       "id": "fb-751559508033473_122186701334935139",
       "title": "A view of the sunset at Mount Gampoy, Culasian, Titay, Zamboanga Sibugay.",
@@ -182,6 +189,15 @@
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp-111540694644827_2113562569256618",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 27 August 2026 (THURSDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_2113562569256618.jpg",
+      "publishedDate": "2026-08-26T21:26:40+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/2113562569256618",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-bfp2-1002128899657876_122120319873081011",
       "title": "FIRE SAFETY TIP OF THE DAY",
