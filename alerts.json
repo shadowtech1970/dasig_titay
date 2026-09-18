@@ -1,5 +1,17 @@
 {
-  "version": 0,
-  "alerts": [],
+  "version": 1,
+  "alerts": [
+    {
+      "id": "manual-1789736972263",
+      "type": "manual",
+      "severity": "info",
+      "source": "MDRRMO Titay",
+      "issued_at": "2026-09-18T13:09:32.263435+00:00",
+      "event_time": "2026-09-18T13:09:32.263435+00:00",
+      "title": "Pag-ampo sa Gabii Alang sa mga Titayanon",
+      "body": "Labing Makagagahum ug Mahigugmaong Dios, sa katapusan kining adlawa, mopataas kami sa among mga kamot ug kasingkasing sa pagpasalamat kanimo sa tanang panalangin, panalipod, ug grasya nga imong gibubo sa among lungsod sa Titay ug sa matag usa kanamo.\n\nGideklarar namo ang Imong kalinaw ug proteksyon sa tibuok lungsod\u2014gikan sa sentro hangtod sa tanan naming 30 ka mga barangay. Panalangini ang among mga pamilya, mga katilingban, ug ang matag Titayanon. Gihangyo namo ang Imong pag-ayo sa mga gikapoy, kalig-on sa mga nagkugi, ug kahupayan sa mga anaa sa kalisod.\n\nSamtang kami nangatulog karong gabiua, palibuti kami sa Imong mga anghel aron magbantay kanamo batok sa bisan unsa nga kadautan. Hatagi kami sa hinlo nga hunahuna ug lawom nga pahulay aron pagmata namo ugma, mabag-o ang among kusog sa pag-alagad kanimo ug sa among isigka-ingon.\n\nKining tanan among giampo ug gipasidungog Kanimo, sa ngalan sa Imong Anak nga si Hesus. Amen.\n\nDASIG TITAY",
+      "detail": {}
+    }
+  ],
   "seen": []
 }
