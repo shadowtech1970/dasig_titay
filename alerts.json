@@ -1,6 +1,25 @@
 {
-  "version": 7,
+  "version": 9,
   "alerts": [
+    {
+      "id": "pagasa-f122f0be-0889-499d-a7fc-a0bd0c388d23",
+      "type": "flood",
+      "severity": "info",
+      "source": "PAGASA",
+      "issued_at": "2026-09-21T22:32:40.824Z",
+      "event_time": "2026-09-21T21:21:37.000Z",
+      "title": "Natapos na ang PAGASA Flood Advisory — Zamboanga Sibugay",
+      "body": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Trough of Low Pressure Area (LPA) affecting the eastern section of Visayas. The 12-hour rainfall forecast is Isolated rainshowers or thunderstorms.\nWith this development and unless significant rain occurs, this is the final general flood advisory for this event.\nTinubdan: PAGASA-DOST · Set 22, 5:21 AM",
+      "detail": {
+        "felt_note": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.",
+        "source_url": "https://www.pagasa.dost.gov.ph/flood",
+        "cap_url": "https://publicalert.pagasa.dost.gov.ph/output/gfa/f122f0be-0889-499d-a7fc-a0bd0c388d23.cap",
+        "series": "gfa|Region 9 (Zamboanga Peninsula)",
+        "advisory_no": 2,
+        "final": true,
+        "expires": "2026-09-22T09:21:37.000Z"
+      }
+    },
     {
       "id": "pagasa-bcff8e3d-a34c-4623-9627-84d4c64857bd",
       "type": "flood",
@@ -1462,13 +1481,37 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/e7a7f971-7a0b-4721-a1e0-071819229a14.cap",
     "2026-09-21T17:38|10.93|122.29",
     "2026-09-21T17:31|5.47|125.37",
-    "2026-09-21T17:05|15.09|122.21"
+    "2026-09-21T17:05|15.09|122.21",
+    "2026-09-21T22:14|5.64|125.35",
+    "2026-09-21T21:29|6.10|126.42",
+    "2026-09-21T20:47|6.18|125.40",
+    "2026-09-21T20:34|5.53|125.35",
+    "2026-09-21T20:33|5.63|125.08",
+    "2026-09-21T19:59|5.48|125.42",
+    "2026-09-21T19:32|5.29|125.40",
+    "2026-09-21T19:29|5.64|125.13",
+    "2026-09-21T19:13|17.66|120.63",
+    "2026-09-21T19:08|5.41|125.42",
+    "2026-09-21T18:45|5.64|125.16",
+    "2026-09-21T18:40|17.56|120.14",
+    "2026-09-21T18:18|15.26|119.86",
+    "2026-09-21T18:17|19.87|121.95",
+    "2026-09-21T18:16|5.67|125.28",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/6ac5ac71-362f-4d17-a29b-f746df264c52.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/b2622a78-3b2d-46fe-95d2-d3fd3d25518c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/72235c35-f463-4080-8ad0-be877a775984.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5267345b-af8b-4e7b-9747-6e7ebd3e91b4.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/52054ca4-1ff8-4460-9095-6bbb80dc7d20.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/f122f0be-0889-499d-a7fc-a0bd0c388d23.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/24aa4ffb-a64e-4b00-88e0-f06b949f630a.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/cb1fa376-cdf4-436a-a0c1-b3ff3b9fd6ab.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7442e0a4-1ec1-45cf-bb09-c32422d2faf2.cap"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-09-21T18:04:58.326Z"
+    "checked_at": "2026-09-21T22:32:43.535Z"
   }
 }
