@@ -1,6 +1,17 @@
 {
-  "version": 2,
+  "version": 3,
   "alerts": [
+    {
+      "id": "manual-1789966035935",
+      "type": "manual",
+      "severity": "warning",
+      "source": "MDRRMO Titay",
+      "issued_at": "2026-09-21T04:47:15.935665+00:00",
+      "event_time": "2026-09-21T04:47:15.935665+00:00",
+      "title": "LOCAL WEATHER ADVISORY: THUNDERSTORM & HEAT WARNING",
+      "body": "\u26a0\ufe0fLOCAL WEATHER ADVISORY: THUNDERSTORM & HEAT WARNING\n\nLocation: Titay, Zamboanga Sibugay\nEffective: Immediate / Rest of the Day\nThreats: Sudden thunderstorms, localized flooding, lightning, and high heat index (RealFeel up to 36\u00b0C\u201338\u00b0C).\n\n\ud83d\udea8 What to Expect:\nSevere Thunderstorms: Sudden heavy downpours accompanied by lightning and gusty winds are active or expected in the area. This can cause brief, localized flash floods or ponding in low-lying areas.\n\nHigh Heat & Humidity: High humidity combined with warm temperatures is pushing the heat index well into uncomfortable and potentially hazardous levels, increasing the risk of heat exhaustion with prolonged outdoor exposure.\n\n\ud83d\udee1\ufe0f Safety Precautions:\nPostpone Outdoor Activities: If you hear thunder or see dark storm clouds building, seek shelter indoors immediately. Avoid open fields and tall trees to stay safe from lightning strikes.\n\nWatch for Flooding: If you live near rivers, streams, or flood-prone zones, monitor water levels closely and be prepared to move to higher ground if heavy rains persist.\n\nStay Hydrated: Drink plenty of water throughout the day to combat the high humidity and prevent heat-related illness.\n\nSecure Loose Items: Tie down or bring inside any outdoor objects that could be blown away by sudden gusts.\nApektado: Titay, Zamboanga Sibugay",
+      "detail": {}
+    },
     {
       "id": "manual-1789812912553",
       "type": "manual",
