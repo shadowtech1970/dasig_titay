@@ -1,0 +1,62 @@
+{
+  "version": "1.0.1",
+  "barangays": [
+    "Achasol",
+    "Azusano",
+    "Bangco",
+    "Camanga",
+    "Culasian",
+    "Dalangin",
+    "Dalangin Muslim",
+    "Dalisay",
+    "Gomotoc",
+    "Imelda",
+    "Kipit",
+    "Kitabog",
+    "La Libertad",
+    "Longilog",
+    "Mabini",
+    "Malagandis",
+    "Mate",
+    "Moalboal",
+    "Namnama",
+    "New Canaan",
+    "Palomoc",
+    "Poblacion",
+    "Poblacion Muslim",
+    "Pulidan",
+    "San Antonio",
+    "San Isidro",
+    "Santa Fe",
+    "Supit",
+    "Tugop",
+    "Tugop Muslim"
+  ],
+  "schools": [
+    {
+      "id": "titay-national-highschool-poblacion",
+      "name": "TITAY NATIONAL HIGHSCHOOL",
+      "barangay": "Poblacion",
+      "level": "Senior High",
+      "guidance": {
+        "name": "test",
+        "globe": "09555078452",
+        "smart": "09700376864"
+      },
+      "logoUrl": "",
+      "safespace": false
+    }
+  ],
+  "fallback": {
+    "id": "mswdo",
+    "name": "MSWDO Titay",
+    "barangay": "Poblacion",
+    "level": "Office",
+    "guidance": {
+      "name": "MSWDO Titay",
+      "globe": "09977342304",
+      "smart": ""
+    },
+    "safespace": false
+  }
+}
