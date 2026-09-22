@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "barangays": [
     "Achasol",
     "Azusano",
@@ -32,21 +32,7 @@
     "Tugop",
     "Tugop Muslim"
   ],
-  "schools": [
-    {
-      "id": "titay-national-highschool-poblacion",
-      "name": "TITAY NATIONAL HIGHSCHOOL",
-      "barangay": "Poblacion",
-      "level": "Senior High",
-      "guidance": {
-        "name": "test",
-        "globe": "09555078452",
-        "smart": "09700376864"
-      },
-      "logoUrl": "",
-      "safespace": false
-    }
-  ],
+  "schools": [],
   "fallback": {
     "id": "mswdo",
     "name": "MSWDO Titay",
