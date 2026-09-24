@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 43,
   "alerts": [
     {
       "id": "pagasa-f122f0be-0889-499d-a7fc-a0bd0c388d23",
@@ -1875,15 +1875,38 @@
     "2026-09-24T14:25|12.26|125.20",
     "2026-09-24T14:22|5.18|125.20",
     "2026-09-24T14:08|6.56|126.50",
-    "2026-09-24T14:04|6.50|125.76"
+    "2026-09-24T14:04|6.50|125.76",
+    "2026-09-24T21:21|3.47|127.53",
+    "2026-09-24T21:18|18.42|120.98",
+    "2026-09-24T21:04|5.45|125.39",
+    "2026-09-24T21:00|5.66|125.30",
+    "2026-09-24T20:57|13.09|124.16",
+    "2026-09-24T20:46|15.08|122.47",
+    "2026-09-24T20:17|15.84|119.97",
+    "2026-09-24T20:05|2.23|126.05",
+    "2026-09-24T19:44|5.93|126.15",
+    "2026-09-24T19:39|5.38|125.29",
+    "2026-09-24T19:22|5.85|126.57",
+    "2026-09-24T19:08|7.02|126.81",
+    "2026-09-24T18:52|5.74|124.79",
+    "2026-09-24T18:21|6.42|126.40",
+    "2026-09-24T18:17|11.86|125.25",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/0139cb9e-9292-45d9-a85e-0a94f20c0eb5.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5abb3c32-e480-4034-9c2a-828948fe1eca.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/6755fb54-9d2d-4b01-9b5f-3d23911a6f86.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/80a67fec-fc05-4422-897c-64c727e7d48c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5f59d4a1-c349-4e77-ba30-26b1115b2586.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/94fe5d3a-12f1-404c-9573-791437793dd8.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/59d47132-5df8-4041-8386-e9079c3ba3c9.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/e27479b2-5a6f-4ff2-8b2c-563b5fee9b90.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/045fca8a-ac85-4418-9757-2c00d926461e.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/bba16cb5-757f-46f4-90fa-544ce7aa8f11.cap"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
-    "notes": [
-      "PAGASA unavailable: Timeout for https://publicalert.pagasa.dost.gov.ph/output/acp/bba16cb5-757f-46f4-90fa-544ce7aa8f11.cap"
-    ],
-    "pagasa": "failed: Timeout for https://publicalert.pagasa.dost.gov.ph/output/acp/bba16cb5-757f-46f4-90fa-544ce7aa8f11.cap",
-    "checked_at": "2026-09-24T18:35:07.112Z"
+    "notes": [],
+    "pagasa": "ok",
+    "checked_at": "2026-09-24T22:02:22.023Z"
   }
 }
