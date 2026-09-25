@@ -1,5 +1,5 @@
 {
-  "version": "1.0.54",
+  "version": "1.0.55",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -217,6 +217,15 @@
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp2-1002128899657876_122123541687081011",
+      "title": "On September 23, 2024, Titay Municipal Fire Station trained teachers and studen…",
+      "summary": "On September 23, 2024, Titay Municipal Fire Station trained teachers and students of Salip T. Hasim National High School as members of the School Emergency Response Team (SERT), equipping them with essential knowledge and practical skills in emergency preparedness, first aid, basic firefighting, and rescue. Through hands-on activities and team exercises, the participants were empowered to respond effectively to emergencies and help build a safer and more disaster-resilient school community.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122123541687081011.jpg",
+      "publishedDate": "2026-09-25T01:28:36+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122123541687081011",
+      "source": "BFP RIX CRS Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1656112136525046",
       "title": "🌟 𝐅𝐈𝐕𝐄 𝐌𝐎𝐑𝐄 𝐁𝐀𝐑𝐀𝐍𝐆𝐀𝐘𝐒, 𝐎𝐍𝐄 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 𝐓𝐈𝐓𝐀𝐘! 🌟",
@@ -1016,15 +1025,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119608495081011.jpg",
       "publishedDate": "2026-08-17T04:06:42+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119608495081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122119601811081011",
-      "title": "FIRE SAFETY TIP OF THE DAY",
-      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 17, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119601811081011.jpg",
-      "publishedDate": "2026-08-17T02:00:21+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119601811081011",
       "source": "BFP RIX CRS Titay"
     },
     {
