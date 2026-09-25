@@ -1,6 +1,17 @@
 {
-  "version": 48,
+  "version": 49,
   "alerts": [
+    {
+      "id": "manual-1790325535076",
+      "type": "manual",
+      "severity": "info",
+      "source": "MDRRMO Titay",
+      "issued_at": "2026-09-25T08:38:55.076970+00:00",
+      "event_time": "2026-09-25T08:38:55.076970+00:00",
+      "title": "MPORTANT ANNOUNCEMENT",
+      "body": "Mga ka-Barangay ug Kabataan, ang Barangay and Sangguniang Kabataan Elections (BSKE) nga gikatakda unta karong November 2, 2026, dili na ituloy.\n\nGipirmahan ni President Ferdinand R. Marcos Jr. ang Republic Act No. 12326, nga nagtakda sa five-year term sa mga Barangay ug SK officials ug nag-move sa sunod nga BSKE sa November 13, 2028.\n\n\ud83d\udccc BSKE 2026 \u2014 POSTPONED\n\ud83d\udccc New BSKE Date \u2014 November 13, 2028\n\ud83d\udccc Term of Office \u2014 5 Years\n\nAng mga kalihokan ug election calendar nga may kalabotan sa 2026 BSKE gikansela usab in line with the new law.\n\nPlease be guided accordingly.",
+      "detail": {}
+    },
     {
       "id": "manual-1790309524493",
       "type": "manual",
@@ -9,7 +20,7 @@
       "issued_at": "2026-09-25T04:12:04.493505+00:00",
       "event_time": "2026-09-25T04:12:04.493505+00:00",
       "title": "MEDICAL OUTREACH | BARANGAY KITABOG",
-      "body": "MEDICAL OUTREACH | BARANGAY KITABOG\n\nAtong giimbitar ang atong mga kaigsuonan sa Barangay Kitabog nga moadto sa Barangay Covered Court karong Sabado, September 26, 2026, alas-8:00 sa buntag alang sa atong Medical Outreach.\n\nDaghang salamat sa Zamboanga Sibugay Pharmacists Association sa ilang initiative ug serbisyo isip kabahin sa pagsaulog sa World Pharmacists Day. Salamat sa inyong paghatag og panahon, kahibalo, ug serbisyo para sa atong mga Titayanon.\n\nSa atong mga kaigsuonan sa Kitabog, magkita-kita ta ugma💙\n\nSa Gugma. Buhat. Serbisyo.\nDASIG TITAY!\nApektado: Kitabog, Titay, Zamboanga Sibugay\nBuhata: Kita-kita ta ninyo digto!\nBalido hangtod: September 26, 2026, 8:00 AM",
+      "body": "MEDICAL OUTREACH | BARANGAY KITABOG\n\nAtong giimbitar ang atong mga kaigsuonan sa Barangay Kitabog nga moadto sa Barangay Covered Court karong Sabado, September 26, 2026, alas-8:00 sa buntag alang sa atong Medical Outreach.\n\nDaghang salamat sa Zamboanga Sibugay Pharmacists Association sa ilang initiative ug serbisyo isip kabahin sa pagsaulog sa World Pharmacists Day. Salamat sa inyong paghatag og panahon, kahibalo, ug serbisyo para sa atong mga Titayanon.\n\nSa atong mga kaigsuonan sa Kitabog, magkita-kita ta ugma\ud83d\udc99\n\nSa Gugma. Buhat. Serbisyo.\nDASIG TITAY!\nApektado: Kitabog, Titay, Zamboanga Sibugay\nBuhata: Kita-kita ta ninyo digto!\nBalido hangtod: September 26, 2026, 8:00 AM",
       "detail": {}
     },
     {
@@ -19,8 +30,8 @@
       "source": "PAGASA",
       "issued_at": "2026-09-21T22:32:40.824Z",
       "event_time": "2026-09-21T21:21:37.000Z",
-      "title": "Natapos na ang PAGASA Flood Advisory — Zamboanga Sibugay",
-      "body": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Trough of Low Pressure Area (LPA) affecting the eastern section of Visayas. The 12-hour rainfall forecast is Isolated rainshowers or thunderstorms.\nWith this development and unless significant rain occurs, this is the final general flood advisory for this event.\nTinubdan: PAGASA-DOST · Set 22, 5:21 AM",
+      "title": "Natapos na ang PAGASA Flood Advisory \u2014 Zamboanga Sibugay",
+      "body": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Trough of Low Pressure Area (LPA) affecting the eastern section of Visayas. The 12-hour rainfall forecast is Isolated rainshowers or thunderstorms.\nWith this development and unless significant rain occurs, this is the final general flood advisory for this event.\nTinubdan: PAGASA-DOST \u00b7 Set 22, 5:21 AM",
       "detail": {
         "felt_note": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.",
         "source_url": "https://www.pagasa.dost.gov.ph/flood",
@@ -38,8 +49,8 @@
       "source": "PAGASA",
       "issued_at": "2026-09-21T17:06:52.440Z",
       "event_time": "2026-09-21T09:49:53.000Z",
-      "title": "PAGASA Flood Advisory #1 — Zamboanga Sibugay (Moderate)",
-      "body": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Trough of Low Pressure Area (LPA) affecting the eastern section of Visayas. The 12-hour rainfall forecast is light to moderate rains and thunderstorms.\nPeople living near the mountain slopes and in the low lying areas of the above mentioned river systems and the Local Disaster Risk Reduction and Management Councils concerned advised to take necessary precautionary measures.\nTinubdan: PAGASA-DOST · Set 21, 5:49 PM · Balido hangtod Set 22, 5:49 AM",
+      "title": "PAGASA Flood Advisory #1 \u2014 Zamboanga Sibugay (Moderate)",
+      "body": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Trough of Low Pressure Area (LPA) affecting the eastern section of Visayas. The 12-hour rainfall forecast is light to moderate rains and thunderstorms.\nPeople living near the mountain slopes and in the low lying areas of the above mentioned river systems and the Local Disaster Risk Reduction and Management Councils concerned advised to take necessary precautionary measures.\nTinubdan: PAGASA-DOST \u00b7 Set 21, 5:49 PM \u00b7 Balido hangtod Set 22, 5:49 AM",
       "detail": {
         "felt_note": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.",
         "source_url": "https://www.pagasa.dost.gov.ph/flood",
@@ -57,7 +68,7 @@
       "issued_at": "2026-09-21T04:47:15.935665+00:00",
       "event_time": "2026-09-21T04:47:15.935665+00:00",
       "title": "LOCAL WEATHER ADVISORY: THUNDERSTORM & HEAT WARNING",
-      "body": "⚠️LOCAL WEATHER ADVISORY: THUNDERSTORM & HEAT WARNING\n\nLocation: Titay, Zamboanga Sibugay\nEffective: Immediate / Rest of the Day\nThreats: Sudden thunderstorms, localized flooding, lightning, and high heat index (RealFeel up to 36°C–38°C).\n\n🚨 What to Expect:\nSevere Thunderstorms: Sudden heavy downpours accompanied by lightning and gusty winds are active or expected in the area. This can cause brief, localized flash floods or ponding in low-lying areas.\n\nHigh Heat & Humidity: High humidity combined with warm temperatures is pushing the heat index well into uncomfortable and potentially hazardous levels, increasing the risk of heat exhaustion with prolonged outdoor exposure.\n\n🛡️ Safety Precautions:\nPostpone Outdoor Activities: If you hear thunder or see dark storm clouds building, seek shelter indoors immediately. Avoid open fields and tall trees to stay safe from lightning strikes.\n\nWatch for Flooding: If you live near rivers, streams, or flood-prone zones, monitor water levels closely and be prepared to move to higher ground if heavy rains persist.\n\nStay Hydrated: Drink plenty of water throughout the day to combat the high humidity and prevent heat-related illness.\n\nSecure Loose Items: Tie down or bring inside any outdoor objects that could be blown away by sudden gusts.\nApektado: Titay, Zamboanga Sibugay",
+      "body": "\u26a0\ufe0fLOCAL WEATHER ADVISORY: THUNDERSTORM & HEAT WARNING\n\nLocation: Titay, Zamboanga Sibugay\nEffective: Immediate / Rest of the Day\nThreats: Sudden thunderstorms, localized flooding, lightning, and high heat index (RealFeel up to 36\u00b0C\u201338\u00b0C).\n\n\ud83d\udea8 What to Expect:\nSevere Thunderstorms: Sudden heavy downpours accompanied by lightning and gusty winds are active or expected in the area. This can cause brief, localized flash floods or ponding in low-lying areas.\n\nHigh Heat & Humidity: High humidity combined with warm temperatures is pushing the heat index well into uncomfortable and potentially hazardous levels, increasing the risk of heat exhaustion with prolonged outdoor exposure.\n\n\ud83d\udee1\ufe0f Safety Precautions:\nPostpone Outdoor Activities: If you hear thunder or see dark storm clouds building, seek shelter indoors immediately. Avoid open fields and tall trees to stay safe from lightning strikes.\n\nWatch for Flooding: If you live near rivers, streams, or flood-prone zones, monitor water levels closely and be prepared to move to higher ground if heavy rains persist.\n\nStay Hydrated: Drink plenty of water throughout the day to combat the high humidity and prevent heat-related illness.\n\nSecure Loose Items: Tie down or bring inside any outdoor objects that could be blown away by sudden gusts.\nApektado: Titay, Zamboanga Sibugay",
       "detail": {}
     },
     {
@@ -68,7 +79,7 @@
       "issued_at": "2026-09-19T10:15:12.553885+00:00",
       "event_time": "2026-09-19T10:15:12.553885+00:00",
       "title": "A Prayer for Peace and Unity in Titay\nO God, Creator of all humankind,",
-      "body": "A Prayer for Peace and Unity in Titay\nO God, Creator of all humankind,\nWe come before You today with hearts full of gratitude for the beautiful land of Titay that we share. As Titayanons—Muslims and Christians walking side by side—we thank You for placing us together in this vibrant community.\n\nLord, You have created us in diversity not to be divided, but to learn from one another, to show compassion, and to grow in understanding.\n\nTo our Muslim brothers and sisters, You teach the path of Salam (peace) and submission to Your divine will.\n\nTo our Christian brothers and sisters, You teach the path of love, grace, and following the teachings of peace.\n\nBind us together in mutual respect and neighborly love.\nHelp us to look past our differences and focus on the deep bonds we share: our common humanity, our hopes for our families, and our dreams for a prosperous and safe Titay.\n\nGrant wisdom to our local leaders and elders, that they may guide our municipality with fairness, justice, and compassion. Heal any past wounds, dissolve prejudice, and replace suspicion with trust.\n\nMay our homes be filled with harmony, our streets with safety, and our hearts with a shared commitment to peace. Let Titay shine as a beacon of interfaith unity, proving that love and brotherhood are stronger than any division.\n\nWe place our community into Your loving hands.\n\nAmen.\n\nDASIG TITAY",
+      "body": "A Prayer for Peace and Unity in Titay\nO God, Creator of all humankind,\nWe come before You today with hearts full of gratitude for the beautiful land of Titay that we share. As Titayanons\u2014Muslims and Christians walking side by side\u2014we thank You for placing us together in this vibrant community.\n\nLord, You have created us in diversity not to be divided, but to learn from one another, to show compassion, and to grow in understanding.\n\nTo our Muslim brothers and sisters, You teach the path of Salam (peace) and submission to Your divine will.\n\nTo our Christian brothers and sisters, You teach the path of love, grace, and following the teachings of peace.\n\nBind us together in mutual respect and neighborly love.\nHelp us to look past our differences and focus on the deep bonds we share: our common humanity, our hopes for our families, and our dreams for a prosperous and safe Titay.\n\nGrant wisdom to our local leaders and elders, that they may guide our municipality with fairness, justice, and compassion. Heal any past wounds, dissolve prejudice, and replace suspicion with trust.\n\nMay our homes be filled with harmony, our streets with safety, and our hearts with a shared commitment to peace. Let Titay shine as a beacon of interfaith unity, proving that love and brotherhood are stronger than any division.\n\nWe place our community into Your loving hands.\n\nAmen.\n\nDASIG TITAY",
       "detail": {}
     },
     {
@@ -79,7 +90,7 @@
       "issued_at": "2026-09-18T13:09:32.263435+00:00",
       "event_time": "2026-09-18T13:09:32.263435+00:00",
       "title": "Pag-ampo sa Gabii Alang sa mga Titayanon",
-      "body": "Labing Makagagahum ug Mahigugmaong Dios, sa katapusan kining adlawa, mopataas kami sa among mga kamot ug kasingkasing sa pagpasalamat kanimo sa tanang panalangin, panalipod, ug grasya nga imong gibubo sa among lungsod sa Titay ug sa matag usa kanamo.\n\nGideklarar namo ang Imong kalinaw ug proteksyon sa tibuok lungsod—gikan sa sentro hangtod sa tanan naming 30 ka mga barangay. Panalangini ang among mga pamilya, mga katilingban, ug ang matag Titayanon. Gihangyo namo ang Imong pag-ayo sa mga gikapoy, kalig-on sa mga nagkugi, ug kahupayan sa mga anaa sa kalisod.\n\nSamtang kami nangatulog karong gabiua, palibuti kami sa Imong mga anghel aron magbantay kanamo batok sa bisan unsa nga kadautan. Hatagi kami sa hinlo nga hunahuna ug lawom nga pahulay aron pagmata namo ugma, mabag-o ang among kusog sa pag-alagad kanimo ug sa among isigka-ingon.\n\nKining tanan among giampo ug gipasidungog Kanimo, sa ngalan sa Imong Anak nga si Hesus. Amen.\n\nDASIG TITAY",
+      "body": "Labing Makagagahum ug Mahigugmaong Dios, sa katapusan kining adlawa, mopataas kami sa among mga kamot ug kasingkasing sa pagpasalamat kanimo sa tanang panalangin, panalipod, ug grasya nga imong gibubo sa among lungsod sa Titay ug sa matag usa kanamo.\n\nGideklarar namo ang Imong kalinaw ug proteksyon sa tibuok lungsod\u2014gikan sa sentro hangtod sa tanan naming 30 ka mga barangay. Panalangini ang among mga pamilya, mga katilingban, ug ang matag Titayanon. Gihangyo namo ang Imong pag-ayo sa mga gikapoy, kalig-on sa mga nagkugi, ug kahupayan sa mga anaa sa kalisod.\n\nSamtang kami nangatulog karong gabiua, palibuti kami sa Imong mga anghel aron magbantay kanamo batok sa bisan unsa nga kadautan. Hatagi kami sa hinlo nga hunahuna ug lawom nga pahulay aron pagmata namo ugma, mabag-o ang among kusog sa pag-alagad kanimo ug sa among isigka-ingon.\n\nKining tanan among giampo ug gipasidungog Kanimo, sa ngalan sa Imong Anak nga si Hesus. Amen.\n\nDASIG TITAY",
       "detail": {}
     },
     {
@@ -89,12 +100,12 @@
       "source": "PHIVOLCS",
       "issued_at": "2026-09-21T17:06:46.423Z",
       "event_time": "2026-09-12T09:53:00.000Z",
-      "title": "Magnitude 2.3 nga linog — 49 km kasadpan sa Titay",
-      "body": "M 2.3 · giladmon 8 km\n014 km S 05° W of Siocon (Zamboanga Del Norte)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Set 12, 5:53 PM",
+      "title": "Magnitude 2.3 nga linog \u2014 49 km kasadpan sa Titay",
+      "body": "M 2.3 \u00b7 giladmon 8 km\n014 km S 05\u00b0 W of Siocon (Zamboanga Del Norte)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS \u00b7 Set 12, 5:53 PM",
       "detail": {
         "magnitude": 2.3,
         "depth_km": 8,
-        "epicenter": "014 km S 05° W of Siocon (Zamboanga Del Norte)",
+        "epicenter": "014 km S 05\u00b0 W of Siocon (Zamboanga Del Norte)",
         "distance_km": 49,
         "bearing": "WSW",
         "bearing_ceb": "kasadpan",
@@ -111,12 +122,12 @@
       "source": "PHIVOLCS",
       "issued_at": "2026-09-21T17:06:46.424Z",
       "event_time": "2026-09-07T08:47:00.000Z",
-      "title": "Magnitude 3.3 nga linog — 65 km sidlakan sa Titay",
-      "body": "M 3.3 · giladmon 8 km\n013 km N 01° E of Lakewood (Zamboanga Del Sur)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Set 7, 4:47 PM",
+      "title": "Magnitude 3.3 nga linog \u2014 65 km sidlakan sa Titay",
+      "body": "M 3.3 \u00b7 giladmon 8 km\n013 km N 01\u00b0 E of Lakewood (Zamboanga Del Sur)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS \u00b7 Set 7, 4:47 PM",
       "detail": {
         "magnitude": 3.3,
         "depth_km": 8,
-        "epicenter": "013 km N 01° E of Lakewood (Zamboanga Del Sur)",
+        "epicenter": "013 km N 01\u00b0 E of Lakewood (Zamboanga Del Sur)",
         "distance_km": 65,
         "bearing": "ENE",
         "bearing_ceb": "sidlakan",
