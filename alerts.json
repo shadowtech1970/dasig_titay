@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 61,
   "alerts": [
     {
       "id": "pagasa-8a1737b0-ebbd-4e55-87b2-30b6e87dcb06",
@@ -2079,13 +2079,21 @@
     "2026-09-26T00:31|16.23|119.48",
     "2026-09-25T23:33|15.65|120.11",
     "2026-09-25T23:03|5.46|125.43",
-    "2026-09-25T02:19|7.33|127.07"
+    "2026-09-25T02:19|7.33|127.07",
+    "2026-09-23T14:19|6.43|125.82",
+    "2026-09-21T23:48|4.54|125.34",
+    "2026-09-21T00:08|4.91|125.39",
+    "2026-09-01T13:22|5.11|125.66",
+    "2026-08-30T12:08|5.75|125.27",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/f3897e4a-76df-4dcc-86d6-97c551e6960a.cap"
   ],
   "health": {
-    "phivolcs": "ok",
-    "usgs": "skipped",
-    "notes": [],
+    "phivolcs": "failed: getaddrinfo EAI_AGAIN earthquake.phivolcs.dost.gov.ph",
+    "usgs": "ok",
+    "notes": [
+      "PHIVOLCS unavailable, falling back to USGS: getaddrinfo EAI_AGAIN earthquake.phivolcs.dost.gov.ph"
+    ],
     "pagasa": "ok",
-    "checked_at": "2026-09-26T01:49:23.534Z"
+    "checked_at": "2026-09-26T07:09:03.265Z"
   }
 }
