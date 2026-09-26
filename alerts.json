@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 59,
   "alerts": [
     {
       "id": "pagasa-8a1737b0-ebbd-4e55-87b2-30b6e87dcb06",
@@ -2074,13 +2074,18 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/c2f789ab-4ca7-4a3f-bb01-c61f6999fa52.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/9bd0ce69-87fc-4622-bc48-92e8dc46e152.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/8a1737b0-ebbd-4e55-87b2-30b6e87dcb06.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/209e0333-6d0c-4f11-b842-8a726b10a6f1.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/209e0333-6d0c-4f11-b842-8a726b10a6f1.cap",
+    "2026-09-26T01:20|8.74|126.55",
+    "2026-09-26T00:31|16.23|119.48",
+    "2026-09-25T23:33|15.65|120.11",
+    "2026-09-25T23:03|5.46|125.43",
+    "2026-09-25T02:19|7.33|127.07"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-09-25T23:08:34.609Z"
+    "checked_at": "2026-09-26T01:49:23.534Z"
   }
 }
