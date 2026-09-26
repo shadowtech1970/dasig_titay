@@ -1,5 +1,5 @@
 {
-  "version": "1.0.56",
+  "version": "1.0.57",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122191096340935139",
+      "title": "The wait is almost over!",
+      "description": "The wait is almost over!\n\nMeet the official candidates of this year’s Mr. and Ms. PCSA, now presented in their official portraits!\n\nGet ready for a day of confidence, charm, and excitement as our candidates take the stage and vie for the coveted crowns.\n\nCatch the Coronation Ceremony on September 28, 2026, at 9:00 AM at the Titay Imelda Gymnasium.\n\nWho will be crowned Mr. and Ms. PCSA 2026? See you at the crown! 👑\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191096340935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191096340935139"
+    },
     {
       "id": "fb-751559508033473_122190977888935139",
       "title": "📢 IMPORTANT ANNOUNCEMENT",
@@ -207,16 +214,36 @@
       "description": "Achievement overview of Mayor DONRIO Martinez. Always Mahigugmaon, Kanunay MaDASIGon. #DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122187504158935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122187504158935139"
-    },
-    {
-      "id": "fb-751559508033473_122187454760935139",
-      "title": "“Public Service is a Public Trust”- Mayor DONRIO Martinez-Castillo.❤️",
-      "description": "“Public Service is a Public Trust”- Mayor DONRIO Martinez-Castillo.❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122187454760935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122187454760935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp2-1002128899657876_122123669943081011",
+      "title": "Titay Municipal Fire Station, together with the Department of Social Welfare an…",
+      "summary": "Titay Municipal Fire Station, together with the Department of Social Welfare and Development (DSWD), conducted a capacity-building activity on Community-Based Risk Reduction, Climate Change, and Nature-Based Solutions on September 18, 2026. The activity aimed to strengthen participants’ understanding of disaster risks, climate-related challenges, and practical nature-based approaches that can help communities prepare for and adapt to hazards.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122123669943081011.jpg",
+      "publishedDate": "2026-09-26T03:10:05+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122123669943081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1633721828256257",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 26 September 2026 (SATURDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1633721828256257.jpg",
+      "publishedDate": "2026-09-25T21:34:34+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1633721828256257",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122123634459081011",
+      "title": "KIPIT NHS STUDENTS TRAINED AS EMERGENCY RESPONDERS",
+      "summary": "KIPIT NHS STUDENTS TRAINED AS EMERGENCY RESPONDERS\n\nStudents of Kipit National High School, together with their teachers, were trained by Titay Municipal Fire Station as members of the School Emergency Response Team (SERT) on September 25, 2026, gaining practical skills in basic first aid, firefighting, rescue, and emergency response. Through hands-on drills and team exercises, the students strengthened their ability to provide immediate assistance and respond safely during emergencies, helping build a more prepared and resilient school community.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122123634459081011.jpg",
+      "publishedDate": "2026-09-25T20:24:26+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122123634459081011",
+      "source": "BFP RIX CRS Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1101009489109045",
       "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐌𝐀𝐔𝐋𝐈𝐍𝐆 𝐈𝐍𝐂𝐈𝐃𝐄…",
@@ -309,8 +336,8 @@
     },
     {
       "id": "fb-bfp2-1002128899657876_122123541687081011",
-      "title": "On September 23, 2024, Titay Municipal Fire Station trained teachers and studen…",
-      "summary": "On September 23, 2024, Titay Municipal Fire Station trained teachers and students of Salip T. Hasim National High School as members of the School Emergency Response Team (SERT), equipping them with essential knowledge and practical skills in emergency preparedness, first aid, basic firefighting, and rescue. Through hands-on activities and team exercises, the participants were empowered to respond effectively to emergencies and help build a safer and more disaster-resilient school community.",
+      "title": "On September 23, 2026, Titay Municipal Fire Station trained teachers and studen…",
+      "summary": "On September 23, 2026, Titay Municipal Fire Station trained teachers and students of Salip T. Hasim National High School as members of the School Emergency Response Team (SERT), equipping them with essential knowledge and practical skills in emergency preparedness, first aid, basic firefighting, and rescue. Through hands-on activities and team exercises, the participants were empowered to respond effectively to emergencies and help build a safer and more disaster-resilient school community.",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122123541687081011.jpg",
       "publishedDate": "2026-09-25T01:28:34+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122123541687081011",
@@ -400,7 +427,7 @@
     {
       "id": "fb-bfp2-1002128899657876_122123393205081011",
       "title": "EMPOWERING SCHOOLS TO RESPOND",
-      "summary": "EMPOWERING SCHOOLS TO RESPOND\n\nOn September 22, 2024, Titay Municipal Fire Station trained teachers and students of San Antonio National High School as members of the School Emergency Response Team (SERT), equipping them with essential knowledge and practical skills in emergency preparedness, first aid, basic firefighting, and rescue. Through hands-on activities and team exercises, the participants were empowered to respond effectively to emergencies and help build a safer and more disaster-resilient school community.",
+      "summary": "EMPOWERING SCHOOLS TO RESPOND\n\nOn September 22, 2026, Titay Municipal Fire Station trained teachers and students of San Antonio National High School as members of the School Emergency Response Team (SERT), equipping them with essential knowledge and practical skills in emergency preparedness, first aid, basic firefighting, and rescue. Through hands-on activities and team exercises, the participants were empowered to respond effectively to emergencies and help build a safer and more disaster-resilient school community.",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122123393205081011.jpg",
       "publishedDate": "2026-09-23T20:23:13+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122123393205081011",
@@ -821,15 +848,6 @@
       "source": "BFP Titay"
     },
     {
-      "id": "fb-bfp-111540694644827_2164783900750392",
-      "title": "||𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐨𝐧𝐝𝐚𝐲 𝐅𝐥𝐚𝐠 𝐑𝐚𝐢𝐬𝐢𝐧𝐠 𝐚𝐭 𝐁𝐚𝐲𝐚𝐧 \ud835…",
-      "summary": "||𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐨𝐧𝐝𝐚𝐲 𝐅𝐥𝐚𝐠 𝐑𝐚𝐢𝐬𝐢𝐧𝐠 𝐚𝐭 𝐁𝐚𝐲𝐚𝐧 𝐧𝐠 𝐓𝐢𝐭𝐚𝐲||\n\n07 September 2026 MONDAY - Municipality of Titay\nTitay Municipal Fire Station personnel, led by SFO4 Neil P Siaron, Municipal Fire Marshal, hosted the traditional Monday Flag Raising Ceremony held at the Bayan ng Titay Municipal Grounds.\n\n𝐈𝐧 𝐜𝐚𝐬𝐞 𝐨𝐟 𝐟𝐢𝐫𝐞 𝐚𝐧𝐝/𝐨𝐫 𝐨𝐭𝐡𝐞𝐫 𝐞𝐦𝐞𝐫𝐠𝐞𝐧𝐜𝐢𝐞𝐬\n𝐏𝐥𝐞𝐚𝐬𝐞 𝐜𝐚𝐥𝐥:\n𝐓𝐢𝐭𝐚𝐲 𝐌𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥 𝐅𝐢𝐫𝐞 𝐒𝐭𝐚𝐭𝐢𝐨𝐧 🧑‍🚒👩‍🚒\n📱 𝟎𝟗655090944",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_2164783900750392.jpg",
-      "publishedDate": "2026-09-07T00:01:34+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/2164783900750392",
-      "source": "BFP Titay"
-    },
-    {
       "id": "fb-ldrrmo-1007263869129517_122145709359246473",
       "title": "Be safe everyone ❤️🙏",
       "summary": "Be safe everyone ❤️🙏 \nJust for 2days🙅😷",
@@ -1007,24 +1025,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119662729081011.jpg",
       "publishedDate": "2026-08-17T19:47:19+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119662729081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122119609419081011",
-      "title": "TITAY SCHOOLS, GET READY TO SERTify!",
-      "summary": "TITAY SCHOOLS, GET READY TO SERTify!\n\nSFO4 Neil PSiaron met with Marilou B. Chio, EMD Public Schools District Supervisor, to strengthen coordination for the organization of the School Emergency Response Team (SERT).\n\nThis initiative marks another step toward building prepared, resilient, and disaster-ready schools in the Titay community.\n\nOne school. One team. One mission.\n\nTITAY SCHOOLS — SOON TO BE SERTified! 🚨",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119609419081011.jpg",
-      "publishedDate": "2026-08-17T04:13:32+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119609419081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122119608495081011",
-      "title": "San Isidro Day Care is now SERTify: Ready. Alert. Act.",
-      "summary": "San Isidro Day Care is now SERTify: Ready. Alert. Act.\n\nRecognizing the vulnerability of young children during disasters, on August 14, 2026 Titay MFS personnel visited the remote San Isidro Day Care Center to conduct a fire and earthquake drill. The activity aimed to equip the children and daycare personnel with basic emergency preparedness and response measures, particularly in an area that is seldom reached by firefighters due to its distance.",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119608495081011.jpg",
-      "publishedDate": "2026-08-17T04:06:42+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119608495081011",
       "source": "BFP RIX CRS Titay"
     },
     {
