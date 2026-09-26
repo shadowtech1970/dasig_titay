@@ -1,6 +1,25 @@
 {
-  "version": 67,
+  "version": 69,
   "alerts": [
+    {
+      "id": "pagasa-1bfd917e-5251-4bea-ac60-5751e64f50c4",
+      "type": "flood",
+      "severity": "info",
+      "source": "PAGASA",
+      "issued_at": "2026-09-26T22:25:25.358Z",
+      "event_time": "2026-09-26T21:22:18.000Z",
+      "title": "Natapos na ang PAGASA Flood Advisory — Zamboanga Sibugay",
+      "body": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, At 3:00 AM today, the center of Typhoon \"QUEENIE\" was estimated based on all available data at 675 km Northeast of Itbayat, Batanes (24.2&#xB0;N 127.3&#xB0;E) with maximum sustained winds of 130 km/h near the center and gustiness of up to 160 km/h. It is moving North Northeastward at 15 km/h. Intertropical Convergence Zone (ITCZ) affecting Palawan, Visayas and Mindanao. The 12-hour rainfall forecast is islated light rains or thunderstorms.\nWith this development and unless significant rain occurs, this is the final general flood advisory for this event.\nTinubdan: PAGASA-DOST · Set 27, 5:22 AM",
+      "detail": {
+        "felt_note": "Dili na apektado: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.",
+        "source_url": "https://www.pagasa.dost.gov.ph/flood",
+        "cap_url": "https://publicalert.pagasa.dost.gov.ph/output/gfa/1bfd917e-5251-4bea-ac60-5751e64f50c4.cap",
+        "series": "gfa|Region 9 (Zamboanga Peninsula)",
+        "advisory_no": 4,
+        "final": true,
+        "expires": "2026-09-27T09:22:18.000Z"
+      }
+    },
     {
       "id": "pagasa-16e0bbd6-b1ab-461b-95ed-cc7a7fb2e14d",
       "type": "flood",
@@ -2201,13 +2220,33 @@
     "2026-09-25T17:28|5.35|125.29",
     "2026-09-25T16:36|12.84|123.37",
     "2026-09-25T13:05|19.14|121.24",
-    "2026-09-25T10:48|18.32|120.93"
+    "2026-09-25T10:48|18.32|120.93",
+    "2026-09-26T21:55|17.68|122.38",
+    "2026-09-26T21:52|11.76|125.55",
+    "2026-09-26T21:41|5.88|125.36",
+    "2026-09-26T21:28|14.49|121.89",
+    "2026-09-26T21:18|7.44|126.69",
+    "2026-09-26T21:08|9.92|124.25",
+    "2026-09-26T20:45|15.08|122.13",
+    "2026-09-26T20:42|9.50|123.16",
+    "2026-09-26T20:24|7.08|125.91",
+    "2026-09-26T20:15|5.37|125.28",
+    "2026-09-26T19:42|10.46|123.16",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/534f6170-20d2-461b-860e-061162a7e382.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/828f734b-12f8-4127-8fbe-aa411477e0af.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/111c7b61-867d-4f5e-954c-e09c5fc34499.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1bfd917e-5251-4bea-ac60-5751e64f50c4.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/fa89f6dd-0e5e-489a-b4af-b465d20067af.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/fdd846c9-2890-45ce-8480-346adda84dec.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/774eaf11-a0a0-4b86-8bea-62752fbecd27.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/60e019c2-a2ff-483b-ba6b-20ceb6495966.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/fb916d0f-eeb3-4dd1-b9c2-6369af009922.cap"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-09-26T19:33:17.717Z"
+    "checked_at": "2026-09-26T22:25:29.032Z"
   }
 }
