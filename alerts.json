@@ -1,6 +1,28 @@
 {
-  "version": 69,
+  "version": 71,
   "alerts": [
+    {
+      "id": "eq-2026-09-26T23538.41122.96",
+      "type": "earthquake",
+      "severity": "warning",
+      "source": "PHIVOLCS",
+      "issued_at": "2026-09-27T00:47:21.710Z",
+      "event_time": "2026-09-26T23:53:00.000Z",
+      "title": "Magnitude 3.2 nga linog — 88 km amihanan sa Titay",
+      "body": "M 3.2 · giladmon 17 km\n008 km S 64° W of Jose Dalman (Zamboanga Del Norte)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Set 27, 7:53 AM",
+      "detail": {
+        "magnitude": 3.2,
+        "depth_km": 17,
+        "epicenter": "008 km S 64° W of Jose Dalman (Zamboanga Del Norte)",
+        "distance_km": 88,
+        "bearing": "NNE",
+        "bearing_ceb": "amihanan",
+        "latitude": 8.41,
+        "longitude": 122.96,
+        "felt_note": "Huyang nga pagkurog, kasagaran walay kadaot.",
+        "source_url": "https://earthquake.phivolcs.dost.gov.ph/EQLatest.html"
+      }
+    },
     {
       "id": "pagasa-1bfd917e-5251-4bea-ac60-5751e64f50c4",
       "type": "flood",
@@ -2240,13 +2262,20 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/fdd846c9-2890-45ce-8480-346adda84dec.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/774eaf11-a0a0-4b86-8bea-62752fbecd27.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/60e019c2-a2ff-483b-ba6b-20ceb6495966.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/fb916d0f-eeb3-4dd1-b9c2-6369af009922.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/acp/fb916d0f-eeb3-4dd1-b9c2-6369af009922.cap",
+    "2026-09-27T00:38|9.10|125.80",
+    "2026-09-27T00:05|6.58|125.27",
+    "2026-09-26T23:53|8.41|122.96",
+    "2026-09-26T23:48|12.31|124.66",
+    "2026-09-26T23:19|8.02|125.92",
+    "2026-09-26T23:09|12.87|125.10",
+    "2026-09-26T22:56|5.92|125.39"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-09-26T22:25:29.032Z"
+    "checked_at": "2026-09-27T00:47:23.581Z"
   }
 }
