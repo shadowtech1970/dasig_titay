@@ -1,6 +1,28 @@
 {
-  "version": 79,
+  "version": 81,
   "alerts": [
+    {
+      "id": "eq-2026-09-26T23538.43122.91",
+      "type": "earthquake",
+      "severity": "warning",
+      "source": "PHIVOLCS",
+      "issued_at": "2026-09-27T23:16:50.434Z",
+      "event_time": "2026-09-26T23:53:00.000Z",
+      "title": "Magnitude 3.2 nga linog — 87 km amihanan sa Titay",
+      "body": "M 3.2 · giladmon 15 km\n013 km S 83° W of Jose Dalman (Zamboanga Del Norte)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Set 27, 7:53 AM",
+      "detail": {
+        "magnitude": 3.2,
+        "depth_km": 15,
+        "epicenter": "013 km S 83° W of Jose Dalman (Zamboanga Del Norte)",
+        "distance_km": 87,
+        "bearing": "NNE",
+        "bearing_ceb": "amihanan",
+        "latitude": 8.43,
+        "longitude": 122.91,
+        "felt_note": "Huyang nga pagkurog, kasagaran walay kadaot.",
+        "source_url": "https://earthquake.phivolcs.dost.gov.ph/EQLatest.html"
+      }
+    },
     {
       "id": "eq-2026-09-26T23538.41122.96",
       "type": "earthquake",
@@ -2382,13 +2404,31 @@
     "2026-09-26T19:43|10.43|123.17",
     "2026-09-26T18:55|13.47|125.33",
     "2026-09-26T18:39|6.39|126.30",
-    "2026-09-26T18:35|9.85|126.57"
+    "2026-09-26T18:35|9.85|126.57",
+    "2026-09-27T22:00|5.55|125.16",
+    "2026-09-27T21:49|13.27|120.45",
+    "2026-09-27T21:45|5.80|124.36",
+    "2026-09-27T21:01|19.37|121.82",
+    "2026-09-27T20:57|6.60|125.26",
+    "2026-09-27T20:43|13.22|123.26",
+    "2026-09-27T20:40|9.86|122.49",
+    "2026-09-27T20:37|13.28|120.48",
+    "2026-09-27T20:33|13.28|120.44",
+    "2026-09-27T20:05|13.00|124.04",
+    "2026-09-27T00:54|5.52|125.33",
+    "2026-09-27T00:41|5.73|125.17",
+    "2026-09-27T00:05|6.49|125.25",
+    "2026-09-26T23:53|8.43|122.91",
+    "2026-09-26T23:09|12.83|125.10",
+    "2026-09-26T20:45|15.07|122.08",
+    "2026-09-26T20:42|9.27|123.15",
+    "2026-09-26T20:24|7.08|125.88"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-09-27T20:18:46.589Z"
+    "checked_at": "2026-09-27T23:16:52.375Z"
   }
 }
