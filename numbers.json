@@ -1,5 +1,5 @@
 {
-  "version": "1.0.59",
+  "version": "1.0.60",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122191315340935139",
+      "title": "On behalf of Mayor DONRIO Martinez, we extend our heartfelt congratulations to…",
+      "description": "On behalf of Mayor DONRIO Martinez, we extend our heartfelt congratulations to our Student Athletes and Coaches from Titay District for being hailed as the Overall Champion in the recently concluded SLC1 Athletic Association Qualifying Meet 2026 and for bringing home the Cleanest Delegation Award! 🏆\n\nDako kaayo among garbo sa inyong kakugi, disiplina, teamwork, ug sportsmanship. Padayon sa pagdala sa ngalan sa Titay nga adunay garbo ug DASIG Spirit!\n\nCongratulations, Titay District! ❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191315340935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191315340935139"
+    },
     {
       "id": "fb-751559508033473_122191096340935139",
       "title": "The wait is almost over!",
@@ -200,20 +207,6 @@
       "description": "Visit Titay Municipal Park. Love Titay. Dasig Titay!❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122187790208935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122187790208935139"
-    },
-    {
-      "id": "fb-751559508033473_122187636128935139",
-      "title": "East-West Seed Knowledge Transfer!🌾",
-      "description": "East-West Seed Knowledge Transfer!🌾\n\nDaghang salamat sa East-West Seed Knowledge Transfer sa pagpaambit sa inyong kahibalo ug teknolohiya nga makatabang sa atong mga mag-uuma sa Titay. 🌾\n\nAmong mainitong pasalamat kang Director Vener Dilig sa DA, sa Provincial Agriculture Office, ug kang Sir Rex Lagasca, Municipal Agriculturist, sa inyong padayon nga suporta sa atong agricultural sector.\n\nDaghang Salamat, Mayora DONRIO Martinez , sa inyong walay hunong nga suporta ug pag-prioritize sa atong mga mag-uuma. \n\nPadayon ta sa pagdasig, pagkat-on, ug paglambo—para sa atong mag-uuma, para sa Titay! 🌱\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122187636128935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122187636128935139"
-    },
-    {
-      "id": "fb-751559508033473_122187504158935139",
-      "title": "Achievement overview of Mayor DONRIO Martinez. Always Mahigugmaon, Kanunay MaDA…",
-      "description": "Achievement overview of Mayor DONRIO Martinez. Always Mahigugmaon, Kanunay MaDASIGon. #DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122187504158935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122187504158935139"
     }
   ],
   "newsArticles": [
