@@ -1,6 +1,24 @@
 {
-  "version": 87,
+  "version": 89,
   "alerts": [
+    {
+      "id": "pagasa-1558da75-6b83-489d-93a9-d18cc4f6822e",
+      "type": "flood",
+      "severity": "info",
+      "source": "PAGASA",
+      "issued_at": "2026-09-28T22:26:00.477Z",
+      "event_time": "2026-09-28T21:33:11.000Z",
+      "title": "PAGASA Flood Advisory #2 — Zamboanga Sibugay (Moderate)",
+      "body": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Intertropical Convergence Zone (ITCZ) affecting Palawan, Visayas and Mindanao. The 12-hour rainfall forecast is Light to moderate rains and thunderstorms.\nPeople living near the mountain slopes and in the low lying areas of the above mentioned river systems and the Local Disaster Risk Reduction and Management Councils concerned advised to take necessary precautionary measures.\nTinubdan: PAGASA-DOST · Set 29, 5:33 AM · Balido hangtod Set 29, 5:33 PM",
+      "detail": {
+        "felt_note": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.",
+        "source_url": "https://www.pagasa.dost.gov.ph/flood",
+        "cap_url": "https://publicalert.pagasa.dost.gov.ph/output/gfa/1558da75-6b83-489d-93a9-d18cc4f6822e.cap",
+        "series": "gfa|Region 9 (Zamboanga Peninsula)",
+        "advisory_no": 2,
+        "expires": "2026-09-29T09:33:11.000Z"
+      }
+    },
     {
       "id": "pagasa-9871cf30-e64a-426d-ad9a-765ba556dd4b",
       "type": "flood",
@@ -2522,13 +2540,41 @@
     "2026-09-27T11:54|13.58|123.13",
     "2026-09-27T11:54|5.67|125.33",
     "2026-09-27T11:41|7.99|124.10",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/9871cf30-e64a-426d-ad9a-765ba556dd4b.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/9871cf30-e64a-426d-ad9a-765ba556dd4b.cap",
+    "2026-09-28T21:39|10.14|125.81",
+    "2026-09-28T21:31|6.53|123.84",
+    "2026-09-28T21:11|17.82|122.68",
+    "2026-09-28T21:07|5.99|125.40",
+    "2026-09-28T21:03|5.86|125.33",
+    "2026-09-28T20:46|16.85|122.09",
+    "2026-09-28T20:29|11.42|123.04",
+    "2026-09-28T20:09|5.93|125.40",
+    "2026-09-28T19:58|7.51|126.70",
+    "2026-09-28T19:45|8.98|126.55",
+    "2026-09-28T19:44|6.38|125.83",
+    "2026-09-28T19:17|9.71|126.26",
+    "2026-09-28T18:51|6.76|124.70",
+    "2026-09-28T18:50|10.27|123.20",
+    "2026-09-28T18:47|5.31|125.35",
+    "2026-09-28T18:46|15.10|122.05",
+    "2026-09-28T18:42|5.64|125.40",
+    "2026-09-28T18:41|9.88|126.63",
+    "2026-09-28T18:40|6.46|125.78",
+    "2026-09-28T18:38|19.20|121.41",
+    "2026-09-28T18:16|19.55|121.51",
+    "2026-09-28T17:54|9.65|126.24",
+    "2026-09-28T17:27|18.90|121.14",
+    "2026-09-28T17:24|4.50|125.22",
+    "2026-09-28T17:18|5.26|125.43",
+    "2026-09-28T16:33|19.60|121.52",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1707d1a5-4508-4b23-8ff5-bbd422dc4a0a.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1558da75-6b83-489d-93a9-d18cc4f6822e.cap"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-09-28T16:54:58.840Z"
+    "checked_at": "2026-09-28T22:26:00.478Z"
   }
 }
