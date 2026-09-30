@@ -1,5 +1,5 @@
 {
-  "version": 105,
+  "version": 107,
   "alerts": [
     {
       "id": "pagasa-54a8fb14-ef61-4fac-b833-67b24e9eafdd",
@@ -2809,16 +2809,51 @@
     "2026-09-29T12:07|13.70|124.79",
     "2026-09-29T12:06|19.08|121.83",
     "2026-09-29T11:56|3.49|125.83",
-    "2026-09-29T10:48|5.29|125.20"
+    "2026-09-29T10:48|5.29|125.20",
+    "2026-09-30T21:03|17.47|122.21",
+    "2026-09-30T20:20|5.66|125.43",
+    "2026-09-30T20:17|6.47|125.69",
+    "2026-09-30T19:53|19.28|121.07",
+    "2026-09-30T19:40|19.59|120.99",
+    "2026-09-30T19:30|18.35|120.55",
+    "2026-09-30T19:25|7.28|126.66",
+    "2026-09-30T19:12|13.17|120.39",
+    "2026-09-30T19:12|7.18|127.04",
+    "2026-09-30T19:11|18.78|120.83",
+    "2026-09-30T18:22|5.37|125.29",
+    "2026-09-30T18:00|6.05|126.33",
+    "2026-09-30T17:59|17.14|121.49",
+    "2026-09-30T17:49|15.20|120.25",
+    "2026-09-30T17:42|19.10|121.14",
+    "2026-09-30T17:37|6.56|125.61",
+    "2026-09-30T17:21|7.39|124.75",
+    "2026-09-30T17:17|19.79|121.28",
+    "2026-09-30T17:07|4.16|125.06",
+    "2026-09-30T17:04|12.85|122.97"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days"
     ],
     "pagasa": "ok",
-    "checked_at": "2026-09-30T16:42:00.658Z"
+    "checked_at": "2026-09-30T21:15:26.173Z"
   }
 }
