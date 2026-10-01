@@ -1,5 +1,5 @@
 {
-  "version": 113,
+  "version": 115,
   "alerts": [
     {
       "id": "pagasa-5ea3b3e3-cb17-446e-9067-97859b5bd515",
@@ -2935,7 +2935,21 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/476f52c4-5aab-4c4d-92e7-f6192ab2ad2c.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5ea3b3e3-cb17-446e-9067-97859b5bd515.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/0f3abb2d-4492-4e96-95be-38f2cdde7b80.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7def9e6e-6a04-4797-9209-d0e387efb85e.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7def9e6e-6a04-4797-9209-d0e387efb85e.cap",
+    "2026-10-01T19:16|20.73|121.23",
+    "2026-10-01T18:57|5.64|125.31",
+    "2026-10-01T18:34|5.52|125.22",
+    "2026-10-01T18:10|10.43|123.02",
+    "2026-10-01T18:07|8.67|126.75",
+    "2026-10-01T16:26|19.15|121.14",
+    "2026-10-01T15:41|6.67|126.26",
+    "2026-10-01T15:13|13.21|120.44",
+    "2026-10-01T14:52|5.44|125.28",
+    "2026-10-01T14:43|13.13|120.40",
+    "2026-10-01T14:03|10.46|123.10",
+    "2026-10-01T05:34|6.06|123.75",
+    "2026-09-30T21:03|17.54|122.30",
+    "2026-09-30T19:12|7.26|126.75"
   ],
   "health": {
     "phivolcs": "ok",
@@ -2983,9 +2997,26 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days"
     ],
     "pagasa": "ok",
-    "checked_at": "2026-10-01T14:17:49.356Z"
+    "checked_at": "2026-10-01T19:42:46.746Z"
   }
 }
