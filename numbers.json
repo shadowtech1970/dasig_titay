@@ -1,5 +1,5 @@
 {
-  "version": "1.0.66",
+  "version": "1.0.67",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122191927322935139",
+      "title": "It has come to our attention that a separate account that bears the name “DASIG…",
+      "description": "It has come to our attention that a separate account that bears the name “DASIG TITAY”, stealing our display and cover photo, was created. Reminding everyone, that the said account is fake.\n\nThis is the only official account of Dasig Titay. We don’t have and we will never create a separate account.\n\nThis is an act of intellectual dishonesty and will never be tolerated.\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191927322935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191927322935139"
+    },
     {
       "id": "fb-751559508033473_122191827926935139",
       "title": "Our Gandang Lolo and Gandang Lola 2026 in their Official Photoshoot.❤️",
@@ -186,16 +193,27 @@
       "description": "That concludes our Kulay Kabataan: Youth Painting Workshop.\n\nDAGHANG SALAMAT MAYORA DONRIO Martinez!❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122188925330935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1394999778742399/"
-    },
-    {
-      "id": "fb-751559508033473_122188901690935139",
-      "title": "YOUTH PAINTING WORKSHOP.❤️",
-      "description": "YOUTH PAINTING WORKSHOP.❤️\n\nDaghang Salamat Mayora DONRIO Martinez!\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122188901690935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/28759328587006070/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp-111540694644827_1106425188567475",
+      "title": "🔥 TAGURO CHALLENGE! 💪🚒",
+      "summary": "🔥 TAGURO CHALLENGE! 💪🚒 \n      𝐎𝐜𝐭𝐨𝐛𝐞𝐫 𝟎𝟏, 𝟐𝟎𝟐𝟔\n\nTitay Municipal Fire Station, headed by SFO4 Niel P Siaron, Acting Municipal Fire Marshal, proudly accepted the TAGURO Challenge as part of the physical fitness and skills enhancement activities for BFP personnel.\n\nThe TAGURO Challenge—which stands for Testing Agility, Grit, Unity, and Readiness in Operation—is a dynamic skills enhancement initiative developed by the Bureau of Fire Protection – Zamboanga Sibugay. It aims to strengthen the physical fitness, teamwork, agility, endurance, and operational readiness of BFP personnel.\n\nThrough this challenge, our firefighters continue to develop the strength, discipline, and teamwork needed to effectively respond to emergencies and serve the community.\n\nSTRONGER. FITTER. READY TO RESPOND. 🔥💪🚒\n\n#TAGUROChallenge\n#TitayMFS\n#BFPResponders\n#PhysicalFitness\n#OperationalReadiness",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1106425188567475.jpg",
+      "publishedDate": "2026-10-01T04:49:29+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1106425188567475",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1562988525124424",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 01 October 2026 (THURSDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1562988525124424.jpg",
+      "publishedDate": "2026-09-30T21:42:06+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1562988525124424",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1662527992550127",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -800,15 +818,6 @@
       "source": "BFP RIX CRS Titay"
     },
     {
-      "id": "fb-bfp-111540694644827_1088657403677587",
-      "title": "The Municipality of Titay continues to advance toward a more responsive and coo…",
-      "summary": "The Municipality of Titay continues to advance toward a more responsive and coordinated emergency management system, as government agencies joined the 3rd Quarter Nationwide Simultaneous Earthquake Drill (NSED) at the Titay Municipal Hall.\n\nRead: https://titayfirestation.com/updates/2026/09/11/titay-advances-emergency-readiness-through-unified-action-during-3rd-quarter-nsed/",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1088657403677587.jpg",
-      "publishedDate": "2026-09-11T01:18:17+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1088657403677587",
-      "source": "BFP Titay"
-    },
-    {
       "id": "fb-ldrrmo-1007263869129517_122146264347246473",
       "title": "LDRRM Titay conducted the 3rd Quarter National Simultaneous Earthquake Drill at…",
       "summary": "LDRRM Titay conducted the 3rd Quarter National Simultaneous Earthquake Drill at Titay Municipal Ground",
@@ -816,15 +825,6 @@
       "publishedDate": "2026-09-10T13:53:05+0000",
       "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122146264347246473",
       "source": "LDRRMO Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1628705075269480",
-      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
-      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 10 September 2026 (THURSDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1628705075269480.jpg",
-      "publishedDate": "2026-09-09T21:32:13+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1628705075269480",
-      "source": "BFP Titay"
     },
     {
       "id": "fb-ldrrmo-1007263869129517_122145709359246473",
