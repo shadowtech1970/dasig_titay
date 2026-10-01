@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 109,
   "alerts": [
     {
       "id": "pagasa-54a8fb14-ef61-4fac-b833-67b24e9eafdd",
@@ -2829,7 +2829,12 @@
     "2026-09-30T17:21|7.39|124.75",
     "2026-09-30T17:17|19.79|121.28",
     "2026-09-30T17:07|4.16|125.06",
-    "2026-09-30T17:04|12.85|122.97"
+    "2026-09-30T17:04|12.85|122.97",
+    "2026-10-01T00:10|6.57|126.48",
+    "2026-10-01T00:06|9.67|126.21",
+    "2026-09-30T23:54|9.55|126.22",
+    "2026-09-30T22:59|9.46|126.28",
+    "2026-09-30T21:14|6.63|126.29"
   ],
   "health": {
     "phivolcs": "ok",
@@ -2851,9 +2856,16 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days"
     ],
     "pagasa": "ok",
-    "checked_at": "2026-09-30T21:15:26.173Z"
+    "checked_at": "2026-10-01T00:42:29.334Z"
   }
 }
