@@ -1,6 +1,28 @@
 {
-  "version": 109,
+  "version": 111,
   "alerts": [
+    {
+      "id": "eq-2026-10-01T05346.04123.79",
+      "type": "earthquake",
+      "severity": "warning",
+      "source": "PHIVOLCS",
+      "issued_at": "2026-10-01T06:55:46.157Z",
+      "event_time": "2026-10-01T05:34:00.000Z",
+      "title": "Magnitude 4.9 nga linog — 233 km habagatang-sidlakan sa Titay",
+      "body": "M 4.9 · giladmon 10 km\n047 km S 66° W of Palimbang (Sultan Kudarat)\nMahimong mabati ug gamay sa Titay.\nTinubdan: PHIVOLCS · Okt 1, 1:34 PM",
+      "detail": {
+        "magnitude": 4.9,
+        "depth_km": 10,
+        "epicenter": "047 km S 66° W of Palimbang (Sultan Kudarat)",
+        "distance_km": 233,
+        "bearing": "SE",
+        "bearing_ceb": "habagatang-sidlakan",
+        "latitude": 6.04,
+        "longitude": 123.79,
+        "felt_note": "Mahimong mabati ug gamay sa Titay.",
+        "source_url": "https://earthquake.phivolcs.dost.gov.ph/EQLatest.html"
+      }
+    },
     {
       "id": "pagasa-54a8fb14-ef61-4fac-b833-67b24e9eafdd",
       "type": "flood",
@@ -2834,7 +2856,20 @@
     "2026-10-01T00:06|9.67|126.21",
     "2026-09-30T23:54|9.55|126.22",
     "2026-09-30T22:59|9.46|126.28",
-    "2026-09-30T21:14|6.63|126.29"
+    "2026-09-30T21:14|6.63|126.29",
+    "2026-10-01T05:34|6.04|123.79",
+    "2026-10-01T03:12|18.56|121.00",
+    "2026-10-01T02:28|5.75|125.14",
+    "2026-10-01T02:12|7.33|127.23",
+    "2026-10-01T01:06|5.47|125.41",
+    "2026-10-01T00:42|5.42|125.35",
+    "2026-09-30T19:12|7.18|126.91",
+    "2026-09-30T09:59|19.73|121.30",
+    "2026-09-30T09:00|5.42|125.26",
+    "2026-09-30T08:57|9.66|125.90",
+    "2026-09-30T08:27|9.68|125.99",
+    "2026-09-30T02:30|4.71|125.87",
+    "2026-09-30T02:22|5.72|125.14"
   ],
   "health": {
     "phivolcs": "ok",
@@ -2863,9 +2898,18 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days"
     ],
     "pagasa": "ok",
-    "checked_at": "2026-10-01T00:42:29.334Z"
+    "checked_at": "2026-10-01T06:55:50.686Z"
   }
 }
