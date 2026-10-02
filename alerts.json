@@ -1,5 +1,5 @@
 {
-  "version": 119,
+  "version": 121,
   "alerts": [
     {
       "id": "pagasa-5ea3b3e3-cb17-446e-9067-97859b5bd515",
@@ -2974,7 +2974,29 @@
     "2026-10-01T06:56|10.67|122.53",
     "2026-10-01T03:12|18.65|120.94",
     "2026-10-01T02:28|5.75|125.13",
-    "2026-10-01T02:12|7.41|127.01"
+    "2026-10-01T02:12|7.41|127.01",
+    "2026-10-02T10:30|13.33|120.37",
+    "2026-10-02T10:28|9.61|125.57",
+    "2026-10-02T10:14|7.27|123.43",
+    "2026-10-02T10:08|17.05|120.83",
+    "2026-10-02T09:50|18.95|121.34",
+    "2026-10-02T09:23|13.16|124.53",
+    "2026-10-02T08:46|17.68|121.28",
+    "2026-10-02T08:24|12.79|123.04",
+    "2026-10-02T08:15|14.65|119.42",
+    "2026-10-02T07:51|18.38|120.80",
+    "2026-10-02T07:31|12.08|124.00",
+    "2026-10-02T06:39|14.68|119.44",
+    "2026-10-02T05:43|14.61|119.38",
+    "2026-10-02T05:38|2.46|126.61",
+    "2026-10-02T05:14|19.28|121.13",
+    "2026-10-02T04:53|15.46|121.78",
+    "2026-10-02T04:44|14.61|119.37",
+    "2026-10-02T04:29|14.69|119.50",
+    "2026-10-01T20:55|7.03|125.96",
+    "2026-10-01T20:21|9.38|126.44",
+    "2026-10-01T14:52|5.65|125.31",
+    "2026-10-01T14:43|13.17|120.44"
   ],
   "health": {
     "phivolcs": "ok",
@@ -3060,9 +3082,20 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-02T04:27:59.110Z"
+    "checked_at": "2026-10-02T10:41:49.090Z"
   }
 }
