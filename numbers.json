@@ -1,5 +1,5 @@
 {
-  "version": "1.0.71",
+  "version": "1.0.72",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122192371454935139",
+      "title": "OPENING OF NIGHT MARKET feat. ACOUSTIC NIGHT.❤️🎶",
+      "description": "OPENING OF NIGHT MARKET feat. ACOUSTIC NIGHT.❤️🎶\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122192371454935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1056378380731918/"
+    },
     {
       "id": "fb-751559508033473_122192325494935139",
       "title": "ACOUSTIC NIGHT 🎶",
@@ -186,16 +193,27 @@
       "description": "🚨 Kung naay sakuna, kabalo ka ba kinsa imong tawgan? 🚨\n\nSunog. Disgrasya sa dalan. Baha. Linog. Pagdahili sa yuta. Bata nga natuk-an. Kawatan. Nakuyapan tungod sa kainit.\n\nSa emergency, ang matag minuto importante — dili na angay nga mangita pa ta og numero.\n\nMao nga ania na ang DASIG TITAY APP — ang emergency app para sa matag Titayanon! 📱\n\n✅ HOTLINES — usa ra ka tap, direkta ka na sa BFP, PNP, LDRRMO, RHU, DSWD, ug MENRO\n✅ EMERGENCY ALERTS — moabot dayon sa imong phone ang pahibalo bahin sa linog ug bagyo, bisan sirado ang app\n✅ HELP TIPS — giya unsay buhaton sa linog, bagyo, sunog, pagdahili sa yuta, ug brownout\n✅ FIRST AID — dali nga giya para sa natuk-an, paso, samad, ug kainit\n✅ BALITA UG ANUNSYO — updated kanunay gikan sa Munisipyo\n\n💚 LIBRE kini!\n📲 I-download na sa Google Play — pangitaa lang ang \"Dasig Titay\"\n👉 https://play.google.com/store/apps/details?id=com.shadowtech.dasig_titayapp\n\nAndam! Alerto! Dasig! 💪\n\nGugma, Buhat ug Serbisyo. Dasig Titay!\n\n#DasigTitay #DasigTitayApp #Titay #ZamboangaSibugay #Ligtas",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122190041066935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1350324787176151/"
-    },
-    {
-      "id": "fb-751559508033473_122189824916935139",
-      "title": "Mr. And Ms. PCSA 2026 | Outdoor Photoshoot.❤️",
-      "description": "Mr. And Ms. PCSA 2026 | Outdoor Photoshoot.❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122189824916935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1644492920718275/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1665923638877229",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1665923638877229.jpg",
+      "publishedDate": "2026-10-03T09:34:36+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1665923638877229",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1665906072212319",
+      "title": "PNP: Good Deeds",
+      "summary": "PNP: Good Deeds\n\n💙 A little kindness can go a long way. 🙏✨\n\nSometimes, a simple helping hand or a small act of generosity may seem ordinary to us, but to someone in need, it can mean the world. ❤️\nLet’s continue to spread kindness, compassion, and hope wherever we go. One small act can make someone’s day brighter. 🌟🤝\n\nBe kind. Share what you can. Make a difference.\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1665906072212319.jpg",
+      "publishedDate": "2026-10-03T09:12:06+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1665906072212319",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1665610142241912",
       "title": "MOBILE PATROL:",
@@ -491,24 +509,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1662525519217041.jpg",
       "publishedDate": "2026-09-30T10:26:30+0000",
       "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1662525519217041",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1662524525883807",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1662524525883807.jpg",
-      "publishedDate": "2026-09-30T10:25:33+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1662524525883807",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1662523952550531",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1662523952550531.jpg",
-      "publishedDate": "2026-09-30T10:24:55+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1662523952550531",
       "source": "PNP Titay"
     },
     {
