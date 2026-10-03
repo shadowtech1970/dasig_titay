@@ -1,6 +1,28 @@
 {
-  "version": 127,
+  "version": 129,
   "alerts": [
+    {
+      "id": "eq-2026-10-03T03357.76122.14",
+      "type": "earthquake",
+      "severity": "warning",
+      "source": "PHIVOLCS",
+      "issued_at": "2026-10-03T06:05:36.771Z",
+      "event_time": "2026-10-03T03:35:00.000Z",
+      "title": "Magnitude 2.6 nga linog — 45 km kasadpan sa Titay",
+      "body": "M 2.6 · giladmon 16 km\n006 km S 02° W of Baliguian (Zamboanga Del Norte)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Okt 3, 11:35 AM",
+      "detail": {
+        "magnitude": 2.6,
+        "depth_km": 16,
+        "epicenter": "006 km S 02° W of Baliguian (Zamboanga Del Norte)",
+        "distance_km": 45,
+        "bearing": "W",
+        "bearing_ceb": "kasadpan",
+        "latitude": 7.76,
+        "longitude": 122.14,
+        "felt_note": "Huyang nga pagkurog, kasagaran walay kadaot.",
+        "source_url": "https://earthquake.phivolcs.dost.gov.ph/EQLatest.html"
+      }
+    },
     {
       "id": "pagasa-5ea3b3e3-cb17-446e-9067-97859b5bd515",
       "type": "flood",
@@ -3113,7 +3135,38 @@
     "2026-10-02T16:46|13.73|120.15",
     "2026-10-02T16:39|5.63|125.30",
     "2026-10-02T16:23|5.24|125.06",
-    "2026-10-02T01:51|15.76|121.94"
+    "2026-10-02T01:51|15.76|121.94",
+    "2026-10-03T05:56|9.66|126.16",
+    "2026-10-03T05:11|5.37|125.24",
+    "2026-10-03T04:52|5.09|125.37",
+    "2026-10-03T04:42|5.74|125.33",
+    "2026-10-03T04:41|18.95|121.19",
+    "2026-10-03T04:16|7.45|126.46",
+    "2026-10-03T04:08|6.68|126.06",
+    "2026-10-03T04:01|13.56|121.41",
+    "2026-10-03T03:45|5.94|126.09",
+    "2026-10-03T03:35|7.76|122.14",
+    "2026-10-03T03:31|18.67|120.92",
+    "2026-10-03T03:25|5.82|125.36",
+    "2026-10-03T03:22|5.99|125.45",
+    "2026-10-03T02:47|10.02|124.19",
+    "2026-10-03T02:47|9.96|124.21",
+    "2026-10-03T02:38|5.92|125.45",
+    "2026-10-03T01:51|5.86|125.34",
+    "2026-10-03T00:50|5.57|125.29",
+    "2026-10-02T12:55|10.84|121.86",
+    "2026-10-02T09:50|18.96|121.18",
+    "2026-10-02T08:46|17.70|121.17",
+    "2026-10-02T07:31|12.09|124.00",
+    "2026-10-02T06:39|14.63|119.27",
+    "2026-10-02T05:43|14.61|119.32",
+    "2026-10-02T05:39|3.36|126.17",
+    "2026-10-02T04:53|15.40|121.76",
+    "2026-10-02T04:44|14.61|119.57",
+    "2026-10-02T04:28|14.65|119.38",
+    "2026-10-02T04:08|12.82|124.77",
+    "2026-10-02T03:33|5.73|125.33",
+    "2026-10-02T03:03|15.41|121.78"
   ],
   "health": {
     "phivolcs": "ok",
@@ -3250,9 +3303,17 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-03T00:37:46.367Z"
+    "checked_at": "2026-10-03T06:05:40.666Z"
   }
 }
