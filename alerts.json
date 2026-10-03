@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 133,
   "alerts": [
     {
       "id": "eq-2026-10-03T03357.76122.14",
@@ -3317,6 +3317,6 @@
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-03T06:56:53.591Z"
+    "checked_at": "2026-10-03T06:57:36.076Z"
   }
 }
