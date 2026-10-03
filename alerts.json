@@ -1,5 +1,5 @@
 {
-  "version": 129,
+  "version": 131,
   "alerts": [
     {
       "id": "eq-2026-10-03T03357.76122.14",
@@ -3166,7 +3166,10 @@
     "2026-10-02T04:28|14.65|119.38",
     "2026-10-02T04:08|12.82|124.77",
     "2026-10-02T03:33|5.73|125.33",
-    "2026-10-02T03:03|15.41|121.78"
+    "2026-10-02T03:03|15.41|121.78",
+    "2026-10-03T06:14|6.90|124.73",
+    "2026-10-03T05:58|6.23|124.79",
+    "2026-10-02T08:15|14.64|119.19"
   ],
   "health": {
     "phivolcs": "ok",
@@ -3314,6 +3317,6 @@
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-03T06:05:40.666Z"
+    "checked_at": "2026-10-03T06:56:53.591Z"
   }
 }
