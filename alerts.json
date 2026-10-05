@@ -1,5 +1,5 @@
 {
-  "version": 153,
+  "version": 155,
   "alerts": [
     {
       "id": "eq-2026-10-03T03357.77122.13",
@@ -3402,7 +3402,12 @@
     "2026-10-03T22:02|12.22|124.62",
     "2026-10-03T21:50|13.63|120.40",
     "2026-10-03T21:04|6.00|126.88",
-    "2026-10-03T20:05|9.52|125.99"
+    "2026-10-03T20:05|9.52|125.99",
+    "2026-10-04T23:27|5.37|125.40",
+    "2026-10-04T21:54|9.94|126.06",
+    "2026-10-04T21:35|5.01|125.42",
+    "2026-10-04T21:05|6.58|126.46",
+    "2026-10-04T02:43|13.63|120.38"
   ],
   "health": {
     "phivolcs": "ok",
@@ -3660,9 +3665,18 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-04T21:15:52.443Z"
+    "checked_at": "2026-10-05T00:04:55.126Z"
   }
 }
