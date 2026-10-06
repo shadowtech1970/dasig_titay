@@ -1,5 +1,5 @@
 {
-  "version": 161,
+  "version": 163,
   "alerts": [
     {
       "id": "eq-2026-10-03T03357.77122.13",
@@ -3501,7 +3501,14 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/28e7767e-e947-49e7-b975-693e172ff3be.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/6df6c602-5709-4ce3-9850-0ea1b80018b9.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/8a24f211-16b4-4a44-bf62-7e612fac8f5b.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1409fcd7-0fbd-4081-9083-1bfa74eb9096.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1409fcd7-0fbd-4081-9083-1bfa74eb9096.cap",
+    "2026-10-06T01:54|12.14|125.06",
+    "2026-10-06T00:13|2.83|125.62",
+    "2026-10-05T23:36|9.09|126.14",
+    "2026-10-05T23:36|7.13|126.24",
+    "2026-10-05T04:21|12.20|123.84",
+    "2026-10-05T04:12|5.67|125.27",
+    "2026-10-05T02:04|10.90|123.99"
   ],
   "health": {
     "phivolcs": "ok",
@@ -3826,9 +3833,11 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-05T22:08:29.206Z"
+    "checked_at": "2026-10-06T02:24:46.078Z"
   }
 }
