@@ -1,5 +1,5 @@
 {
-  "version": "1.0.76",
+  "version": "1.0.77",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122192916836935139",
+      "title": "NARAGSAKAN FESTIVAL 2026",
+      "description": "NARAGSAKAN FESTIVAL 2026\n\nThe celebration is drawing near.\n\nA time to honor our culture, showcase our talents, and celebrate the traditions and vibrant spirit of the people of Titay.\n\nStay tuned as we unveil what awaits.\n\nEditor: Mr. Luegie Openiano.\n\n#naragsakan2026\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122192916836935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1754284533374113/"
+    },
     {
       "id": "fb-751559508033473_122192882168935139",
       "title": "VOTINGS are now closed.❤️",
@@ -179,16 +186,27 @@
       "description": "On behalf of Mayor DONRIO Martinez, we extend our heartfelt congratulations to our Student Athletes and Coaches from Titay District for being hailed as the Overall Champion in the recently concluded SLC1 Athletic Association Qualifying Meet 2026 and for bringing home the Cleanest Delegation Award! 🏆\n\nDako kaayo among garbo sa inyong kakugi, disiplina, teamwork, ug sportsmanship. Padayon sa pagdala sa ngalan sa Titay nga adunay garbo ug DASIG Spirit!\n\nCongratulations, Titay District! ❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191315340935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191315340935139"
-    },
-    {
-      "id": "fb-751559508033473_122191096340935139",
-      "title": "The wait is almost over!",
-      "description": "The wait is almost over!\n\nMeet the official candidates of this year’s Mr. and Ms. PCSA, now presented in their official portraits!\n\nGet ready for a day of confidence, charm, and excitement as our candidates take the stage and vie for the coveted crowns.\n\nCatch the Coronation Ceremony on September 28, 2026, at 9:00 AM at the Titay Imelda Gymnasium.\n\nWho will be crowned Mr. and Ms. PCSA 2026? See you at the crown! 👑\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191096340935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191096340935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1669013925234867",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669013925234867.jpg",
+      "publishedDate": "2026-10-06T11:04:38+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669013925234867",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1668864185249841",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1668864185249841.jpg",
+      "publishedDate": "2026-10-06T07:27:25+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1668864185249841",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-bfp2-1002128899657876_122124793047081011",
       "title": "🔥 INDUSTRIAL & HAZARDOUS MATERIALS MONTH 2026 🔥",
@@ -520,24 +538,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1664419199027673.jpg",
       "publishedDate": "2026-10-02T01:20:52+0000",
       "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1664419199027673",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1664418505694409",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1664418505694409.jpg",
-      "publishedDate": "2026-10-02T01:20:20+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1664418505694409",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1664417779027815",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1664417779027815.jpg",
-      "publishedDate": "2026-10-02T01:19:25+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1664417779027815",
       "source": "PNP Titay"
     },
     {
