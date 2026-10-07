@@ -1,5 +1,5 @@
 {
-  "version": "1.0.77",
+  "version": "1.0.78",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,20 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122193063902935139",
+      "title": "POGING LOLO and GANDANG LOLA 2026 grand Production Number.",
+      "description": "POGING LOLO and GANDANG LOLA 2026 grand Production Number.\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193063902935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1091395870412543/"
+    },
+    {
+      "id": "fb-751559508033473_122193052568935139",
+      "title": "TODAY is the DAY!",
+      "description": "TODAY is the DAY!\n\nPoging Lolo and Gandang Lola 2026.\n\nDasig Titay. Dasig Kanunay with Mayora DONRIO Martinez.❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193052568935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/2321420548609156/"
+    },
     {
       "id": "fb-751559508033473_122192916836935139",
       "title": "NARAGSAKAN FESTIVAL 2026",
@@ -172,23 +186,27 @@
       "description": "Sidelights of this year’s Mr. And Ms. PCSA 2026!\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191459148935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1820790559372304/"
-    },
-    {
-      "id": "fb-751559508033473_122191427156935139",
-      "title": "MR. AND MS. PCSA 2026 | PRODUCTION NUMBER.❤️",
-      "description": "MR. AND MS. PCSA 2026 | PRODUCTION NUMBER.❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191427156935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1663479795133574/"
-    },
-    {
-      "id": "fb-751559508033473_122191315340935139",
-      "title": "On behalf of Mayor DONRIO Martinez, we extend our heartfelt congratulations to…",
-      "description": "On behalf of Mayor DONRIO Martinez, we extend our heartfelt congratulations to our Student Athletes and Coaches from Titay District for being hailed as the Overall Champion in the recently concluded SLC1 Athletic Association Qualifying Meet 2026 and for bringing home the Cleanest Delegation Award! 🏆\n\nDako kaayo among garbo sa inyong kakugi, disiplina, teamwork, ug sportsmanship. Padayon sa pagdala sa ngalan sa Titay nga adunay garbo ug DASIG Spirit!\n\nCongratulations, Titay District! ❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191315340935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191315340935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp2-1002128899657876_122124878457081011",
+      "title": "Ang kaligayahan sa pagtuturo ay hindi nasusukat sa dami ng natutunan, kundi sa…",
+      "summary": "Ang kaligayahan sa pagtuturo ay hindi nasusukat sa dami ng natutunan, kundi sa dami ng buhay na maaaring mailigtas dahil dito",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122124878457081011.jpg",
+      "publishedDate": "2026-10-07T01:00:06+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122124878457081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1105523272022550",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 07 October 2026 (WEDNESDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1105523272022550.jpg",
+      "publishedDate": "2026-10-06T21:26:55+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1105523272022550",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1669013925234867",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -237,7 +255,7 @@
     {
       "id": "fb-bfp-111540694644827_1078812405142883",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
-      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 05 October 2026 (TUESDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 06 October 2026 (TUESDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1078812405142883.jpg",
       "publishedDate": "2026-10-05T21:25:18+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1078812405142883",
@@ -775,15 +793,6 @@
       "source": "LDRRMO Titay"
     },
     {
-      "id": "fb-bfp-111540694644827_1093783843164943",
-      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐕𝐄𝐇𝐈𝐂𝐔𝐋𝐀𝐑 𝐀𝐂𝐂𝐈…",
-      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐕𝐄𝐇𝐈𝐂𝐔𝐋𝐀𝐑 𝐀𝐂𝐂𝐈𝐃𝐄𝐍𝐓)\n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Upon arrival at the scene, the responding team conducted a primary assessment. The patient was found lying supine on the road. Assessment revealed an abrasion on the left knuckles and arm and a laceration on the back of the head.\nFirst aid was provided to prevent further injury during transport. Povidone-iodine (Betadine) was applied to the affected areas to help prevent infection.\nThe patient was transported via BFP ambulance to Dr. George T. Hofer Medical Center for further medical evaluation and management.\nArrived at the hospital and the patient was properly endorsed to the attending medical staff on duty.\n  \n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1093783843164943.jpg",
-      "publishedDate": "2026-09-17T03:00:49+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1093783843164943",
-      "source": "BFP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122122611447081011",
       "title": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS",
       "summary": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS\n\nTitay Municipal Fire Station intensified its inspection and organization of the Emergency Response Team (ERT) of EDJ Foodhub ensuring that its personnel are prepared to respond to fires, medical emergencies, earthquakes, and other possible hazards. The activity focused on strengthening the establishment’s emergency response plan, identifying potential risks, clarifying team responsibilities, and enhancing the employees’ readiness to protect lives and property during emergencies.",
@@ -791,15 +800,6 @@
       "publishedDate": "2026-09-17T02:00:49+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122122611447081011",
       "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1406916001541777",
-      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
-      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 17 September 2026 (Thursday) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1406916001541777.jpg",
-      "publishedDate": "2026-09-16T21:57:45+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1406916001541777",
-      "source": "BFP Titay"
     },
     {
       "id": "fb-bfp2-1002128899657876_122122408047081011",
@@ -1006,15 +1006,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119875915081011.jpg",
       "publishedDate": "2026-08-20T08:14:10+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119875915081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122119763283081011",
-      "title": "FIRE SAFETY TIP OF THE DAY",
-      "summary": "FIRE SAFETY TIP OF THE DAY\nAugust 19, 2026\n\nFire safety starts with awareness and simple everyday habits. A small precaution today can prevent a major fire tomorrow. Stay informed, stay prepared, and always practice fire safety at home, in the workplace, and in your community.\nRemember, fire prevention is everyone's responsibility. Together, let's build a safer and more resilient community.\n\n#FireSafetyTipOfTheDay #FirePrevention #BFP #SafetyFirst #LigtasNaPamayanan",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122119763283081011.jpg",
-      "publishedDate": "2026-08-19T02:00:06+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122119763283081011",
       "source": "BFP RIX CRS Titay"
     },
     {
