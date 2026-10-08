@@ -1,5 +1,5 @@
 {
-  "version": "1.0.80",
+  "version": "1.0.81",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122193316946935139",
+      "title": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT",
+      "description": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT \n\nReady to serve up the spirit of Naragsakan Festival? Step onto the court, bring your best game, and rally with us as we celebrate the Naragsakan Festival through an exciting pickleball tournament!\n\nVenue: Donrio Covered Court, Kitabog, Titay\n\n📅Date: October 24-25, 2026\n\nCategories:\n\nMen’s Doubles – Beginners (Exclusive Titayanons)\nWomen’s Doubles – Beginners (Exclusive Titayanons)\nMen’s Doubles – Novice (Exclusive Sibugaynons)\nWomen’s Doubles – Novice (Exclusive Sibugaynons)\n👨‍💼Executive Open (Invitational)\n⚡Intermediate Open (Invitational)\n \nWe will be posting the registration details and tournament guidelines on the official Facebook page of Naragsakan Festival Pickleball Tournament tonight!\n \nCelebrate Naragsakan Festival! Grab your paddle and let the rallies, dinks, and smashes bring the court to life!\n\n☎️ 09261778617 ( 💬 Sheng Gabo)\n☎️ 09475264901 ( 💬 Lucky Tumamut)\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193316946935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122193316946935139"
+    },
     {
       "id": "fb-751559508033473_122193163136935139",
       "title": "One account states that the name Titay comes from the word “Taytay,” a Subanen…",
@@ -186,13 +193,6 @@
       "description": "Thank you Santa Fe National High School for the warm welcome.❤️\n\nDay 9 on Anti-Bullying, Cybercrime, Drug Awareness, and Teenage Pregnancy Prevention Symposium.\n\nThank you, Mayora DONRIO Martinez for this initiative and support to promoting our youths safety and security.\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191802522935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/29010063535285571/"
-    },
-    {
-      "id": "fb-751559508033473_122191770614935139",
-      "title": "MR. AND MS. PCSA 2026 ✨",
-      "description": "MR. AND MS. PCSA 2026 ✨\n\nA celebration of confidence, camaraderie, and the spirit of being a Lingkod Bayani! \n\nCongratulations to all our participants who showcased their confidence, personality, and pride as public servants of the Municipality of Titay.\n\nDaghang salamat sa tanan nga niapil, nitabang, ug nisupporta sa atong Mr. and Ms. PCSA 2026.\n\nSpecial thanks to our Municipal Mayor, Hon. Riorita “Donrio” Martinez Castillo, RPh, for her continued support and appreciation of our hardworking Lingkod Bayani.\n\nCongratulations to all our winners! ❤️\n\nPuso. Dangal. Galing. Para sa Bayan.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122191770614935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122191770614935139"
     }
   ],
   "newsArticles": [
