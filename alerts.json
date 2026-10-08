@@ -1,5 +1,5 @@
 {
-  "version": 177,
+  "version": 179,
   "alerts": [
     {
       "id": "eq-2026-10-03T03357.77122.13",
@@ -3684,7 +3684,20 @@
     "2026-10-06T19:17|18.97|120.71",
     "2026-10-06T17:50|5.18|125.30",
     "2026-10-06T16:19|13.55|121.50",
-    "2026-10-06T15:22|5.77|125.40"
+    "2026-10-06T15:22|5.77|125.40",
+    "2026-10-07T23:34|5.22|125.38",
+    "2026-10-07T21:22|11.42|125.43",
+    "2026-10-07T21:17|13.28|121.63",
+    "2026-10-07T20:55|11.07|124.08",
+    "2026-10-07T20:39|6.10|126.36",
+    "2026-10-07T20:25|17.68|120.79",
+    "2026-10-07T20:14|8.21|122.25",
+    "2026-10-07T20:01|15.59|120.03",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/d5385ae7-318c-404a-ab0c-43cdc283f593.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/ef2b4f21-af17-49b9-ab44-b0eac789e308.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/03e0bc93-d558-4920-83bb-f03ce2c4e12c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/ac07dabb-866d-42ab-9da2-ca5c3c61fa3d.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/416b1132-058b-4a14-9534-6d6d875f6ad5.cap"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4095,9 +4108,17 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-07T20:04:55.477Z"
+    "checked_at": "2026-10-08T00:20:01.148Z"
   }
 }
