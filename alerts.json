@@ -1,5 +1,5 @@
 {
-  "version": 194,
+  "version": 196,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -3918,7 +3918,17 @@
     "2026-10-09T14:16|5.64|125.29",
     "2026-10-09T14:12|3.86|126.29",
     "2026-10-09T14:07|5.62|125.31",
-    "2026-10-09T14:03|5.66|125.12"
+    "2026-10-09T14:03|5.66|125.12",
+    "2026-10-09T23:05|5.06|125.14",
+    "2026-10-09T22:13|11.20|124.11",
+    "2026-10-09T22:06|11.06|123.19",
+    "2026-10-09T21:40|5.60|125.41",
+    "2026-10-09T20:52|12.91|122.96",
+    "2026-10-09T20:06|12.11|125.07",
+    "2026-10-09T20:04|5.63|125.32",
+    "2026-10-09T19:59|5.74|125.19",
+    "2026-10-09T18:28|10.24|125.68",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/e2049e3d-f242-4fb8-950b-d225fba29055.cap"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4441,9 +4451,25 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-09T19:37:59.434Z"
+    "checked_at": "2026-10-09T23:50:58.791Z"
   }
 }
