@@ -1,5 +1,5 @@
 {
-  "version": 192,
+  "version": 194,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -3906,7 +3906,19 @@
     "2026-10-08T02:38|8.62|126.32",
     "2026-10-08T02:21|9.87|126.52",
     "2026-10-08T02:11|9.12|126.35",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/db6276cb-5148-437e-b43a-2f4406e01b8d.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/db6276cb-5148-437e-b43a-2f4406e01b8d.cap",
+    "2026-10-09T17:44|13.66|120.63",
+    "2026-10-09T17:18|14.79|119.57",
+    "2026-10-09T17:08|8.93|123.97",
+    "2026-10-09T16:13|11.77|125.20",
+    "2026-10-09T15:56|12.40|123.57",
+    "2026-10-09T15:55|19.27|121.17",
+    "2026-10-09T15:08|7.71|126.68",
+    "2026-10-09T14:18|18.40|120.58",
+    "2026-10-09T14:16|5.64|125.29",
+    "2026-10-09T14:12|3.86|126.29",
+    "2026-10-09T14:07|5.62|125.31",
+    "2026-10-09T14:03|5.66|125.12"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4402,9 +4414,36 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-09T14:10:42.424Z"
+    "checked_at": "2026-10-09T19:37:59.434Z"
   }
 }
