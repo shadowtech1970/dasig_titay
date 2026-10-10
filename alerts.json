@@ -1,5 +1,5 @@
 {
-  "version": 204,
+  "version": 206,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -4029,7 +4029,24 @@
     "2026-10-10T17:10|12.87|123.56",
     "2026-10-10T17:05|4.64|126.23",
     "2026-10-10T16:47|12.97|120.72",
-    "2026-10-10T16:45|3.38|126.64"
+    "2026-10-10T16:45|3.38|126.64",
+    "2026-10-10T23:25|19.36|121.36",
+    "2026-10-10T23:02|8.55|126.38",
+    "2026-10-10T22:57|5.61|125.36",
+    "2026-10-10T22:53|4.66|126.08",
+    "2026-10-10T22:44|10.10|123.39",
+    "2026-10-10T22:38|18.78|120.91",
+    "2026-10-10T22:16|9.79|122.81",
+    "2026-10-10T22:15|5.97|125.36",
+    "2026-10-10T21:35|6.94|126.15",
+    "2026-10-10T21:28|6.77|124.55",
+    "2026-10-10T21:10|10.25|125.87",
+    "2026-10-10T21:06|7.80|123.61",
+    "2026-10-10T20:53|8.32|127.50",
+    "2026-10-10T20:47|5.49|125.20",
+    "2026-10-10T20:28|5.36|125.21",
+    "2026-10-10T20:27|9.03|126.48",
+    "2026-10-10T20:17|4.99|126.19"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4623,9 +4640,13 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-10T20:13:46.626Z"
+    "checked_at": "2026-10-10T23:43:20.045Z"
   }
 }
