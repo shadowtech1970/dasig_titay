@@ -1,5 +1,5 @@
 {
-  "version": 206,
+  "version": 208,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -4046,7 +4046,26 @@
     "2026-10-10T20:47|5.49|125.20",
     "2026-10-10T20:28|5.36|125.21",
     "2026-10-10T20:27|9.03|126.48",
-    "2026-10-10T20:17|4.99|126.19"
+    "2026-10-10T20:17|4.99|126.19",
+    "2026-10-11T04:18|16.11|120.70",
+    "2026-10-11T03:59|16.66|122.10",
+    "2026-10-11T02:43|7.18|122.05",
+    "2026-10-11T02:37|18.39|122.59",
+    "2026-10-11T02:35|5.20|126.41",
+    "2026-10-11T02:22|11.13|123.95",
+    "2026-10-11T01:14|9.70|126.29",
+    "2026-10-11T00:58|5.63|125.36",
+    "2026-10-11T00:44|10.87|122.59",
+    "2026-10-11T00:19|9.66|126.14",
+    "2026-10-10T23:59|6.85|126.75",
+    "2026-10-10T23:53|19.72|121.31",
+    "2026-10-10T22:38|18.76|120.85",
+    "2026-10-10T10:15|13.22|123.95",
+    "2026-10-10T09:37|15.00|121.32",
+    "2026-10-10T06:52|5.40|125.46",
+    "2026-10-10T06:42|15.41|119.82",
+    "2026-10-10T06:36|6.60|125.24",
+    "2026-10-10T06:06|11.41|125.38"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4644,9 +4663,20 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-10T23:43:20.045Z"
+    "checked_at": "2026-10-11T04:29:08.069Z"
   }
 }
