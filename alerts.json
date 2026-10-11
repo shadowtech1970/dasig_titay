@@ -1,5 +1,5 @@
 {
-  "version": 212,
+  "version": 214,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -4120,7 +4120,24 @@
     "2026-10-10T17:05|4.50|126.22",
     "2026-10-10T15:13|19.61|121.27",
     "2026-10-10T15:08|5.50|125.45",
-    "2026-10-10T12:08|7.10|123.67"
+    "2026-10-10T12:08|7.10|123.67",
+    "2026-10-11T20:13|5.53|125.48",
+    "2026-10-11T20:08|5.64|125.34",
+    "2026-10-11T19:57|12.25|125.48",
+    "2026-10-11T19:46|5.39|125.42",
+    "2026-10-11T19:29|9.24|123.16",
+    "2026-10-11T19:26|5.65|125.26",
+    "2026-10-11T19:12|12.81|123.18",
+    "2026-10-11T18:49|7.72|124.47",
+    "2026-10-11T18:43|6.20|124.60",
+    "2026-10-11T18:38|6.60|126.50",
+    "2026-10-11T18:10|11.28|120.66",
+    "2026-10-11T17:54|9.74|126.15",
+    "2026-10-11T17:48|5.63|125.35",
+    "2026-10-11T17:02|5.69|125.30",
+    "2026-10-11T16:57|16.35|121.69",
+    "2026-10-10T20:01|6.28|126.42",
+    "2026-10-10T19:59|4.96|126.14"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4759,9 +4776,24 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-11T16:37:09.379Z"
+    "checked_at": "2026-10-11T20:49:01.334Z"
   }
 }
