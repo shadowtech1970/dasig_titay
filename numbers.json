@@ -1,5 +1,5 @@
 {
-  "version": "1.0.88",
+  "version": "1.0.89",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -203,6 +203,15 @@
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1675354777934115",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL:\nOctober 12, 2026 @ about 6:37 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatroloctober2026\n#pro9mobilepatroloctober122026\n#zsbppomobilepatroloctober122026\n#titaympsmobilepatroloctober122026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1675354777934115.jpg",
+      "publishedDate": "2026-10-12T10:31:38+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1100123392377296/",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1675032087966384",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -733,15 +742,6 @@
       "publishedDate": "2026-10-05T09:49:34+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1110418711501456",
       "source": "BFP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1667801002022826",
-      "title": "FOOT PATROL:",
-      "summary": "FOOT PATROL: \n\nOctober 5, 2026 @ about 12:46 PM onwards\nPersonnel of Titay Municipal Police Station, under the supervision of PMAJ ARNOLD A ESPARES, Acting Chief of Police, conducted intensified Foot Patrol and distribution of flyers at  Barangay Poblacion, Titay, Zamboanga Sibugay \n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n\n“In case of emergency call 911” \n\n#dofootpatroloctober2026\n#pro9footpatroloctober52026\n#zsbppofootpatroloctober52026\n#titaympsfootpatroloctober52026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1667801002022826.jpg",
-      "publishedDate": "2026-10-05T06:34:44+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/3987455374882324/",
-      "source": "PNP Titay"
     },
     {
       "id": "fb-bfp-111540694644827_1630238312168649",
