@@ -1,5 +1,5 @@
 {
-  "version": 214,
+  "version": 216,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -4137,7 +4137,15 @@
     "2026-10-11T17:02|5.69|125.30",
     "2026-10-11T16:57|16.35|121.69",
     "2026-10-10T20:01|6.28|126.42",
-    "2026-10-10T19:59|4.96|126.14"
+    "2026-10-10T19:59|4.96|126.14",
+    "2026-10-11T23:58|10.12|125.44",
+    "2026-10-11T22:50|10.93|123.98",
+    "2026-10-11T22:24|11.29|125.54",
+    "2026-10-11T21:45|6.54|126.30",
+    "2026-10-11T20:41|18.59|120.21",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/473db59b-6ccf-4f97-9ac8-1eeb8fdc216c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1f525737-56b1-4996-a095-82f2bd0ce9ba.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5fc48143-9dcf-4f2f-8973-a37662c6d5fd.cap"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4791,9 +4799,12 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-11T20:49:01.334Z"
+    "checked_at": "2026-10-12T00:15:36.447Z"
   }
 }
