@@ -1,5 +1,5 @@
 {
-  "version": "1.0.91",
+  "version": "1.0.92",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122194353674935139",
+      "title": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT",
+      "description": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT \n\nReady to serve up the spirit of Naragsakan Festival? Step onto the court, bring your best game, and rally with us as we celebrate the Naragsakan Festival through an exciting pickleball tournament!\n\nVenue: Donrio Covered Court, Kitabog, Titay\n📅Date: October 24-25, 2026\n\nCategories:\nMen’s Doubles – Beginners (Exclusive Titayanons)\nWomen’s Doubles – Beginners (Exclusive Titayanons)\nMen’s Doubles – Novice (Exclusive Sibugaynons)\nWomen’s Doubles – Novice (Exclusive Sibugaynons)\nMixed - Novice (Exclusive Sibugaynons)\n👨‍💼Executive Open (Invitational)\n\nWe will be posting the registration details and tournament guidelines on the official Facebook page of Naragsakan Festival Pickleball Tournament tonight!\nCelebrate Naragsakan Festival! Grab your paddle and let the rallies, dinks, and smashes bring the court to life!\n\n☎️ 09261778617 ( 💬 Sheng Gabo)\n☎️ 09475264901 ( 💬 Lucky Tumamut)\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194353674935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122194353674935139"
+    },
     {
       "id": "fb-751559508033473_122194317818935139",
       "title": "Init na sad ang aksyon sa hardcourt karong gabii alang sa Naragsakan Festival 2…",
@@ -200,16 +207,90 @@
       "description": "OPENING OF NIGHT MARKET feat. ACOUSTIC NIGHT.❤️🎶\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122192371454935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1056378380731918/"
-    },
-    {
-      "id": "fb-751559508033473_122192325494935139",
-      "title": "ACOUSTIC NIGHT 🎶",
-      "description": "ACOUSTIC NIGHT 🎶\n\nTonight, we’re bringing you a special performance as Tawag ng Tanghalan’s Alcher Abuan joins us for an unforgettable Acoustic Night! 🎤\n\nCome chill, listen, and enjoy good music with us at the Naragsakan Festival 2026. \n\nSee you tonight, Titay! 🎶\n\n#NaragsakanFestival2026 #AcousticNight #BaeSaTaytay #DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122192325494935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122192325494935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1677434054392854",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL:\nOctober 14, 2026 @ about 7:17 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatroloctober2026\n#pro9mobilepatroloctober142026\n#zsbppomobilepatroloctober142026\n#titaympsmobilepatroloctober142026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677434054392854.jpg",
+      "publishedDate": "2026-10-14T08:21:13+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1806070073726049/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677432774392982",
+      "title": "FOOT PATROL:",
+      "summary": "FOOT PATROL: \nOctober 14, 2026 @ about 7:04 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Foot Patrol and distribution of flyers at  Barangay Poblacion, Titay, Zamboanga Sibugay \n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n“In case of emergency call 911” \n#dofootpatroloctober2026\n#pro9footpatroloctober142026\n#zsbppofootpatroloctober142026\n#titaympsfootpatroloctober142026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677432774392982.jpg",
+      "publishedDate": "2026-10-14T08:19:47+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/3041376346207198/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677430114393248",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677430114393248.jpg",
+      "publishedDate": "2026-10-14T08:16:51+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677430114393248",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677429054393354",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677429054393354.jpg",
+      "publishedDate": "2026-10-14T08:16:18+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677429054393354",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677428347726758",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677428347726758.jpg",
+      "publishedDate": "2026-10-14T08:15:45+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677428347726758",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677427814393478",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677427814393478.jpg",
+      "publishedDate": "2026-10-14T08:15:16+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677427814393478",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677426804393579",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677426804393579.jpg",
+      "publishedDate": "2026-10-14T08:14:18+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677426804393579",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677426401060286",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677426401060286.jpg",
+      "publishedDate": "2026-10-14T08:13:47+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677426401060286",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1677426067726986",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677426067726986.jpg",
+      "publishedDate": "2026-10-14T08:13:15+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677426067726986",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-bfp2-1002128899657876_122125673679081011",
       "title": "Sa panahon ng sakuna, ang paghahanda ay walang edad. Mas ligtas ang nakahanda,…",
@@ -652,60 +733,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1669940301808896",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669940301808896.jpg",
-      "publishedDate": "2026-10-07T08:43:24+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669940301808896",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1669936841809242",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669936841809242.jpg",
-      "publishedDate": "2026-10-07T08:38:52+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669936841809242",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1669936371809289",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669936371809289.jpg",
-      "publishedDate": "2026-10-07T08:38:11+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669936371809289",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1669935748476018",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669935748476018.jpg",
-      "publishedDate": "2026-10-07T08:37:15+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669935748476018",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1669934981809428",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669934981809428.jpg",
-      "publishedDate": "2026-10-07T08:36:17+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669934981809428",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1669933945142865",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669933945142865.jpg",
-      "publishedDate": "2026-10-07T08:35:11+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669933945142865",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122124878457081011",
       "title": "Ang kaligayahan sa pagtuturo ay hindi nasusukat sa dami ng natutunan, kundi sa…",
       "summary": "Ang kaligayahan sa pagtuturo ay hindi nasusukat sa dami ng natutunan, kundi sa dami ng buhay na maaaring mailigtas dahil dito",
@@ -724,24 +751,6 @@
       "source": "BFP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1669013925234867",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1669013925234867.jpg",
-      "publishedDate": "2026-10-06T11:04:38+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1669013925234867",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1668864185249841",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1668864185249841.jpg",
-      "publishedDate": "2026-10-06T07:27:25+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1668864185249841",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122124793047081011",
       "title": "🔥 INDUSTRIAL & HAZARDOUS MATERIALS MONTH 2026 🔥",
       "summary": "🔥 INDUSTRIAL & HAZARDOUS MATERIALS MONTH 2026 🔥\n\nALAMIN. IWASAN. AGAPAN. KALIGTASAN, UNAHIN!\n\nSa industriya, bawat kemikal, kagamitan, at proseso ay may kaakibat na panganib. Kaya naman, **safety first bago trabaho!\n\n🧪 TIP #1: ALAMIN ANG HAZARD!\nBago magsimula, kilalanin ang mga hazardous materials sa inyong lugar. Basahin ang labels, warning signs, at Safety Data Sheet (SDS) upang malaman ang tamang paghawak at pag-iimbak.\n\n🔥 TIP #2: IWAS SPARK, IWAS SUNOG!\nIlayo ang apoy, spark, sigarilyo, at iba pang ignition sources sa flammable materials. Tiyaking ligtas ang lugar bago magsagawa ng welding, cutting, o grinding.\n\nTandaan: Isang simpleng pag-iingat ngayon ay maaaring makaiwas sa malaking sunog at pagkawala ng buhay at ari-arian. 💪🧯\n\nLigtas na trabaho, ligtas na komunidad!\nPara sa fire safety concerns, makipag-ugnayan sa **Titay Municipal Fire Station.**\n\n📞 Titay MFS Hotline: 0965-509-0944\n🚒 BFP Titay MFS — Handang Tumugon, Laging Nandiyan!\n\n#IndustrialAndHazardousMaterialsMonth\n#FireSafetyTips\n#FirePrevention\n#SafetyFirst\n#BFP9\n#BFPTitayMFS\n#TitayFireStation\n#AlaminIwasanAgapan",
@@ -758,15 +767,6 @@
       "publishedDate": "2026-10-06T03:37:07+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1111078848102109",
       "source": "BFP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1668673781935548",
-      "title": "𝙉𝙞𝙝𝙞𝙡𝙞𝙨𝙩𝙞𝙘 𝙑𝙞𝙤𝙡𝙚𝙣𝙩 𝙀𝙭𝙩𝙧𝙚𝙢𝙞𝙨𝙢: 𝙍𝙚𝙘𝙤𝙜𝙣𝙞𝙯𝙚. 𝙍\ud835…",
-      "summary": "𝙉𝙞𝙝𝙞𝙡𝙞𝙨𝙩𝙞𝙘 𝙑𝙞𝙤𝙡𝙚𝙣𝙩 𝙀𝙭𝙩𝙧𝙚𝙢𝙞𝙨𝙢: 𝙍𝙚𝙘𝙤𝙜𝙣𝙞𝙯𝙚. 𝙍𝙚𝙨𝙥𝙤𝙣𝙙. 𝙋𝙧𝙚𝙫𝙚𝙣𝙩.\n\nNihilistic Violent Extremism (NVE) is driven by rejection of societal norms and can promote violence as a means of expressing anger, alienation, or destructive beliefs.\n\nAwareness is a shared responsibility. Let’s promote critical thinking, resilience, empathy, and peaceful ways of addressing grievances—while speaking up when we encounter signs of violent radicalization.\n\nChoose understanding over hate. Choose dialogue over violence. Choose peace.\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1668673781935548.jpg",
-      "publishedDate": "2026-10-06T02:40:35+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/4547462455522444/",
-      "source": "PNP Titay"
     },
     {
       "id": "fb-bfp-111540694644827_1078812405142883",
