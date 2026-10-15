@@ -1,5 +1,5 @@
 {
-  "version": 240,
+  "version": 242,
   "alerts": [
     {
       "id": "manual-1791432718435",
@@ -446,11 +446,6 @@
     }
   ],
   "seen": [
-    "2026-09-21T16:49|18.24|120.81",
-    "2026-09-21T16:05|15.54|122.16",
-    "2026-09-21T15:47|9.23|126.65",
-    "2026-09-21T15:41|5.47|125.39",
-    "2026-09-21T15:39|5.56|125.38",
     "2026-09-21T15:18|5.37|126.17",
     "2026-09-21T14:59|5.42|125.32",
     "2026-09-21T14:58|8.86|126.33",
@@ -4442,7 +4437,15 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/b9704ea3-006b-4644-8ff2-a54bea39997a.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/6fa0f4cd-f8f7-4d5f-939a-6d73e4c3f85c.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/825ce4a5-5466-4478-8944-6690dcfef7a4.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7000c234-404e-43d8-ab8c-dc6566b6bab9.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7000c234-404e-43d8-ab8c-dc6566b6bab9.cap",
+    "2026-10-14T23:49|9.16|126.68",
+    "2026-10-14T23:05|17.50|121.57",
+    "2026-10-14T23:02|6.65|124.01",
+    "2026-10-14T22:00|5.33|125.53",
+    "2026-10-14T21:51|10.43|126.04",
+    "2026-10-14T21:43|5.62|125.36",
+    "2026-10-14T21:16|13.26|123.64",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/0d8d26c6-3ad0-4902-9386-d5a35e3a0899.cap"
   ],
   "health": {
     "phivolcs": "ok",
@@ -5333,9 +5336,12 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-14T21:25:58.029Z"
+    "checked_at": "2026-10-15T00:01:45.166Z"
   }
 }
