@@ -1,6 +1,46 @@
 {
-  "version": 256,
+  "version": 258,
   "alerts": [
+    {
+      "id": "pagasa-488d1193-664a-4407-8e78-0f69fb0f4f2c",
+      "type": "flood",
+      "severity": "info",
+      "source": "PAGASA",
+      "issued_at": "2026-10-16T09:32:08.656Z",
+      "event_time": "2026-10-16T08:33:03.000Z",
+      "title": "PAGASA Flood Advisory #5 — Zamboanga Sibugay (Moderate)",
+      "body": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.\nUnder present weather conditions, Intertropical Convergence Zone (ITCZ) affecting Palawan, Visayas, and Mindanao. Northeasterly Windflow affecting Extreme Northern Luzon. Easterlies affecting the eastern sections of Northern and Central Luzon.&#xD; &#xD; . The 12-hour rainfall forecast is light to occasionally moderate rains and thunderstorms.\nPeople living near the mountain slopes and in the low lying areas of the above mentioned river systems and the Local Disaster Risk Reduction and Management Councils concerned still advised to take necessary precautionary measures.\nTinubdan: PAGASA-DOST · Okt 16, 4:33 PM · Balido hangtod Okt 17, 4:33 AM",
+      "detail": {
+        "felt_note": "Apektado sa Zamboanga Sibugay: Rivers and its tributaries particularly Taguiti, Tigbao, Liguian, Sanito, Bakalan, Kabasalan and Sibuguey.",
+        "source_url": "https://www.pagasa.dost.gov.ph/flood",
+        "cap_url": "https://publicalert.pagasa.dost.gov.ph/output/gfa/488d1193-664a-4407-8e78-0f69fb0f4f2c.cap",
+        "series": "gfa|Region 9 (Zamboanga Peninsula)",
+        "advisory_no": 5,
+        "expires": "2026-10-16T20:33:03.000Z"
+      }
+    },
+    {
+      "id": "eq-2026-10-16T06477.95122.73",
+      "type": "earthquake",
+      "severity": "warning",
+      "source": "PHIVOLCS",
+      "issued_at": "2026-10-16T09:31:59.057Z",
+      "event_time": "2026-10-16T06:47:00.000Z",
+      "title": "Magnitude 2.1 nga linog — 31 km amihanang-sidlakan sa Titay",
+      "body": "M 2.1 · giladmon 6 km\n008 km S 73° E of Tampilisan (Zamboanga Del Norte)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Okt 16, 2:47 PM",
+      "detail": {
+        "magnitude": 2.1,
+        "depth_km": 6,
+        "epicenter": "008 km S 73° E of Tampilisan (Zamboanga Del Norte)",
+        "distance_km": 31,
+        "bearing": "NE",
+        "bearing_ceb": "amihanang-sidlakan",
+        "latitude": 7.95,
+        "longitude": 122.73,
+        "felt_note": "Huyang nga pagkurog, kasagaran walay kadaot.",
+        "source_url": "https://earthquake.phivolcs.dost.gov.ph/EQLatest.html"
+      }
+    },
     {
       "id": "pagasa-f4002a47-4391-4f92-9b14-dabd2188e165",
       "type": "flood",
@@ -482,19 +522,6 @@
     }
   ],
   "seen": [
-    "2026-09-16T20:35|17.21|121.77",
-    "2026-09-16T20:02|5.69|125.04",
-    "2026-09-16T19:50|11.30|124.58",
-    "2026-09-16T19:41|5.45|125.19",
-    "2026-09-16T19:19|17.86|120.74",
-    "2026-09-16T18:55|13.24|124.86",
-    "2026-09-16T18:53|5.42|125.36",
-    "2026-09-16T18:43|7.06|126.93",
-    "2026-09-16T18:35|7.11|126.84",
-    "2026-09-16T18:11|9.36|125.95",
-    "2026-09-16T18:06|13.14|124.35",
-    "2026-09-16T17:17|17.46|120.65",
-    "2026-09-16T17:13|12.76|122.97",
     "2026-09-16T17:12|5.67|125.22",
     "2026-09-16T17:11|11.11|124.07",
     "2026-09-16T16:50|18.61|120.44",
@@ -4481,13 +4508,26 @@
     "2026-10-15T09:23|11.48|126.51",
     "2026-10-15T08:46|17.88|120.15",
     "2026-10-15T05:56|5.72|125.44",
-    "2026-10-15T02:58|10.92|123.92"
+    "2026-10-15T02:58|10.92|123.92",
+    "2026-10-16T09:13|7.87|127.23",
+    "2026-10-16T07:17|9.07|125.01",
+    "2026-10-16T06:47|7.95|122.73",
+    "2026-10-16T06:17|6.11|125.63",
+    "2026-10-15T09:00|5.32|125.17",
+    "2026-10-15T04:30|6.71|125.12",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/1727e5c1-37b1-4b13-9a53-657d6073fe9c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/a88d6a45-0755-4614-b64b-dc5b8fa49077.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/6839d5b5-d973-49b0-9197-14126815149c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7c73ede8-e2fb-490c-b98c-24ac25e2750a.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/4239a35c-4f54-4ac5-bf21-c2c00b0c93e3.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/488d1193-664a-4407-8e78-0f69fb0f4f2c.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/dfc6f47d-9dcd-4a32-b698-283f5d72c840.cap"
   ],
   "health": {
     "phivolcs": "ok",
     "usgs": "skipped",
     "notes": [],
     "pagasa": "ok",
-    "checked_at": "2026-10-16T04:50:14.963Z"
+    "checked_at": "2026-10-16T09:32:09.991Z"
   }
 }
