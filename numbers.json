@@ -1,5 +1,5 @@
 {
-  "version": "1.0.97",
+  "version": "1.0.98",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122194836824935139",
+      "title": "The newly acquired Patient Transport Vehicle from PAGCOR, through Senator Raffy…",
+      "description": "The newly acquired Patient Transport Vehicle from PAGCOR, through Senator Raffy Tulfo, has finally arrived in Titay! 🚑\n\nDaghang salamat, Mayora DONRIO Martinez-Castillo, sa imong padayong kaDASIG ug sa walay hunong nga pagpaningkamot para sa kahimsog ug kaayohan sa matag Titayanon. ❤️\n\nLagi’t lagi sa Bayan ng Titay!\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194836824935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122194836824935139"
+    },
     {
       "id": "fb-751559508033473_122194809602935139",
       "title": "IT TAKES A VILLAGE!",
@@ -200,13 +207,6 @@
       "description": "One account states that the name Titay comes from the word “Taytay,” a Subanen and Visayan word meaning bridge.\n\nOne version of our history suggests that the Subanens and Kalibugans were among the original inhabitants of the area known as Taytay, referring to the bridges found along their homes and communities. Over time, the name evolved and came to be known as Titay.\n\nInspired by this story, the arch of Taytay Market takes the form of a bridge; a symbol of connection, heritage, and community.\n\nWelcome to Taytay Market, a bridge that connects Titayanons. A place where our history meets the present, and where every Titayanon comes together.\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193163136935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/28440960978908613/"
-    },
-    {
-      "id": "fb-751559508033473_122193143258935139",
-      "title": "Poging Lolo and Gandang Lola 2026 | Filipiñana and Barong Tagalog Attire.❤️",
-      "description": "Poging Lolo and Gandang Lola 2026 | Filipiñana and Barong Tagalog Attire.❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193143258935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1518960326944311/"
     }
   ],
   "newsArticles": [
