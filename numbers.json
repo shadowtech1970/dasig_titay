@@ -1,5 +1,5 @@
 {
-  "version": "1.0.100",
+  "version": "1.0.101",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,27 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122195109296935139",
+      "title": "Congratulations and best wishes!❤️",
+      "description": "Congratulations and best wishes!❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195109296935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1436236824519476/"
+    },
+    {
+      "id": "fb-751559508033473_122195107448935139",
+      "title": "KASALAN NG BAYAN | WINE an CAKE PARADE.❤️",
+      "description": "KASALAN NG BAYAN | WINE an CAKE PARADE.❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195107448935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1797791358033202/"
+    },
+    {
+      "id": "fb-751559508033473_122195091656935139",
+      "title": "NARAGSAKAN 2026: KASALAN NG BAYAN 2026.❤️",
+      "description": "NARAGSAKAN 2026: KASALAN NG BAYAN 2026.❤️\n\nDaghang Salamat Mayora DONRIO Martinez.🤍\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195091656935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1130221089955727/"
+    },
     {
       "id": "fb-751559508033473_122194836824935139",
       "title": "The newly acquired Patient Transport Vehicle from PAGCOR, through Senator Raffy…",
@@ -193,23 +214,36 @@
       "description": "THE INFLATABLE PLAYGROUND IS NOW OPEN!\n\nBring your family and friends and enjoy a fun-filled evening at our Inflatable Playground!\n\nOperating Hours: 5:00 PM – 10:00 PM\n\nReminder: Please don’t forget to bring your own socks before entering the playground.\n\nThis fun-filled activity is made possible through the initiative of our beloved Mayor, Hon. DONRIO Martinez, RPh, who continues to bring joy, create meaningful experiences, and provide enjoyable activities for the children, families, and the entire community of Titay.\n\nDaghang salamat, Mayora, for making these simple yet memorable moments possible for our Titayanons!\n\nEnjoy and have fun, everyone!\n\n#DASIGTITAY\n#NaragsakanFestival2026",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193503966935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122193503966935139"
-    },
-    {
-      "id": "fb-751559508033473_122193316946935139",
-      "title": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT",
-      "description": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT \n\nReady to serve up the spirit of Naragsakan Festival? Step onto the court, bring your best game, and rally with us as we celebrate the Naragsakan Festival through an exciting pickleball tournament!\n\nVenue: Donrio Covered Court, Kitabog, Titay\n\n📅Date: October 24-25, 2026\n\nCategories:\n\nMen’s Doubles – Beginners (Exclusive Titayanons)\nWomen’s Doubles – Beginners (Exclusive Titayanons)\nMen’s Doubles – Novice (Exclusive Sibugaynons)\nWomen’s Doubles – Novice (Exclusive Sibugaynons)\n👨‍💼Executive Open (Invitational)\n⚡Intermediate Open (Invitational)\n \nWe will be posting the registration details and tournament guidelines on the official Facebook page of Naragsakan Festival Pickleball Tournament tonight!\n \nCelebrate Naragsakan Festival! Grab your paddle and let the rallies, dinks, and smashes bring the court to life!\n\n☎️ 09261778617 ( 💬 Sheng Gabo)\n☎️ 09475264901 ( 💬 Lucky Tumamut)\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193316946935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122193316946935139"
-    },
-    {
-      "id": "fb-751559508033473_122193163136935139",
-      "title": "One account states that the name Titay comes from the word “Taytay,” a Subanen…",
-      "description": "One account states that the name Titay comes from the word “Taytay,” a Subanen and Visayan word meaning bridge.\n\nOne version of our history suggests that the Subanens and Kalibugans were among the original inhabitants of the area known as Taytay, referring to the bridges found along their homes and communities. Over time, the name evolved and came to be known as Titay.\n\nInspired by this story, the arch of Taytay Market takes the form of a bridge; a symbol of connection, heritage, and community.\n\nWelcome to Taytay Market, a bridge that connects Titayanons. A place where our history meets the present, and where every Titayanon comes together.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193163136935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/28440960978908613/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1682422100560716",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682422100560716.jpg",
+      "publishedDate": "2026-10-19T02:47:46+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682422100560716",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1823000242058219",
+      "title": "||𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐨𝐧𝐝𝐚𝐲 𝐅𝐥𝐚𝐠 𝐑𝐚𝐢𝐬𝐢𝐧𝐠 𝐚𝐭 𝐁𝐚𝐲𝐚𝐧 \ud835…",
+      "summary": "||𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐨𝐧𝐝𝐚𝐲 𝐅𝐥𝐚𝐠 𝐑𝐚𝐢𝐬𝐢𝐧𝐠 𝐚𝐭 𝐁𝐚𝐲𝐚𝐧 𝐧𝐠 𝐓𝐢𝐭𝐚𝐲||\n\n219 October 2026 MONDAY - Municipality of Titay\nTitay Municipal Fire Station personnel, led by SFO4 Neil P Siaron, Municipal Fire Marshal, hosted the traditional Monday Flag Raising Ceremony held at the Bayan ng Titay Municipal Grounds.\n\n𝐈𝐧 𝐜𝐚𝐬𝐞 𝐨𝐟 𝐟𝐢𝐫𝐞 𝐚𝐧𝐝/𝐨𝐫 𝐨𝐭𝐡𝐞𝐫 𝐞𝐦𝐞𝐫𝐠𝐞𝐧𝐜𝐢𝐞𝐬\n𝐏𝐥𝐞𝐚𝐬𝐞 𝐜𝐚𝐥𝐥:\n𝐓𝐢𝐭𝐚𝐲 𝐌𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥 𝐅𝐢𝐫𝐞 𝐒𝐭𝐚𝐭𝐢𝐨𝐧 🧑‍🚒👩‍🚒\n📱 𝟎𝟗655090944",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1823000242058219.jpg",
+      "publishedDate": "2026-10-18T23:59:22+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1823000242058219",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1847187922941232",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 19 October 2026 (MONDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1847187922941232.jpg",
+      "publishedDate": "2026-10-18T21:44:19+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1847187922941232",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1122436536966340",
       "title": "𝐃𝐈𝐒𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐎𝐅 𝐅𝐈𝐑𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐋𝐄𝐀𝐅𝐋𝐄𝐓𝐒",
@@ -688,15 +722,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1674087388060854",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1674087388060854.jpg",
-      "publishedDate": "2026-10-11T06:56:35+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1674087388060854",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp-111540694644827_1115656440977683",
       "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐒𝐏𝐎𝐑𝐓𝐒-𝐑𝐄𝐋𝐀𝐓𝐄𝐃…",
       "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐒𝐏𝐎𝐑𝐓𝐒-𝐑𝐄𝐋𝐀𝐓𝐄𝐃 𝐈𝐍𝐉𝐔𝐑𝐘)\n\n**𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 ||** Titay Municipal Fire Station (MFS) Shift A personnel promptly responded to a request for emergency medical assistance at Barangay Poblacion, Titay, Zamboanga Sibugay, involving a male patient who sustained an ankle injury while playing basketball.\n\nUpon arrival at the basketball court, the responding team secured the area and conducted an immediate primary assessment. The patient was found seated on a chair, conscious and oriented, complaining of pain and swelling in the affected ankle following a twisting injury.\n\nImmediate first aid was provided by applying a cold pack for 15 minutes, securing the affected ankle with an elastic bandage, and elevating the injured extremity to help reduce swelling and discomfort. The patient's vital signs were assessed, and his condition was monitored following the initial assessment and first aid.\n\nThe patient remained in stable condition and was left at the scene after being advised to seek medical evaluation if the pain or swelling persisted, worsened, or if additional symptoms developed.\n\nTitay MFS reminds the public, especially athletes and sports enthusiasts, to observe proper precautions during physical activities and seek appropriate medical attention when injuries occur.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: **0965-509-0944.**\n\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
@@ -874,15 +899,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1766699211301026.jpg",
       "publishedDate": "2026-10-07T21:27:20+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1766699211301026",
-      "source": "BFP Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1112359791307348",
-      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐕𝐄𝐇𝐈𝐂𝐔𝐋𝐀𝐑 𝐀𝐂𝐂𝐈…",
-      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐕𝐄𝐇𝐈𝐂𝐔𝐋𝐀𝐑 𝐀𝐂𝐂𝐈𝐃𝐄𝐍𝐓)\n\n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Titay Municipal Fire Station (MFS) Shift A personnel responded to a vehicular accident at Barangay Kitabog, Titay, Zamboanga Sibugay, to provide the necessary emergency medical assistance.  \n       \n        Upon arrival at the scene, the responding team secured the area and conducted an immediate primary assessment. One female patient was found sitting on a chair at the roadside, conscious and oriented following a vehicular crash. Upon assessment, abrasion was noted on the right knee, tenderness on the left hip and abrasion on the left dorsal foot.  \n\n        Immediate first aid was rendered by irrigating the wound with an appropriate cleansing solution, followed by the application of povidone-iodine (Betadine) to the affected area to help prevent infection.  The patient's condition was continuously monitored, including vital signs and overall clinical status, until her condition stabilized.  Medical transport to the nearest appropriate health facility for further evaluation and treatment was offered; however, the patient refused transport after being informed of the potential risks associated with declining medical care.\n        \n        A Refusal of Transport waiver was explained, signed, and properly secured. The patient was left at the scene in stable condition and was advised to seek immediate medical attention if symptoms persisted, worsened, or new symptoms developed.  \n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: 0965-509-0944.\n\n#SaBFPLigtasAngMayAlam\n\n#TitayMFS\n\n#EmergencyMedicalResponse",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1112359791307348.jpg",
-      "publishedDate": "2026-10-07T13:47:22+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1112359791307348",
       "source": "BFP Titay"
     },
     {
