@@ -1,5 +1,5 @@
 {
-  "version": "1.0.101",
+  "version": "1.0.102",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,27 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122195139386935139",
+      "title": "CONGRATULATIONS, LATIN HONOR AWARDEES!",
+      "description": "CONGRATULATIONS, LATIN HONOR AWARDEES!\n\nYour Municipality of Titay celebrates your academic excellence and dedication. May your achievements inspire more young Titayanons to pursue their dreams and strive for greatness.\n\nOur heartfelt gratitude to Mayor DONRIO Martinez-Castillo for recognizing and honoring the hard work and accomplishments of our Latin Honor Awardees.\n\nPadayon, Titayanons! Your success is our pride. ❤️\n\n#NaragsakanFestival2026 #GabiNgParangal #DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195139386935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195139386935139"
+    },
+    {
+      "id": "fb-751559508033473_122195128688935139",
+      "title": "LET’S LIGHT UP THE STREETS, TITAYANONS! 🏮",
+      "description": "LET’S LIGHT UP THE STREETS, TITAYANONS! 🏮\n\nJoin us for the CREATIVE LAMP PARADE as we officially open the NARAGSAKAN FESTIVAL 2026: Bae sa Taytay! \n\nSTART: Municipal Grounds\nFINISH: Imelda Gymnasium\n\nLet’s illuminate the streets with creativity, colors, and the vibrant spirit of Naragsakan!\n\nSee you there, mga ka-Titay! ❤️\n\n#NaragsakanFestival2026 \n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195128688935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195128688935139"
+    },
+    {
+      "id": "fb-751559508033473_122195115434935139",
+      "title": "HIGHLIGHTS | KASALAN NG BAYAN 2026 💍❤️",
+      "description": "HIGHLIGHTS | KASALAN NG BAYAN 2026 💍❤️\n\nA celebration of love, commitment, and new beginnings!\n\nOur heartfelt gratitude to Mayor Donrio Martinez Castillo for making this meaningful celebration possible and for bringing our couples together to begin a new chapter in their lives.\n\nThank you to our guest speaker, Atty. Ellen Gumansing Nalzaro, for sharing her inspiring message on love, marriage, and commitment.\n\nOur sincere appreciation also goes to our Sangguniang Bayan Members, Punong Barangays, department heads, and all the offices and individuals who worked together to make this occasion memorable.\n\nTo our newlyweds, may your marriage be filled with patience, understanding, faith, and a love that grows stronger through every season of life.\n\nCongratulations to our newly married couples! May God bless your union and your journey together. \n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195115434935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1376779601201929/"
+    },
     {
       "id": "fb-751559508033473_122195109296935139",
       "title": "Congratulations and best wishes!❤️",
@@ -193,30 +214,81 @@
       "description": "INFLATABLES AT TITAY’S MUNICIPAL GROUND\n\nThe inflatables were a huge hit at Titay’s Municipal Ground, bringing fun, excitement, and smiles to our Titayanons, especially our young ones!\n\nThank you, Mayora DONRIO Martinez, for making this fun-filled experience possible and for continuously bringing joy to our community.❤️\n\nCredits: Al’s World",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193803570935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122193803570935139"
-    },
-    {
-      "id": "fb-751559508033473_122193696764935139",
-      "title": "ZAMPEX 2026",
-      "description": "ZAMPEX 2026\n\nThe Municipality of Titay, through the support of Mayor DONRIO Martinez Castillo, proudly participated in ZAMPEX 2026 to promote locally made products and support homegrown entrepreneurs.\n\nThe Municipality extends its sincere gratitude to Sir Josh Delos Reyes, Provincial Tourism Officer, and Governor Ann K. Hofer for providing this opportunity to showcase Titay’s local products and talents.\n\nProudly showcasing and celebrating the MSMEs from Dalangin Muslim, Barangay San Antonio, and Barangay Dalisay, Titay, Zamboanga Sibugay. The Municipality congratulates and commends these local entrepreneurs for their hard work, creativity, and dedication in promoting products proudly made in Titay.\n\nThrough initiatives like ZAMPEX 2026, the Municipality continues to support local livelihoods, strengthen small businesses, and bring Titay’s homegrown products to a wider market.\n\nProudly local. Proudly Titayanon. Dasig, Titay!\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193696764935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1684596016568338/"
-    },
-    {
-      "id": "fb-751559508033473_122193517874935139",
-      "title": "TITAY RECOGNIZED FOR EXCELLENCE IN LOCAL NUTRITION!",
-      "description": "TITAY RECOGNIZED FOR EXCELLENCE IN LOCAL NUTRITION!\n\nThe Municipality of Titay proudly celebrates its recognition as the Top-Performing Municipality in Zamboanga Sibugay for the Outstanding Implementation of its Local Nutrition Action Plan during the Regional Nutrition Awarding Ceremony in Zamboanga City.\n\nCongratulations to Mayor DONRIO Martinez, for her continued leadership and support in strengthening local nutrition programs and promoting the health and well-being of every Titayanon.\n\nWe also congratulate our Municipal Nutrition Action Officer, Ma’am Analisa Bornales, a finalist for the Regional Outstanding Municipal Nutrition Action Officer, together with her dedicated team at the Nutrition Office. The Municipality also received a Plaque of Appreciation for its continued support of local nutrition programs, projects, and activities.\n\nThese recognitions reflect Titay’s continuing commitment to promoting proper nutrition and building a healthier community for every Titayanon.\n\nPadayon sa pagpalambo sa mas himsog ug mas lig-on nga Titay!\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193517874935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/2119518312268170/"
-    },
-    {
-      "id": "fb-751559508033473_122193503966935139",
-      "title": "THE INFLATABLE PLAYGROUND IS NOW OPEN!",
-      "description": "THE INFLATABLE PLAYGROUND IS NOW OPEN!\n\nBring your family and friends and enjoy a fun-filled evening at our Inflatable Playground!\n\nOperating Hours: 5:00 PM – 10:00 PM\n\nReminder: Please don’t forget to bring your own socks before entering the playground.\n\nThis fun-filled activity is made possible through the initiative of our beloved Mayor, Hon. DONRIO Martinez, RPh, who continues to bring joy, create meaningful experiences, and provide enjoyable activities for the children, families, and the entire community of Titay.\n\nDaghang salamat, Mayora, for making these simple yet memorable moments possible for our Titayanons!\n\nEnjoy and have fun, everyone!\n\n#DASIGTITAY\n#NaragsakanFestival2026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122193503966935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122193503966935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1682701810532745",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682701810532745.jpg",
+      "publishedDate": "2026-10-19T09:38:54+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682701810532745",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682701123866147",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682701123866147.jpg",
+      "publishedDate": "2026-10-19T09:38:18+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682701123866147",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682700363866223",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682700363866223.jpg",
+      "publishedDate": "2026-10-19T09:37:21+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682700363866223",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682700090532917",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682700090532917.jpg",
+      "publishedDate": "2026-10-19T09:36:56+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682700090532917",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682699510532975",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682699510532975.jpg",
+      "publishedDate": "2026-10-19T09:36:16+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682699510532975",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682698863866373",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682698863866373.jpg",
+      "publishedDate": "2026-10-19T09:35:26+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682698863866373",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682698473866412",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682698473866412.jpg",
+      "publishedDate": "2026-10-19T09:34:55+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682698473866412",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1682695027200090",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL:\n\nOctober 19, 2026 @ about 3:10 PM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Dalangin, Titay, Zamboanga Sibugay\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n\n“In case of emergency call 911”\n\n#domobilepatroloctober2026\n#pro9mobilepatroloctober192026\n#zsbppomobilepatroloctober192026\n#titaympsmobilepatroloctober192026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682695027200090.jpg",
+      "publishedDate": "2026-10-19T09:30:06+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1430158348762588/",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1682422100560716",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -596,15 +668,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1677426067726986",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1677426067726986.jpg",
-      "publishedDate": "2026-10-14T08:13:15+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1677426067726986",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122125673679081011",
       "title": "Sa panahon ng sakuna, ang paghahanda ay walang edad. Mas ligtas ang nakahanda,…",
       "summary": "Sa panahon ng sakuna, ang paghahanda ay walang edad. Mas ligtas ang nakahanda, lalo na ang ating mga nakatatanda.",
@@ -641,24 +704,6 @@
       "source": "BFP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1675354777934115",
-      "title": "MOBILE PATROL:",
-      "summary": "MOBILE PATROL:\nOctober 12, 2026 @ about 6:37 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatroloctober2026\n#pro9mobilepatroloctober122026\n#zsbppomobilepatroloctober122026\n#titaympsmobilepatroloctober122026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1675354777934115.jpg",
-      "publishedDate": "2026-10-12T10:31:38+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/1100123392377296/",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1675032087966384",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1675032087966384.jpg",
-      "publishedDate": "2026-10-12T03:27:57+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1675032087966384",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122125471701081011",
       "title": "Magalang na bata, responsableng mamamayan. Marunong makinig, marunong sumunod,…",
       "summary": "Magalang na bata, responsableng mamamayan. Marunong makinig, marunong sumunod, marunong magligtas.",
@@ -675,51 +720,6 @@
       "publishedDate": "2026-10-11T21:10:01+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1083159501002754",
       "source": "BFP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1674110741391852",
-      "title": "MOBILE PATROL:",
-      "summary": "MOBILE PATROL:\nOctober 11, 2026 @ about 1:50 PM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatroloctober2026\n#pro9mobilepatroloctober112026\n#zsbppomobilepatroloctober112026\n#titaympsmobilepatroloctober112026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1674110741391852.jpg",
-      "publishedDate": "2026-10-11T07:28:14+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/1497703772409469/",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1674090614727198",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1674090614727198.jpg",
-      "publishedDate": "2026-10-11T06:59:54+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1674090614727198",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1674089951393931",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1674089951393931.jpg",
-      "publishedDate": "2026-10-11T06:59:17+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1674089951393931",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1674088518060741",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1674088518060741.jpg",
-      "publishedDate": "2026-10-11T06:57:58+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1674088518060741",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1674088128060780",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1674088128060780.jpg",
-      "publishedDate": "2026-10-11T06:57:27+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1674088128060780",
-      "source": "PNP Titay"
     },
     {
       "id": "fb-bfp-111540694644827_1115656440977683",
