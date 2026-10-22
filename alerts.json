@@ -1,5 +1,5 @@
 {
-  "version": 334,
+  "version": 336,
   "alerts": [
     {
       "id": "pagasa-e88fba1d-4159-4a21-b781-25d1580078c5",
@@ -541,16 +541,6 @@
     }
   ],
   "seen": [
-    "2026-09-07T16:28|4.85|125.17",
-    "2026-09-07T16:14|13.51|123.26",
-    "2026-09-07T16:01|13.55|123.15",
-    "2026-09-07T15:38|11.09|124.03",
-    "2026-09-07T15:09|9.81|124.09",
-    "2026-09-07T14:37|5.21|125.99",
-    "2026-09-07T14:29|13.00|120.96",
-    "2026-09-07T14:03|7.96|125.52",
-    "2026-09-07T13:38|5.40|126.39",
-    "2026-09-07T13:31|5.35|126.35",
     "2026-09-07T13:31|19.90|121.29",
     "2026-09-07T13:18|5.61|125.41",
     "2026-09-07T12:11|15.87|121.39",
@@ -4540,7 +4530,17 @@
     "2026-10-22T18:39|13.44|119.89",
     "2026-10-22T18:05|5.55|126.69",
     "2026-10-22T17:15|4.91|125.16",
-    "2026-10-22T16:50|9.59|122.54"
+    "2026-10-22T16:50|9.59|122.54",
+    "2026-10-22T22:39|6.49|125.71",
+    "2026-10-22T22:36|10.45|125.50",
+    "2026-10-22T20:45|5.64|125.37",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/855536fb-a3b5-4721-9015-92cc1dd493dc.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/0b388184-2411-4eed-8933-a3b64b259b02.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/fef26327-8053-41e5-a433-8e24347d148f.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/4cd25719-0f85-43f8-8aa7-8eb83f23e565.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/00bbef1f-9d73-438b-9e2a-26172d8688b8.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/wcp/946dd5dc-b90b-44a8-82c6-2ad646078e56.cap",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/wcp/0cdf989c-e6ff-4711-a584-4db4160a2e27.cap"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4549,6 +4549,6 @@
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-22T19:47:26.770Z"
+    "checked_at": "2026-10-22T23:00:14.111Z"
   }
 }
