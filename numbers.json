@@ -1,5 +1,5 @@
 {
-  "version": "1.0.107",
+  "version": "1.0.108",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,20 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122195621354935139",
+      "title": "TWO MAJOR EVENTS. ONE BIG NIGHT!",
+      "description": "TWO MAJOR EVENTS. ONE BIG NIGHT!\n\nTitayanons, ready na ba mo? Tomorrow, October 23, 2026, we’re bringing you another exciting day of the 11th Naragsakan Festival!\n\nINVITATIONAL AMATEUR BOXING TOURNAMENT\nTime: 6:00 PM\nVenue: Titay Imelda Gymnasium\n\nMUSIC NIGHT WITH THE SHARP HD BAND\nVenue: Titay Municipal Park\n\nFrom thrilling boxing matches to an exciting night of music, daghan ta’g reasons to celebrate together!\n\nSee you tomorrow, Titayanons! Let’s keep the Naragsakan Spirit alive!\n\n#NaragsakanFestival2026 #BaeSaTaytay #DasigTitay #TitayZamboangaSibugay",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195621354935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195621354935139"
+    },
+    {
+      "id": "fb-751559508033473_122195608514935139",
+      "title": "SAKURA CHALLENGE 2026 | Empowering Student Rescuers, Building Lifesavers!",
+      "description": "SAKURA CHALLENGE 2026 | Empowering Student Rescuers, Building Lifesavers!\n\nGet ready to showcase your skills, teamwork, and courage! \n\nAs part of the Naragsakan Festival 2026, the SAKURA CHALLENGE brings together active School Emergency Response Teams (SERTs) for an exciting competition in lifesaving skills, featuring Rescue Carries, Bandaging and Splinting, and Patient Assessment.\n\nMore than just a competition, this event aims to empower students with the knowledge, confidence and practical skills needed to respond to emergencies and help save lives.\n\nEvery skill learned is a step toward a safer school and a more disaster-ready community. \n\nDATE: October 24, 2026\nVENUE: Titay Municipal Fire Station Pickleball Court\n\n MORNING SESSION: LEARN TO SAVE LIVES!\nParticipants will attend a comprehensive lecture on emergency response and lifesaving skills, strengthening their knowledge and confidence in handling emergencies.\n\nAFTERNOON SESSION: THE SAKURA CHALLENGE!\nIt's time to put learning into action! Student teams will compete in three exciting categories:\n\n🩹 Bandaging and Splinting\n🚑 Rescue Carries\n🩺 Patient Assessment\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195608514935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195608514935139"
+    },
     {
       "id": "fb-751559508033473_122195530010935139",
       "title": "BAE SA TAYTAY 2026 | SOCIAL MEDIA CHOICE AWARD",
@@ -186,23 +200,126 @@
       "description": "NEW PTV FOR TITAY!🚑❤️\n\nFrom one simple request to countless follow-ups. One thing’s for sure, it is through our MaDASIGong Inahan sa lungsod sa Titay Mayora DONRIO Martinez.❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194515404935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/4527776497533290/"
-    },
-    {
-      "id": "fb-751559508033473_122194479194935139",
-      "title": "NARAGSAKAN FESTIVAL 2026: OPEN INVITATIONAL BASKETBALL LEAGUE CROSSOVER MATCH \ud83c…",
-      "description": "NARAGSAKAN FESTIVAL 2026: OPEN INVITATIONAL BASKETBALL LEAGUE CROSSOVER MATCH 🏀🔥\n \nKitakits ta ninyong tanan unyang gabii paras atong mainiton nga mga dula.\n\n🗓️ Tonight | October 15, 2026\n⚡ 7:30 PM – Bogoy X Poso Negro 🆚 102 Brigade   \n⚡ 9:00 PM – Marlonix 🆚 LG Faith X Sec. Keen  \n\nSee you mga titayanons!\n\n#NaragsakanFestival2026 #DasigTitay #OpenInvitationalBasketball",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194479194935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122194479194935139"
-    },
-    {
-      "id": "fb-751559508033473_122194353674935139",
-      "title": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT",
-      "description": "1st NARAGSAKAN FESTIVAL PICKLEBALL TOURNAMENT \n\nReady to serve up the spirit of Naragsakan Festival? Step onto the court, bring your best game, and rally with us as we celebrate the Naragsakan Festival through an exciting pickleball tournament!\n\nVenue: Donrio Covered Court, Kitabog, Titay\n📅Date: October 24-25, 2026\n\nCategories:\nMen’s Doubles – Beginners (Exclusive Titayanons)\nWomen’s Doubles – Beginners (Exclusive Titayanons)\nMen’s Doubles – Novice (Exclusive Sibugaynons)\nWomen’s Doubles – Novice (Exclusive Sibugaynons)\nMixed - Novice (Exclusive Sibugaynons)\n👨‍💼Executive Open (Invitational)\n\nWe will be posting the registration details and tournament guidelines on the official Facebook page of Naragsakan Festival Pickleball Tournament tonight!\nCelebrate Naragsakan Festival! Grab your paddle and let the rallies, dinks, and smashes bring the court to life!\n\n☎️ 09261778617 ( 💬 Sheng Gabo)\n☎️ 09475264901 ( 💬 Lucky Tumamut)\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194353674935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122194353674935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp2-1002128899657876_122126429511081011",
+      "title": "Titay Municipal Fire Station conducted a lecture on emergency preparedness and…",
+      "summary": "Titay Municipal Fire Station conducted a lecture on emergency preparedness and introduced the School Emergency Response Team (SERT) to the students of Sta. Fe National High School on October 17, 2026. The activity aimed to raise awareness of school-based emergency response, familiarize participants with the role of SERT, and encourage a culture of preparedness, teamwork, and safety among learners and school personnel.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126429511081011.jpg",
+      "publishedDate": "2026-10-22T13:54:58+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122126429511081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122126422677081011",
+      "title": "Titay Municipal Fire Station headed by SF04 Neil P Siaron, Acting Municipal Fir…",
+      "summary": "Titay Municipal Fire Station headed by SF04 Neil P Siaron, Acting Municipal Fire Marshal, conducted an School Emergency Response Plan activity at Titay Central Elementary School on October 13, 2026, to strengthen the school’s preparedness and coordination during emergencies. The activity focused on identifying potential hazards, establishing response procedures, clarifying roles and responsibilities, and enhancing interagency cooperation to ensure a coordinated and effective response that protects students, teachers, and school personnel.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126422677081011.jpg",
+      "publishedDate": "2026-10-22T13:15:35+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122126422677081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-bfp2-1002128899657876_122126405331081011",
+      "title": "Titay Municipal Fire Station conducted a fire safety information campaign in Ba…",
+      "summary": "Titay Municipal Fire Station conducted a fire safety information campaign in Barangay Gomotoc, Titay, Zamboanga Sibugay, on October 4, 2026, through the distribution of informational leaflets to residents. The initiative aimed to raise public awareness of fire prevention, promote safe practices at home and in the community, and encourage residents to take proactive measures to prevent fire incidents and protect lives and property",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126405331081011.jpg",
+      "publishedDate": "2026-10-22T09:40:25+0000",
+      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122126405331081011",
+      "source": "BFP RIX CRS Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685779836891609",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685779836891609.jpg",
+      "publishedDate": "2026-10-22T06:40:07+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685779836891609",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685779243558335",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685779243558335.jpg",
+      "publishedDate": "2026-10-22T06:39:20+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685779243558335",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685778763558383",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685778763558383.jpg",
+      "publishedDate": "2026-10-22T06:38:48+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685778763558383",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685778406891752",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685778406891752.jpg",
+      "publishedDate": "2026-10-22T06:38:09+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685778406891752",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685778060225120",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685778060225120.jpg",
+      "publishedDate": "2026-10-22T06:37:36+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685778060225120",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685777533558506",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685777533558506.jpg",
+      "publishedDate": "2026-10-22T06:37:00+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685777533558506",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685776950225231",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685776950225231.jpg",
+      "publishedDate": "2026-10-22T06:36:10+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685776950225231",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685776323558627",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685776323558627.jpg",
+      "publishedDate": "2026-10-22T06:35:37+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685776323558627",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685773796892213",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685773796892213.jpg",
+      "publishedDate": "2026-10-22T06:31:38+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685773796892213",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1685688043567455",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685688043567455.jpg",
+      "publishedDate": "2026-10-22T04:29:22+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685688043567455",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1685617090241217",
       "title": "🚨BEWARE OF ROMANCE SCAMS USING DEEPFAKE TECHNOLOGY! 🚨",
@@ -370,7 +487,7 @@
       "title": "Titay Municipal Fire Station conducted a fire drill in Barangay Culasian, Titay…",
       "summary": "Titay Municipal Fire Station conducted a fire drill in Barangay Culasian, Titay, Zamboanga Sibugay, on October 9, 2026, to strengthen community readiness and promote awareness of proper fire emergency procedures. The activity emphasized the importance of prompt evacuation, adherence to fire safety protocols, and coordinated response to minimize fire-related risks and protect lives and property.",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126320983081011.jpg",
-      "publishedDate": "2026-10-21T10:19:56+0000",
+      "publishedDate": "2026-10-21T10:19:53+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122126320983081011",
       "source": "BFP RIX CRS Titay"
     },
@@ -465,51 +582,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1683763343759925",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1683763343759925.jpg",
-      "publishedDate": "2026-10-20T09:17:13+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1683763343759925",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1683762873759972",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1683762873759972.jpg",
-      "publishedDate": "2026-10-20T09:16:35+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1683762873759972",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1683762343760025",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1683762343760025.jpg",
-      "publishedDate": "2026-10-20T09:16:00+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1683762343760025",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1683761937093399",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1683761937093399.jpg",
-      "publishedDate": "2026-10-20T09:15:23+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1683761937093399",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1683761090426817",
-      "title": "MOBILE PATROL:",
-      "summary": "MOBILE PATROL:\nOctober 20, 2026 @ about 7:00 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatroloctober2026\n#pro9mobilepatroloctober202026\n#zsbppomobilepatroloctober202026\n#titaympsmobilepatroloctober202026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1683761090426817.jpg",
-      "publishedDate": "2026-10-20T09:14:50+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/28400605309635637/",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp-111540694644827_2085060888780351",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
       "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 20 October 2026 (TUESDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
@@ -517,51 +589,6 @@
       "publishedDate": "2026-10-19T21:19:44+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/2085060888780351",
       "source": "BFP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1682701810532745",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682701810532745.jpg",
-      "publishedDate": "2026-10-19T09:38:54+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682701810532745",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1682701123866147",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682701123866147.jpg",
-      "publishedDate": "2026-10-19T09:38:18+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682701123866147",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1682700363866223",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682700363866223.jpg",
-      "publishedDate": "2026-10-19T09:37:21+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682700363866223",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1682700090532917",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682700090532917.jpg",
-      "publishedDate": "2026-10-19T09:36:56+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682700090532917",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1682699510532975",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1682699510532975.jpg",
-      "publishedDate": "2026-10-19T09:36:16+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1682699510532975",
-      "source": "PNP Titay"
     },
     {
       "id": "fb-bfp-111540694644827_1823000242058219",
@@ -588,15 +615,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1122436536966340.jpg",
       "publishedDate": "2026-10-18T11:21:29+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1122436536966340",
-      "source": "BFP Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1122430340300293",
-      "title": "𝐃𝐈𝐒𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐎𝐅 𝐅𝐈𝐑𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐋𝐄𝐀𝐅𝐋𝐄𝐓𝐒",
-      "summary": "𝐃𝐈𝐒𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐎𝐅 𝐅𝐈𝐑𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐋𝐄𝐀𝐅𝐋𝐄𝐓𝐒\n\nThe personnel of the Titay Municipal Fire Station, under the leadership of SFO4 Neil P Siaron, Acting Municipal Fire Marshal, conducted the distribution of fire safety leaflets in Barangay Gomotoc, Titay, Zamboanga Sibugay.\n\nThe activity aimed to raise public awareness about fire prevention, promote fire-safe practices, and educate community members on the importance of taking precautionary measures to prevent fire incidents.\n\nThrough continuous information dissemination and community engagement, the BFP remains committed to protecting lives and properties by building a fire-safe and well-informed community.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: **0965-509-0944.**\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave\n\n#TitayFireStation #FireSafetyAwareness #OplanLigtasNaPamayanan #IwasSunog",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1122430340300293.jpg",
-      "publishedDate": "2026-10-18T11:12:54+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1122430340300293",
       "source": "BFP Titay"
     },
     {
@@ -978,15 +996,6 @@
       "source": "BFP RIX CRS Titay"
     },
     {
-      "id": "fb-bfp2-1002128899657876_122122828329081011",
-      "title": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS",
-      "summary": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS\n\nTitay Municipal Fire Station intensified its inspection and organization of the Emergency Response Team (ERT) of Rhedans School and office supplies, ensuring that its personnel are prepared to respond to fires, medical emergencies, earthquakes, and other possible hazards. The activity focused on strengthening the establishment’s emergency response plan, identifying potential risks, clarifying team responsibilities, and enhancing the employees’ readiness to protect lives and property during emergencies.",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122122828329081011.jpg",
-      "publishedDate": "2026-09-19T02:00:12+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122122828329081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
       "id": "fb-ldrrmo-1007263869129517_122146845399246473",
       "title": "Rainfall Advisory No. 15  #MINPRSD",
       "summary": "Rainfall Advisory No. 15  #MINPRSD\nWeather System: Intertropical Convergence Zone (ITCZ) / Low Pressure Area (LPA) \nIssued at 11:00 AM 17 September 2026\n\nLight to Moderate rains are expected over #MaguindanaoDelNorte(DatuOdinSinsuat, Kabuntalan, SultanMastura, Parang, Matanog, Barira, Buldon, NorthernKabuntalan, Talitay, SultanKudarat), #CotabatoCity, #Sulu(Siasi, Lugus, Tapul, Pata, KalingalanCaluang, Maimbung, Parang, Omar, PanglimaEstino, Talipao, Luuk, OldPanamao, Indanan, Jolo, Patikul, Banguingui, HadjiPanglimaTahil), #ZamboangaDelSur(Margosatubig, VincenzoA.Sagun, Dimataling, Pitogo, Lapuyan, SanMiguel, Dinas, Tabina, Kumalarang, Bayog, Lakewood, Tigbao, Guipos), #DavaoOriental(GovernorGeneroso), #Bukidnon(ManoloFortich, ImpasugOng, CityOfMalaybalay, CityOfValencia, Cabanglasan, SanFernando), #Basilan, #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Alicia, Payao, Tungawan, Malangas, Imelda, RosellerLim, Buug, Siay, Diplahan, Titay, Naga, Kabasalan), #ZamboangaCity, #DavaoDeOro, #DavaoDelNorte, #DavaoCity, #DinagatIslands, #AgusanDelSur, #AgusanDelNorte, #TawiTawi(Sitangkai, Sibutu, Simunul, SapaSapa, PanglimaSugala, Tandubas, TurtleIslands, Mapun, SouthUbian), #LanaoDelSur(Balabagan, Kapatagan, Malabang), #SultanKudarat(Palimbang, Sen.NinoyAquino, Isulan, Esperanza), #MaguindanaoDelSur(Ampatuan, Talayan, DatuAnggalMidtimbang, Guindulungan, DatuSaudiAmpatuan, DatuUnsay, DatuHofferAmpatuan and ShariffAguak) within the next 2-3 hours.\n\nModerate to occasionally heavy rains are being experienced in #DavaoOriental(Boston, Cateel, Baganga, Manay, Caraga, Tarragona, Lupon, Banaybanay, SanIsidro, CityOfMati), #MaguindanaoDelNorte(Upi, DatuBlahT.Sinsuat), #Sulu(Pangutaran, Pandami), #ZamboangaSibugay(Ipil), #Bukidnon(Sumilao, Lantapan), #SurigaoDelSur, #SurigaoDelNorte, #MaguindanaoDelSur(SouthUpi), #SultanKudarat(Lebak, Kalamansig), #TawiTawi(Bongao and Languyan) which may persist within 2-3 hours and may affect nearby areas.\n\nThe public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today. /kcc/kjcp",
@@ -994,33 +1003,6 @@
       "publishedDate": "2026-09-17T04:27:22+0000",
       "fullContentUrl": "https://www.facebook.com/122144931645246473/posts/122146845399246473",
       "source": "LDRRMO Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122122611447081011",
-      "title": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS",
-      "summary": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS\n\nTitay Municipal Fire Station intensified its inspection and organization of the Emergency Response Team (ERT) of EDJ Foodhub ensuring that its personnel are prepared to respond to fires, medical emergencies, earthquakes, and other possible hazards. The activity focused on strengthening the establishment’s emergency response plan, identifying potential risks, clarifying team responsibilities, and enhancing the employees’ readiness to protect lives and property during emergencies.",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122122611447081011.jpg",
-      "publishedDate": "2026-09-17T02:00:49+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122122611447081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122122408047081011",
-      "title": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS",
-      "summary": "TITAY MFS STRENGTHENS BUSINESS EMERGENCY TEAMS\n\nTitay Municipal Fire Station intensified its inspection and organization of the Emergency Response Team (ERT) of Deepwash Laundry Shop, ensuring that its personnel are prepared to respond to fires, medical emergencies, earthquakes, and other possible hazards. The activity focused on strengthening the establishment’s emergency response plan, identifying potential risks, clarifying team responsibilities, and enhancing the employees’ readiness to protect lives and property during emergencies.",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122122408047081011.jpg",
-      "publishedDate": "2026-09-14T22:45:23+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122122408047081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122122201257081011",
-      "title": "BFP Titay Conducts Fire Square Roadshow for Titay District Student Leaders",
-      "summary": "BFP Titay Conducts Fire Square Roadshow for Titay District Student Leaders\n\nTITAY, Zamboanga Sibugay — September 12, 2026 — More than just classroom lessons, fire safety education came alive as the Titay Municipal Fire Station (MFS) conducted a Fire Square Roadshow for student leaders of the Titay District at Titay National High School, Poblacion, Titay, Zamboanga Sibugay. The activity equipped young leaders with essential knowledge and practical skills in fire prevention, basic firefighting, rescue, first aid, and Exit Drill in the Home (EDITH), empowering them to become active advocates of safety and preparedness in their schools, homes, and communities.\n\nThe activity aimed to strengthen the knowledge, skills, and preparedness of student leaders in preventing and responding to fire and other emergencies. It provided participants with practical lessons and demonstrations on basic firefighting, rescue techniques, first aid, and Exit Drill in the Home (EDITH).\n\nAdding an interactive approach to fire safety education, BFP Titay also facilitated online fire safety games, allowing participants to test and reinforce their knowledge through engaging and interactive activities.\n\nThe Fire Square Roadshow emphasized the important role of students as fire safety advocates and responsible members of the community. By equipping young leaders with essential fire safety knowledge and emergency response skills, the BFP seeks to help build a culture of preparedness and strengthen community resilience.",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122122201257081011.jpg",
-      "publishedDate": "2026-09-13T07:34:35+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122122201257081011",
-      "source": "BFP RIX CRS Titay"
     },
     {
       "id": "fb-ldrrmo-1007263869129517_122146264347246473",
