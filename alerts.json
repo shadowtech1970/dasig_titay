@@ -1,5 +1,5 @@
 {
-  "version": 358,
+  "version": 360,
   "alerts": [
     {
       "id": "pagasa-e88fba1d-4159-4a21-b781-25d1580078c5",
@@ -541,11 +541,6 @@
     }
   ],
   "seen": [
-    "2026-09-04T10:55|5.21|125.30",
-    "2026-09-04T10:41|9.65|122.64",
-    "2026-09-04T10:27|8.14|126.25",
-    "2026-09-04T09:54|5.33|125.43",
-    "2026-09-04T08:48|15.54|119.92",
     "2026-09-04T08:33|5.32|125.26",
     "2026-09-04T08:11|5.82|125.70",
     "2026-09-04T07:58|19.68|121.31",
@@ -4540,7 +4535,12 @@
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/d55b0615-6aeb-4c35-b2ba-1b017405a779.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/7e6bff1d-64df-4f8c-b15a-51880eda0080.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/2a1c3f86-001d-4c62-a14c-d0d9f7c8217f.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/9c46f1ee-c145-4f09-877b-c41b031ec7d1.cap"
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/9c46f1ee-c145-4f09-877b-c41b031ec7d1.cap",
+    "2026-10-24T23:23|5.34|125.11",
+    "2026-10-24T22:58|6.38|126.63",
+    "2026-10-24T22:37|5.69|126.44",
+    "2026-10-24T21:23|20.66|121.48",
+    "2026-10-24T21:12|10.78|122.89"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4549,6 +4549,6 @@
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-24T21:25:51.317Z"
+    "checked_at": "2026-10-24T23:32:56.840Z"
   }
 }
