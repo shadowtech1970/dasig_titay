@@ -1,5 +1,5 @@
 {
-  "version": "1.0.111",
+  "version": "1.0.112",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,20 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122195950292935139",
+      "title": "FARMING ATTIRE | BAE SA TAYTAY 2026.❤️",
+      "description": "FARMING ATTIRE | BAE SA TAYTAY 2026.❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195950292935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1420535026914079/"
+    },
+    {
+      "id": "fb-751559508033473_122195912576935139",
+      "title": "1ST DONRIO MARTINEZ NARAGSAKAN 2026: CHESS TOURNAMENT.",
+      "description": "1ST DONRIO MARTINEZ NARAGSAKAN 2026: CHESS TOURNAMENT.\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195912576935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1090393667232637/"
+    },
     {
       "id": "fb-751559508033473_122195887166935139",
       "title": "BAE SA TAYTAY 2026: WHO WILL BE CROWNED?",
@@ -200,16 +214,18 @@
       "description": "IT TAKES A VILLAGE! \n\nBehind every beautiful pageant production is a community that gives more than what is seen on stage. It takes people who willingly share their time, talent, resources, and heart to make everything possible.\n\nThis post is an ode to our dedicated handlers, makeup artists, teachers, coaches, and everyone who worked behind the scenes. To those who shared their skills, offered their time, and believed in what we could create together, thank you for being part of the magic.\n\nBecause sometimes, the most beautiful part of a pageant is not just what happens on stage, but the people who come together to make it happen. ❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194809602935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122194809602935139"
-    },
-    {
-      "id": "fb-751559508033473_122194742648935139",
-      "title": "🏆 CHAMPIONS OF NARAGSAKAN FESTIVAL 2026 OPEN INVITATIONAL BASKETBALL LEAGUE: T…",
-      "description": "🏆 CHAMPIONS OF NARAGSAKAN FESTIVAL 2026 OPEN INVITATIONAL BASKETBALL LEAGUE: TEAM MARLONIX! 🏆\n\nA heartfelt DAGHANG SALAMAT to our ever-supportive Municipal Mayor, Mayora DONRIO Martinez CASTILLO!🙏\nThank you, Mayora, for your unwavering leadership, continuous support for local sports, and for giving our athletes a platform to shine during the Naragsakan Festival 2026. Your dedication to promoting camaraderie, youth development, and sportsmanship across Titay is truly inspiring! 💖👏\n\nPuso ug determinasyon sa matag duwa! 🏀\n\n#DasigTitay #NaragsakanFestival2026",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122194742648935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122194742648935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp2-1002128899657876_122126616807081011",
+      "title": "SAKURA CHALLENGE 2026",
+      "summary": "SAKURA CHALLENGE 2026\n\nMore than a competition, SAKURA Challenge brought together young rescuers to develop lifesaving skills, teamwork, critical thinking, and emergency preparedness.\n\nInspired by the Sakura flower and the courage of Cardcaptor Sakura, SAKURA (Student Association of Kinship, United Rescuers and Advocates) reminds us that even the young can bring hope and make a difference in saving lives.\n\nOur heartfelt gratitude to LGU Titay headed by Mayor Rio Martinez, all participating schools, coaches, judges, partners, and supporters who made this event possible!\n\n#SAKURAChallenge2026 #EmpoweringStudentRescuers #BuildingLifesavers",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126616807081011.jpg",
+      "publishedDate": "2026-10-24T13:05:55+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1590329758995986/",
+      "source": "BFP RIX CRS Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1675483100590249",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
@@ -352,15 +368,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126422677081011.jpg",
       "publishedDate": "2026-10-22T13:15:35+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122126422677081011",
-      "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp2-1002128899657876_122126405331081011",
-      "title": "Titay Municipal Fire Station conducted a fire safety information campaign in Ba…",
-      "summary": "Titay Municipal Fire Station conducted a fire safety information campaign in Barangay Gomotoc, Titay, Zamboanga Sibugay, on October 4, 2026, through the distribution of informational leaflets to residents. The initiative aimed to raise public awareness of fire prevention, promote safe practices at home and in the community, and encourage residents to take proactive measures to prevent fire incidents and protect lives and property",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp2-1002128899657876_122126405331081011.jpg",
-      "publishedDate": "2026-10-22T09:40:25+0000",
-      "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122126405331081011",
       "source": "BFP RIX CRS Titay"
     },
     {
