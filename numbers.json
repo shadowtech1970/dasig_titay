@@ -1,5 +1,5 @@
 {
-  "version": "1.0.113",
+  "version": "1.0.114",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122196055154935139",
+      "title": "BAE SA TAYTAY 2026 | NARAGSAKAN FESTIVAL",
+      "description": "BAE SA TAYTAY 2026 | NARAGSAKAN FESTIVAL\n\nCongratulations to our winning schools!\n\n🏆 Titay National High School\n🥈 Salip T. Hasim National High School\n🥉 San Antonio National High School\n\nThank you to our candidates and their respective schools for being part of this year’s Bae sa Taytay and for showcasing the beauty, confidence, and talent of our young Titayanons.\n\nSpecial thanks to Mayor DONRIO Martinez for the continued support in making this event possible, and to everyone who helped make this pageant a success.\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196055154935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196055154935139"
+    },
     {
       "id": "fb-751559508033473_122196045806935139",
       "title": "TWO BIG EVENTS TODAY!",
@@ -200,13 +207,6 @@
       "description": "HIGHLIGHTS | KASALAN NG BAYAN 2026 💍❤️\n\nA celebration of love, commitment, and new beginnings!\n\nOur heartfelt gratitude to Mayor Donrio Martinez Castillo for making this meaningful celebration possible and for bringing our couples together to begin a new chapter in their lives.\n\nThank you to our guest speaker, Atty. Ellen Gumansing Nalzaro, for sharing her inspiring message on love, marriage, and commitment.\n\nOur sincere appreciation also goes to our Sangguniang Bayan Members, Punong Barangays, department heads, and all the offices and individuals who worked together to make this occasion memorable.\n\nTo our newlyweds, may your marriage be filled with patience, understanding, faith, and a love that grows stronger through every season of life.\n\nCongratulations to our newly married couples! May God bless your union and your journey together. \n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195115434935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1376779601201929/"
-    },
-    {
-      "id": "fb-751559508033473_122195109296935139",
-      "title": "Congratulations and best wishes!❤️",
-      "description": "Congratulations and best wishes!❤️\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195109296935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1436236824519476/"
     }
   ],
   "newsArticles": [
