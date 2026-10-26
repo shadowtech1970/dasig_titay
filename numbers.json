@@ -1,5 +1,5 @@
 {
-  "version": "1.0.114",
+  "version": "1.0.115",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,27 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122196187034935139",
+      "title": "BAE SA TAYTAY | PRODUCTION NUMBER.❤️",
+      "description": "BAE SA TAYTAY | PRODUCTION NUMBER.❤️\n\nPhoto Credits | Ms. Daphne Cabadunga.\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196187034935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196187034935139"
+    },
+    {
+      "id": "fb-751559508033473_122196185678935139",
+      "title": "BAE SA TAYTAY | FARMING ATTIRE.❤️",
+      "description": "BAE SA TAYTAY | FARMING ATTIRE.❤️\n\nPhoto Credits | Ms. Daphne Cabadunga\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196185678935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196185678935139"
+    },
+    {
+      "id": "fb-751559508033473_122196176414935139",
+      "title": "BAE SA TAYTAY 2026",
+      "description": "BAE SA TAYTAY 2026\n\nA celebration of culture, beauty, and diversity. Our Bae sa Taytay candidates proudly showcase their cultural attire, reflecting the rich traditions and heritage that make Titay truly unique.\n\nThank you, Mayor DONRIO Martinez, for your continued support in making this celebration possible and for helping us promote and preserve our diverse cultural heritage.\n\nPhoto Credits: Maam Daphne Cabadunga \n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196176414935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196176414935139"
+    },
     {
       "id": "fb-751559508033473_122196055154935139",
       "title": "BAE SA TAYTAY 2026 | NARAGSAKAN FESTIVAL",
@@ -186,30 +207,27 @@
       "description": "IMPORTANT ANNOUNCEMENT | NARAGSAKAN 2026\n\nTitayanons, here’s tonight’s schedule of activities at the Titay Imelda Gymnasium!\n\n🏮 6:00 PM – Creative Lamp Parade\n🎉 7:00 PM – Official Opening of Naragsakan 2026\n💃 Followed by: Inter-Barangay Cultural Dance Competition\n🏆 Gabi ng Parangal – Recognition of our Latin Honor Awardees\n\nSee you tonight, Titayanons! Let’s light up the streets and celebrate the spirit of Naragsakan! \n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195232860935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195232860935139"
-    },
-    {
-      "id": "fb-751559508033473_122195139386935139",
-      "title": "CONGRATULATIONS, LATIN HONOR AWARDEES!",
-      "description": "CONGRATULATIONS, LATIN HONOR AWARDEES!\n\nYour Municipality of Titay celebrates your academic excellence and dedication. May your achievements inspire more young Titayanons to pursue their dreams and strive for greatness.\n\nOur heartfelt gratitude to Mayor DONRIO Martinez-Castillo for recognizing and honoring the hard work and accomplishments of our Latin Honor Awardees.\n\nPadayon, Titayanons! Your success is our pride. ❤️\n\n#NaragsakanFestival2026 #GabiNgParangal #DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195139386935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195139386935139"
-    },
-    {
-      "id": "fb-751559508033473_122195128688935139",
-      "title": "LET’S LIGHT UP THE STREETS, TITAYANONS! 🏮",
-      "description": "LET’S LIGHT UP THE STREETS, TITAYANONS! 🏮\n\nJoin us for the CREATIVE LAMP PARADE as we officially open the NARAGSAKAN FESTIVAL 2026: Bae sa Taytay! \n\nSTART: Municipal Grounds\nFINISH: Imelda Gymnasium\n\nLet’s illuminate the streets with creativity, colors, and the vibrant spirit of Naragsakan!\n\nSee you there, mga ka-Titay! ❤️\n\n#NaragsakanFestival2026 \n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195128688935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195128688935139"
-    },
-    {
-      "id": "fb-751559508033473_122195115434935139",
-      "title": "HIGHLIGHTS | KASALAN NG BAYAN 2026 💍❤️",
-      "description": "HIGHLIGHTS | KASALAN NG BAYAN 2026 💍❤️\n\nA celebration of love, commitment, and new beginnings!\n\nOur heartfelt gratitude to Mayor Donrio Martinez Castillo for making this meaningful celebration possible and for bringing our couples together to begin a new chapter in their lives.\n\nThank you to our guest speaker, Atty. Ellen Gumansing Nalzaro, for sharing her inspiring message on love, marriage, and commitment.\n\nOur sincere appreciation also goes to our Sangguniang Bayan Members, Punong Barangays, department heads, and all the offices and individuals who worked together to make this occasion memorable.\n\nTo our newlyweds, may your marriage be filled with patience, understanding, faith, and a love that grows stronger through every season of life.\n\nCongratulations to our newly married couples! May God bless your union and your journey together. \n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195115434935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1376779601201929/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1689683369834589",
+      "title": "PROTECTING OUR SEAS, SECURING OUR FUTURE 🇵🇭",
+      "summary": "PROTECTING OUR SEAS, SECURING OUR FUTURE 🇵🇭\n\nThe National Task Force for the West Philippine Sea (NTF-WPS) remains steadfast in defending our sovereign rights and maritime entitlements under international law, governed by the 1982 UNCLOS and reinforced by the binding 2016 Arbitral Award.\n\nThrough the unified efforts of our Philippine Coast Guard (PCG), Armed Forces of the Philippines (AFP), and Bureau of Fisheries and Aquatic Resources (BFAR), we continue to patrol our waters, safeguard our coastal communities, and protect the livelihoods of everyday Filipino fishermen.\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1689683369834589.jpg",
+      "publishedDate": "2026-10-25T22:57:15+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1689683369834589",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_3153594041512019",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 24 October 2026 (Monday) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_3153594041512019.jpg",
+      "publishedDate": "2026-10-25T21:25:49+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/3153594041512019",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1688822109920715",
       "title": "MOBILE PATROL:",
@@ -607,15 +625,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1684897173646542",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1684897173646542.jpg",
-      "publishedDate": "2026-10-21T10:56:39+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1684897173646542",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122126322195081011",
       "title": "Titay Municipal Fire Station conducted a fire safety information campaign in Ba…",
       "summary": "Titay Municipal Fire Station conducted a fire safety information campaign in Barangay Dalisay, Titay, Zamboanga Sibugay, on October 6, 2026, through the distribution of informational leaflets to residents. The initiative aimed to raise public awareness of fire prevention, promote safe practices at home and in the community, and encourage residents to take proactive measures to prevent fire incidents and protect lives and property.",
@@ -901,15 +910,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1083159501002754.jpg",
       "publishedDate": "2026-10-11T21:10:01+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1083159501002754",
-      "source": "BFP Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1115656440977683",
-      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐒𝐏𝐎𝐑𝐓𝐒-𝐑𝐄𝐋𝐀𝐓𝐄𝐃…",
-      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 (𝐒𝐏𝐎𝐑𝐓𝐒-𝐑𝐄𝐋𝐀𝐓𝐄𝐃 𝐈𝐍𝐉𝐔𝐑𝐘)\n\n**𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 ||** Titay Municipal Fire Station (MFS) Shift A personnel promptly responded to a request for emergency medical assistance at Barangay Poblacion, Titay, Zamboanga Sibugay, involving a male patient who sustained an ankle injury while playing basketball.\n\nUpon arrival at the basketball court, the responding team secured the area and conducted an immediate primary assessment. The patient was found seated on a chair, conscious and oriented, complaining of pain and swelling in the affected ankle following a twisting injury.\n\nImmediate first aid was provided by applying a cold pack for 15 minutes, securing the affected ankle with an elastic bandage, and elevating the injured extremity to help reduce swelling and discomfort. The patient's vital signs were assessed, and his condition was monitored following the initial assessment and first aid.\n\nThe patient remained in stable condition and was left at the scene after being advised to seek medical evaluation if the pain or swelling persisted, worsened, or if additional symptoms developed.\n\nTitay MFS reminds the public, especially athletes and sports enthusiasts, to observe proper precautions during physical activities and seek appropriate medical attention when injuries occur.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: **0965-509-0944.**\n\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1115656440977683.jpg",
-      "publishedDate": "2026-10-11T06:44:30+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1115656440977683",
       "source": "BFP Titay"
     },
     {
