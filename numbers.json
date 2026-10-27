@@ -1,5 +1,5 @@
 {
-  "version": "1.0.116",
+  "version": "1.0.117",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,20 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122196364862935139",
+      "title": "NARAGSAKAN FESTIVAL 2026 | BAYLE SA KALYE & FLOAT PARADE✨",
+      "description": "NARAGSAKAN FESTIVAL 2026 | BAYLE SA KALYE & FLOAT PARADE✨",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196364862935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196364862935139"
+    },
+    {
+      "id": "fb-751559508033473_122196339146935139",
+      "title": "The streets came alive once again!",
+      "description": "The streets came alive once again!\n\nA vibrant celebration of culture, creativity, and community as the Float Parade and Bayle sa Kalye 2.0 filled the streets of Titay with colors, rhythm, and energy for Naragsakan Festival 2026.\n\nCongratulations to all participating schools and everyone who made these events a success.\n\nThank you so much, Mayora DONRIO Martinez, for your continued support in making these celebrations possible. Together, we continue to keep the DASIG spirit alive in every corner of Titay.\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196339146935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1071499232523990/"
+    },
     {
       "id": "fb-751559508033473_122196242450935139",
       "title": "NARAGSAKAN FESTIVAL 2026 | FLOAT COMPETITION",
@@ -207,23 +221,54 @@
       "description": "NARAGSAKAN FESTIVAL | CREATIVE LAMP PARADE 2026.❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195306930935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/4591808797773311/"
-    },
-    {
-      "id": "fb-751559508033473_122195255882935139",
-      "title": "NARAGSAKAN 2026: A STORY WOVEN IN COLORS",
-      "description": "NARAGSAKAN 2026: A STORY WOVEN IN COLORS\n\nInspired by the traditional clothing of the Subanen people, our stage design showcases the vibrant colors and cultural patterns found in their indigenous attire.\n\nRed, black, yellow, and white are among the colors seen in traditional garments, complemented by green and blue accents that bring harmony and vibrance to the overall design.\n\nAs we celebrate Naragsakan Festival 2026, this stage pays tribute to the Subanen heritage and the rich cultural diversity that makes Titay unique.\n\nEvery thread tells a story. Every pattern reflects a heritage. Together, we celebrate the culture that makes us who we are.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195255882935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1811752453472784/"
-    },
-    {
-      "id": "fb-751559508033473_122195232860935139",
-      "title": "IMPORTANT ANNOUNCEMENT | NARAGSAKAN 2026",
-      "description": "IMPORTANT ANNOUNCEMENT | NARAGSAKAN 2026\n\nTitayanons, here’s tonight’s schedule of activities at the Titay Imelda Gymnasium!\n\n🏮 6:00 PM – Creative Lamp Parade\n🎉 7:00 PM – Official Opening of Naragsakan 2026\n💃 Followed by: Inter-Barangay Cultural Dance Competition\n🏆 Gabi ng Parangal – Recognition of our Latin Honor Awardees\n\nSee you tonight, Titayanons! Let’s light up the streets and celebrate the spirit of Naragsakan! \n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195232860935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195232860935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1690943306375262",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1690943306375262.jpg",
+      "publishedDate": "2026-10-27T02:19:45+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1690943306375262",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1690903493045910",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1690903493045910.jpg",
+      "publishedDate": "2026-10-27T01:34:59+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1690903493045910",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1690902646379328",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1690902646379328.jpg",
+      "publishedDate": "2026-10-27T01:33:49+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1690902646379328",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1690821336387459",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL: \nOctober 27, 2026 @ about 9: 28 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Dalangin, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatroloctober2026\n#pro9mobilepatroloctober272026\n#zsbppomobilepatroloctober272026\n#titaympsmobilepatroloctober272026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1690821336387459.jpg",
+      "publishedDate": "2026-10-27T00:07:32+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1387988609782085/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1553305549886577",
+      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
+      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 27 October 2026 (Tuesday) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1553305549886577.jpg",
+      "publishedDate": "2026-10-26T21:49:55+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1553305549886577",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1690218189781107",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -585,42 +630,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1685773796892213",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685773796892213.jpg",
-      "publishedDate": "2026-10-22T06:31:38+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685773796892213",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1685688043567455",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685688043567455.jpg",
-      "publishedDate": "2026-10-22T04:29:22+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685688043567455",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1685617090241217",
-      "title": "🚨BEWARE OF ROMANCE SCAMS USING DEEPFAKE TECHNOLOGY! 🚨",
-      "summary": "🚨BEWARE OF ROMANCE SCAMS USING DEEPFAKE TECHNOLOGY! 🚨\n\n❤️ Not everyone you meet online is who they claim to be. Scammers may use AI-generated photos, cloned voices, and multiple fake identities to gain your trust, manipulate your emotions, and eventually steal your money.\n\n🛡️ PROTECT YOUR HEART AND YOUR MONEY!\n✅ Verify the identity of people you meet online.\n✅ Be cautious of profiles with suspicious or inconsistent information.\n✅ Never send money, gift cards, or financial details to online acquaintances you have never met or verified.\n✅ Avoid sharing sensitive personal information and private photos.\n✅ Report suspicious accounts and suspected scams to the proper authorities.\n\n📢 Think before you trust. Verify before you act. Stay vigilant against online deception and help raise awareness about the misuse of artificial intelligence.\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect\n#DontTakeTheBait",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685617090241217.jpg",
-      "publishedDate": "2026-10-22T02:55:32+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/1779643266643549/",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1685614693574790",
-      "title": "🚨 BEWARE OF AUDIO SCAMS USING DEEPFAKE TECHNOLOGY! 🚨",
-      "summary": "🚨 BEWARE OF AUDIO SCAMS USING DEEPFAKE TECHNOLOGY! 🚨\n\nImagine receiving a call from someone who sounds exactly like your daughter, urgently asking for money. Would you immediately send it?\n\n⚠️ Think before you act! Scammers can use AI-generated or cloned voices to impersonate family members and trick victims into sending money.\n\n🛡️ Stay alert and protect yourself:\n✅ Verify the caller’s identity by contacting them through another trusted number.\n✅ Ask personal questions only your real family member would know.\n✅ Never rush into sending money, even when the request sounds urgent.\n✅ Be cautious about sharing voice recordings and personal information online.\n✅ Report suspected scams to the proper authorities.\n\n📢 Stop. Verify. Protect. A familiar voice does not always mean a trusted person is on the other end of the line.\n\nLet us work together to raise awareness and prevent online fraud!\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect\n#DontTakeTheBait",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685614693574790.jpg",
-      "publishedDate": "2026-10-22T02:52:50+0000",
-      "fullContentUrl": "https://www.facebook.com/reel/1652056342976658/",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp-111540694644827_1578609623588282",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
       "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 22 October 2026 (THURSDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
@@ -916,15 +925,6 @@
       "publishedDate": "2026-10-12T02:00:24+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122125471701081011",
       "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1083159501002754",
-      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
-      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 12 October 2026 (MONDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1083159501002754.jpg",
-      "publishedDate": "2026-10-11T21:10:01+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1083159501002754",
-      "source": "BFP Titay"
     },
     {
       "id": "fb-bfp2-1002128899657876_122125369269081011",
