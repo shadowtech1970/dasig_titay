@@ -1,5 +1,5 @@
 {
-  "version": 382,
+  "version": 384,
   "alerts": [
     {
       "id": "pagasa-e88fba1d-4159-4a21-b781-25d1580078c5",
@@ -541,14 +541,6 @@
     }
   ],
   "seen": [
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/cd025de8-a90d-4a85-a685-39500c6c7567.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/bcff8e3d-a34c-4623-9627-84d4c64857bd.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5f390316-8bc6-43c7-872c-52315deb47cf.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/5a012b94-a8c1-4873-bfb7-1a12c88c2329.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/3e1f6103-c413-43af-b439-3ba287aa89b9.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/01b11a22-9674-4c7c-9395-de5cb6ecb716.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/4f37c159-53ec-41ae-9e05-671dff613ac8.cap",
-    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/c3c8c071-4719-475f-b5e5-bad560263aae.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/a928d468-781c-434e-9ace-f00f09059544.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/2971de00-2cf8-4c83-91a2-5519466141db.cap",
     "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/49b8bd01-c49b-4fe2-adbc-582862863c62.cap",
@@ -4540,7 +4532,15 @@
     "2026-10-26T19:41|5.51|126.34",
     "2026-10-26T19:30|8.06|125.47",
     "2026-10-26T19:14|8.73|126.42",
-    "2026-10-26T19:09|8.09|125.44"
+    "2026-10-26T19:09|8.09|125.44",
+    "2026-10-27T02:05|12.92|122.66",
+    "2026-10-27T00:15|5.92|125.82",
+    "2026-10-27T00:07|9.56|126.20",
+    "2026-10-26T23:52|15.65|119.87",
+    "2026-10-26T23:47|5.21|126.98",
+    "2026-10-26T23:35|5.49|125.37",
+    "2026-10-26T22:52|2.40|127.93",
+    "2026-10-26T02:52|19.08|121.42"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4549,6 +4549,6 @@
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-26T23:02:57.575Z"
+    "checked_at": "2026-10-27T02:19:28.719Z"
   }
 }
