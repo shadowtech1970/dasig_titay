@@ -1,5 +1,5 @@
 {
-  "version": "1.0.117",
+  "version": "1.0.118",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -34,18 +34,18 @@
   ],
   "advertisements": [
     {
+      "id": "fb-751559508033473_122196400658935139",
+      "title": "NARAGSAKAN FESTIVAL 2026 | BAYLE SA KALYE & FLOAT PARADE✨",
+      "description": "NARAGSAKAN FESTIVAL 2026 | BAYLE SA KALYE & FLOAT PARADE✨\n\nGRAND SHOWDOWN🏆",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196400658935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196400658935139"
+    },
+    {
       "id": "fb-751559508033473_122196364862935139",
       "title": "NARAGSAKAN FESTIVAL 2026 | BAYLE SA KALYE & FLOAT PARADE✨",
       "description": "NARAGSAKAN FESTIVAL 2026 | BAYLE SA KALYE & FLOAT PARADE✨",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196364862935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196364862935139"
-    },
-    {
-      "id": "fb-751559508033473_122196339146935139",
-      "title": "The streets came alive once again!",
-      "description": "The streets came alive once again!\n\nA vibrant celebration of culture, creativity, and community as the Float Parade and Bayle sa Kalye 2.0 filled the streets of Titay with colors, rhythm, and energy for Naragsakan Festival 2026.\n\nCongratulations to all participating schools and everyone who made these events a success.\n\nThank you so much, Mayora DONRIO Martinez, for your continued support in making these celebrations possible. Together, we continue to keep the DASIG spirit alive in every corner of Titay.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196339146935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1071499232523990/"
     },
     {
       "id": "fb-751559508033473_122196242450935139",
@@ -224,6 +224,15 @@
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1691324006337192",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1691324006337192.jpg",
+      "publishedDate": "2026-10-27T10:36:01+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1691324006337192",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1690943306375262",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -618,15 +627,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685776950225231.jpg",
       "publishedDate": "2026-10-22T06:36:10+0000",
       "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685776950225231",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1685776323558627",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1685776323558627.jpg",
-      "publishedDate": "2026-10-22T06:35:37+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1685776323558627",
       "source": "PNP Titay"
     },
     {
