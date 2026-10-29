@@ -1,5 +1,5 @@
 {
-  "version": "1.0.121",
+  "version": "1.0.122",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122196751346935139",
+      "title": "NARAGSAKAN FESTIVAL 2026 | BAE SA TAYTAY👑✨",
+      "description": "NARAGSAKAN FESTIVAL 2026 | BAE SA TAYTAY👑✨\n\n#DasigTitay",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196751346935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196751346935139"
+    },
     {
       "id": "fb-751559508033473_122196627728935139",
       "title": "The Blessing and Turnover of the Patient Transport Vehicle marks another meanin…",
@@ -217,6 +224,33 @@
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1693996702736589",
+      "title": "PUBLIC SAFETY ADVISORY | LIGTAS NA UNDAS 2026",
+      "summary": "PUBLIC SAFETY ADVISORY | LIGTAS NA UNDAS 2026\n\nAs we commemorate All Saints’ Day and All Souls’ Day, the Titay Municipal Police Station reminds everyone to observe safety and vigilance for a peaceful and meaningful Undas celebration.\n\nLet us work together to prevent untoward incidents and ensure the safety of our families and community. Your cooperation and vigilance are essential in keeping everyone safe.\n\nLigtas na Undas, Panatag na Pamilya! 🕯️🙏\n\nThe men and women of Titay Municipal Station remain committed to serving and protecting the community.\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1693996702736589.jpg",
+      "publishedDate": "2026-10-29T15:22:07+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/2264607750775431/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1132671355942858",
+      "title": "𝐑𝐎𝐀𝐃 𝐍𝐈𝐆𝐇𝐓 𝐖𝐀𝐓𝐂𝐇",
+      "summary": "𝐑𝐎𝐀𝐃 𝐍𝐈𝐆𝐇𝐓 𝐖𝐀𝐓𝐂𝐇\nIN PHOTOS|| Under the leadership of SFO4 Neil P Siaron, Acting Municipal Fire Marshal, personnel of the Titay Municipal Fire Station conducted a Road Night Watch to ensure public safety, monitor road conditions, and help prevent fire and road-related incidents during the observance of All Saints’ Day and All Souls’ Day.\n\n📞 For emergencies, call 911 or the Titay MFS hotline at 0965-509-0944.\n\n#BFPRegionIX #TitayMFS #OplanKaluluwa2026 #RoadNightWatch #PublicSafety",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1132671355942858.jpg",
+      "publishedDate": "2026-10-29T12:05:01+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1132671355942858",
+      "source": "BFP Titay"
+    },
+    {
+      "id": "fb-bfp-111540694644827_1132667199276607",
+      "title": "𝐃𝐈𝐒𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐎𝐅 𝐅𝐈𝐑𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐋𝐄𝐀𝐅𝐋𝐄𝐓𝐒",
+      "summary": "𝐃𝐈𝐒𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐎𝐅 𝐅𝐈𝐑𝐄 𝐒𝐀𝐅𝐄𝐓𝐘 𝐋𝐄𝐀𝐅𝐋𝐄𝐓𝐒\nIN PHOTOS||  Under the leadership of SFO4 Neil P Siaron, Acting Municipal Fire Marshal, personnel of the Titay Municipal Fire Station distributed fire safety leaflets to raise public awareness on fire prevention and promote safety during the observance of All Saints’ Day and All Souls’ Day. The public was reminded to handle candles properly, avoid unattended open flames, and observe fire safety precautions to prevent fire incidents and ensure a safe and peaceful observance.\n\n📞 For emergencies, call 911 or the Titay MFS hotline at 0965-509-0944.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1132667199276607.jpg",
+      "publishedDate": "2026-10-29T09:43:22+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1132667199276607",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1132456915964302",
       "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
@@ -641,15 +675,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1686934913442768",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1686934913442768.jpg",
-      "publishedDate": "2026-10-23T08:32:10+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1686934913442768",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp-111540694644827_1103111479263894",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
       "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 23 October 2026 (FRIDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
@@ -857,15 +882,6 @@
       "source": "BFP Titay"
     },
     {
-      "id": "fb-bfp-111540694644827_1120281630515164",
-      "title": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄",
-      "summary": "𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐄 \n𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 || Upon arrival at the scene, the responding EMS team found the patient seated on a chair, conscious, alert, and oriented. The patient complained of abdominal pain that began the previous day and reported multiple episodes of vomiting. She also reported having given birth to her second child 12 days before the incident.\nEMS personnel assisted the patient in walking to the BFP ambulance, providing support and ensuring her safety during the transfer. The patient's level of consciousness and overall condition were continuously monitored while preparing for transport to a medical facility for further evaluation and management.\nThe patient was immediately transported to Dr. George T. Hofer Medical Center for further medical evaluation and management.\nUpon arrival at Dr. George T. Hofer Medical Center, Tenan, Ipil, Zamboanga Sibugay, the patient was properly endorsed to the attending medical staff on duty.\n\n𝐈𝐍 𝐂𝐀𝐒𝐄 𝐎𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘, call 911 or contact the Titay MFS Hotline Number: **0965-509-0944.**\n#SaBFPLigtasAngMayAlam\n#TitayMFS\n#EmergencyMedicalResponse\n#WeServeToSave",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1120281630515164.jpg",
-      "publishedDate": "2026-10-16T03:08:43+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1120281630515164",
-      "source": "BFP Titay"
-    },
-    {
       "id": "fb-bfp2-1002128899657876_122125865691081011",
       "title": "Isang timba, isang kamay, isang layunin. Sa pagtutulungan ng komunidad, kayang…",
       "summary": "Isang timba, isang kamay, isang layunin. Sa pagtutulungan ng komunidad, kayang mapawi ang apoy.",
@@ -873,15 +889,6 @@
       "publishedDate": "2026-10-16T02:53:03+0000",
       "fullContentUrl": "https://www.facebook.com/122120351655081011/posts/122125865691081011",
       "source": "BFP RIX CRS Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1821614159260377",
-      "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
-      "summary": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fire Station personnel today 16 October 2026 (FRIDAY) headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\nThe activity includes: \n🔥 Physical Conditioning Exercise\n🔥 Cleaning of AOR/Fire Engine\n🔥 Skills Enhancement\nThis is purposely done to exhibit personnel's active preparation in case of emergency and fire calls.\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: Please note no copyright infringement is intended, and I do not own nor claim to own any of the original song used in this video.\n#SaPagiwasSaSunogDikaNagiisa \n#EverydayIsFirePreventionDay \n#FireSafetyTips\nOperasyon Nueve\nBfp Zamboanga Sibugay PO",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1821614159260377.jpg",
-      "publishedDate": "2026-10-15T21:51:33+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1821614159260377",
-      "source": "BFP Titay"
     },
     {
       "id": "fb-bfp2-1002128899657876_122125776561081011",
