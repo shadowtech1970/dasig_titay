@@ -1,6 +1,28 @@
 {
-  "version": 416,
+  "version": 418,
   "alerts": [
+    {
+      "id": "eq-2026-10-30T18028.02123.20",
+      "type": "earthquake",
+      "severity": "warning",
+      "source": "PHIVOLCS",
+      "issued_at": "2026-10-30T22:49:00.922Z",
+      "event_time": "2026-10-30T18:02:00.000Z",
+      "title": "Magnitude 3.1 nga linog — 78 km sidlakan sa Titay",
+      "body": "M 3.1 · giladmon 14 km\n013 km S 87° W of Midsalip (Zamboanga Del Sur)\nHuyang nga pagkurog, kasagaran walay kadaot.\nTinubdan: PHIVOLCS · Okt 31, 2:02 AM",
+      "detail": {
+        "magnitude": 3.1,
+        "depth_km": 14,
+        "epicenter": "013 km S 87° W of Midsalip (Zamboanga Del Sur)",
+        "distance_km": 78,
+        "bearing": "ENE",
+        "bearing_ceb": "sidlakan",
+        "latitude": 8.02,
+        "longitude": 123.2,
+        "felt_note": "Huyang nga pagkurog, kasagaran walay kadaot.",
+        "source_url": "https://earthquake.phivolcs.dost.gov.ph/EQLatest.html"
+      }
+    },
     {
       "id": "pagasa-e88fba1d-4159-4a21-b781-25d1580078c5",
       "type": "flood",
@@ -541,25 +563,6 @@
     }
   ],
   "seen": [
-    "2026-09-23T17:52|6.78|126.52",
-    "2026-09-23T17:40|19.51|121.54",
-    "2026-09-23T17:34|9.98|126.22",
-    "2026-09-23T17:18|5.68|125.25",
-    "2026-09-23T17:16|11.10|124.08",
-    "2026-09-23T15:15|5.32|125.23",
-    "2026-09-23T15:07|11.10|124.08",
-    "2026-09-23T14:45|7.43|126.70",
-    "2026-09-23T14:27|8.76|126.72",
-    "2026-09-23T14:19|6.54|125.97",
-    "2026-09-23T14:15|5.73|125.35",
-    "2026-09-23T14:11|5.54|125.23",
-    "2026-09-23T13:53|5.60|125.38",
-    "2026-09-23T13:48|9.02|122.73",
-    "2026-09-23T13:38|5.74|124.54",
-    "2026-09-23T12:58|5.55|125.00",
-    "2026-09-23T12:53|12.19|123.87",
-    "2026-09-23T12:31|10.30|126.51",
-    "2026-09-23T12:19|9.67|126.08",
     "2026-09-23T11:56|5.96|125.85",
     "2026-09-23T11:51|4.87|125.28",
     "2026-09-23T11:30|5.73|125.15",
@@ -4540,7 +4543,26 @@
     "2026-10-29T11:26|15.03|122.70",
     "2026-10-29T10:58|8.43|127.41",
     "2026-10-29T10:43|8.48|127.40",
-    "2026-10-29T10:37|8.54|127.65"
+    "2026-10-29T10:37|8.54|127.65",
+    "2026-10-30T22:23|9.75|126.18",
+    "2026-10-30T21:52|17.31|120.97",
+    "2026-10-30T21:51|19.40|121.73",
+    "2026-10-30T21:48|11.24|124.62",
+    "2026-10-30T21:32|7.21|124.20",
+    "2026-10-30T21:11|19.40|121.75",
+    "2026-10-30T21:00|13.30|124.33",
+    "2026-10-30T20:22|9.58|125.48",
+    "2026-10-30T20:04|10.79|122.94",
+    "2026-10-30T19:55|5.87|124.96",
+    "2026-10-30T19:13|5.46|125.23",
+    "2026-10-30T19:07|5.65|125.28",
+    "2026-10-30T18:59|5.95|125.39",
+    "2026-10-30T18:57|9.26|126.60",
+    "2026-10-30T18:53|4.38|125.73",
+    "2026-10-30T18:51|17.84|120.44",
+    "2026-10-30T18:34|8.54|127.47",
+    "2026-10-30T18:02|8.02|123.20",
+    "pagasa|https://publicalert.pagasa.dost.gov.ph/output/gfa/16fce3a2-607c-4033-9493-fca8e0c9945c.cap"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4556,9 +4578,20 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-10-30T18:44:36.955Z"
+    "checked_at": "2026-10-30T22:49:07.004Z"
   }
 }
