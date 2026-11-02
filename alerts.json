@@ -1,5 +1,5 @@
 {
-  "version": 438,
+  "version": 440,
   "alerts": [
     {
       "id": "eq-2026-10-30T18028.00123.23",
@@ -585,24 +585,6 @@
     }
   ],
   "seen": [
-    "2026-09-25T18:47|13.36|120.10",
-    "2026-09-25T18:46|9.78|126.26",
-    "2026-09-25T18:41|16.94|122.37",
-    "2026-09-25T18:00|19.48|120.27",
-    "2026-09-25T17:38|5.71|125.73",
-    "2026-09-25T17:32|11.05|123.98",
-    "2026-09-25T16:53|9.59|126.20",
-    "2026-09-25T16:44|13.36|120.06",
-    "2026-09-25T16:30|13.38|120.04",
-    "2026-09-25T16:11|9.84|126.49",
-    "2026-09-25T15:31|5.54|125.25",
-    "2026-09-25T13:34|16.44|119.09",
-    "2026-09-25T11:39|5.52|125.44",
-    "2026-09-25T11:19|6.02|124.33",
-    "2026-09-25T11:09|19.93|121.28",
-    "2026-09-25T10:21|6.44|123.69",
-    "2026-09-25T09:59|8.58|127.60",
-    "2026-09-25T09:49|19.26|121.37",
     "2026-09-25T09:34|15.14|122.15",
     "2026-09-25T08:57|8.57|125.70",
     "2026-09-25T08:16|8.84|126.36",
@@ -4584,7 +4566,25 @@
     "2026-11-01T20:37|8.46|127.55",
     "2026-11-01T20:34|18.96|121.08",
     "2026-11-01T19:33|6.57|126.63",
-    "2026-11-01T18:25|13.42|126.61"
+    "2026-11-01T18:25|13.42|126.61",
+    "2026-11-02T04:28|9.59|126.11",
+    "2026-11-02T03:48|19.68|121.02",
+    "2026-11-02T03:12|13.03|124.44",
+    "2026-11-02T02:38|19.20|121.43",
+    "2026-11-02T02:10|8.57|127.25",
+    "2026-11-02T00:49|8.56|126.66",
+    "2026-11-01T09:34|7.01|127.19",
+    "2026-11-01T09:16|14.47|124.46",
+    "2026-11-01T09:12|8.51|127.56",
+    "2026-11-01T09:03|20.20|121.80",
+    "2026-11-01T07:35|8.07|127.14",
+    "2026-11-01T06:57|12.85|123.10",
+    "2026-11-01T04:18|4.95|125.73",
+    "2026-11-01T04:15|5.57|125.23",
+    "2026-11-01T03:45|7.81|126.70",
+    "2026-11-01T03:05|9.62|124.10",
+    "2026-11-01T03:04|10.99|124.01",
+    "2026-11-01T02:57|8.42|127.68"
   ],
   "health": {
     "phivolcs": "ok",
@@ -4754,9 +4754,25 @@
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
       "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
+      "dropped implausible event: older than 30 days",
       "PAGASA unavailable: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: "
     ],
     "pagasa": "failed: Hostname/IP does not match certificate's altnames: IP: 121.58.193.10 is not in the cert's list: ",
-    "checked_at": "2026-11-01T23:46:55.728Z"
+    "checked_at": "2026-11-02T04:49:40.136Z"
   }
 }
