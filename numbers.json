@@ -1,5 +1,5 @@
 {
-  "version": "1.0.130",
+  "version": "1.0.131",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -200,13 +200,6 @@
       "description": "MUSIC NIGHT | TAYTAY NIGHT MARKET.❤️\n\nThank you Mayora DONRIO Martinez!❤️\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195784506935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/1046829501696205/"
-    },
-    {
-      "id": "fb-751559508033473_122195777132935139",
-      "title": "Laag na!❤️",
-      "description": "Laag na!❤️",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122195777132935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122195777132935139"
     }
   ],
   "newsArticles": [
