@@ -1,5 +1,5 @@
 {
-  "version": "1.0.152",
+  "version": "1.0.153",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,13 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122199516026935139",
+      "title": "Have you been to Gampoy Peak? Share your best photos and memorable moments in t…",
+      "description": "Have you been to Gampoy Peak? Share your best photos and memorable moments in the comment section! \n\nLet's see your Gampoy Peak adventure! ⛰️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122199516026935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122199516026935139"
+    },
     {
       "id": "fb-751559508033473_122199440954935139",
       "title": "Have you been to Tagbilat Falls? Share your best photo and let us see your favo…",
@@ -165,16 +172,18 @@
       "description": "Our MaDASIGong Mayor, Mayor DONRIO Martinez, proudly leading our official LGU float parade for Naragsakan Festival 2026.\n\nThank you, Mayora, for your unwavering support and for always leading with love, dedication, and the true DASIG spirit. ❤\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196208712935139.jpg",
       "targetUrl": "https://www.facebook.com/reel/2100111123949027/"
-    },
-    {
-      "id": "fb-751559508033473_122196187034935139",
-      "title": "BAE SA TAYTAY | PRODUCTION NUMBER.❤️",
-      "description": "BAE SA TAYTAY | PRODUCTION NUMBER.❤️\n\nPhoto Credits | Ms. Daphne Cabadunga.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196187034935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196187034935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1711208497682076",
+      "title": "𝙎𝙏𝙍𝙀𝙉𝙂𝙏𝙃𝙀𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙐𝙉𝙄𝙏𝙔 𝙋𝙀𝘼𝘾𝙀 𝘼𝙉𝘿 𝙎𝙀𝘾𝙐𝙍𝙄𝙏\ud835…",
+      "summary": "𝙎𝙏𝙍𝙀𝙉𝙂𝙏𝙃𝙀𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙐𝙉𝙄𝙏𝙔 𝙋𝙀𝘼𝘾𝙀 𝘼𝙉𝘿 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔 𝙏𝙃𝙍𝙊𝙐𝙂𝙃 𝘾𝘼𝙋𝘼𝘽𝙄𝙇𝙄𝙏𝙔 𝙀𝙉𝙃𝘼𝙉𝘾𝙀𝙈𝙀𝙉𝙏!  \n\n𝙏𝙝𝙚 𝙏𝙞𝙩𝙖𝙮 𝙈𝙪𝙣𝙞𝙘𝙞𝙥𝙖𝙡 𝙋𝙤𝙡𝙞𝙘𝙚 𝙎𝙩𝙖𝙩𝙞𝙤𝙣, 𝙪𝙣𝙙𝙚𝙧 𝙩𝙝𝙚 𝙡𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 𝙤𝙛 𝙋𝙈𝘼𝙅 𝘼𝙍𝙉𝙊𝙇𝘿 𝘼 𝙀𝙎𝙋𝘼𝙍𝙀𝙎, 𝘼𝘾𝙊𝙋 𝙨𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮 𝙘𝙤𝙣𝙙𝙪𝙘𝙩𝙚𝙙 𝙖 𝙏𝙬𝙤-𝘿𝙖𝙮 𝘾𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙀𝙣𝙝𝙖𝙣𝙘𝙚𝙢𝙚𝙣𝙩 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜 𝙛𝙤𝙧 𝘽𝙖𝙧𝙖𝙣𝙜𝙖𝙮 𝙋𝙚𝙖𝙘𝙚𝙠𝙚𝙚𝙥𝙞𝙣𝙜 𝘼𝙘𝙩𝙞𝙤𝙣 𝙏𝙚𝙖𝙢𝙨 (𝘽𝙋𝘼𝙏𝙨) 𝙖𝙞𝙢𝙚𝙙 𝙖𝙩 𝙚𝙣𝙝𝙖𝙣𝙘𝙞𝙣𝙜 𝙩𝙝𝙚 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚, 𝙨𝙠𝙞𝙡𝙡𝙨, 𝙖𝙣𝙙 𝙘𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 𝙤𝙛 𝘽𝙋𝘼𝙏 𝙢𝙚𝙢𝙗𝙚𝙧𝙨 𝙞𝙣 𝙢𝙖𝙞𝙣𝙩𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙚𝙖𝙘𝙚 𝙖𝙣𝙙 𝙤𝙧𝙙𝙚𝙧, 𝙥𝙧𝙚𝙫𝙚𝙣𝙩𝙞𝙣𝙜 𝙘𝙧𝙞𝙢𝙚𝙨, 𝙖𝙣𝙙 𝙥𝙧𝙤𝙢𝙤𝙩𝙞𝙣𝙜 𝙥𝙪𝙗𝙡𝙞𝙘 𝙨𝙖𝙛𝙚𝙩𝙮 𝙬𝙞𝙩𝙝𝙞𝙣 𝙩𝙝𝙚𝙞𝙧 𝙧𝙚𝙨𝙥𝙚𝙘𝙩𝙞𝙫𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙞𝙚𝙨.  \n\n𝙏𝙝𝙞𝙨 𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙮 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙥𝙤𝙨𝙨𝙞𝙗𝙡𝙚 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙩𝙝𝙚 𝙞𝙣𝙫𝙖𝙡𝙪𝙖𝙗𝙡𝙚 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙖𝙣𝙙 𝙘𝙤𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙩𝙝𝙚 𝙇𝙤𝙘𝙖𝙡 𝙂𝙤𝙫𝙚𝙧𝙣𝙢𝙚𝙣𝙩 𝙐𝙣𝙞𝙩 (𝙇𝙂𝙐) 𝙤𝙛 𝙏𝙞𝙩𝙖𝙮, 𝙥𝙖𝙧𝙩𝙞𝙘𝙪𝙡𝙖𝙧𝙡𝙮 𝙪𝙣𝙙𝙚𝙧 𝙩𝙝𝙚 𝙡𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 𝙤𝙛 𝙈𝙪𝙣𝙞𝙘𝙞𝙥𝙖𝙡 𝙈𝙖𝙮𝙤𝙧 𝙃𝙤𝙣. 𝙍𝙞𝙤𝙧𝙞𝙩𝙖 “𝘿𝙤𝙣𝙧𝙞𝙤” 𝙈. 𝘾𝙖𝙨𝙩𝙞𝙡𝙡𝙤, 𝙖𝙣𝙙 𝙤𝙩𝙝𝙚𝙧 𝙨𝙩𝙖𝙠𝙚𝙝𝙤𝙡𝙙𝙚𝙧𝙨, 𝙬𝙝𝙤𝙨𝙚 𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙚𝙙 𝙘𝙤𝙢𝙢𝙞𝙩𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙜𝙧𝙚𝙖𝙩𝙡𝙮 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝙩𝙤 𝙩𝙝𝙚 𝙨𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡 𝙘𝙤𝙣𝙙𝙪𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝙩𝙧𝙖𝙞𝙣𝙞𝙣𝙜.  \n\n𝙏𝙝𝙚 𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙮 𝙖𝙡𝙨𝙤 𝙨𝙩𝙧𝙚𝙣𝙜𝙩𝙝𝙚𝙣𝙚𝙙 𝙩𝙝𝙚 𝙥𝙖𝙧𝙩𝙣𝙚𝙧𝙨𝙝𝙞𝙥 𝙗𝙚𝙩𝙬𝙚𝙚𝙣 𝙩𝙝𝙚 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚 𝙉𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝙋𝙤𝙡𝙞𝙘𝙚 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙗𝙖𝙧𝙖𝙣𝙜𝙖𝙮 𝙥𝙚𝙖𝙘𝙚𝙠𝙚𝙚𝙥𝙞𝙣𝙜 𝙛𝙤𝙧𝙘𝙚, 𝙚𝙢𝙥𝙝𝙖𝙨𝙞𝙯𝙞𝙣𝙜 𝙪𝙣𝙞𝙩𝙮, 𝙘𝙤𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣, 𝙖𝙣𝙙 𝙖𝙘𝙩𝙞𝙫𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝙥𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙨𝙖𝙛𝙚𝙧 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚 𝙥𝙚𝙖𝙘𝙚𝙛𝙪𝙡 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙞𝙚𝙨.  \n\n𝙏𝙤𝙜𝙚𝙩𝙝𝙚𝙧, 𝙡𝙚𝙩 𝙪𝙨 𝙬𝙤𝙧𝙠 𝙝𝙖𝙣𝙙 𝙞𝙣 𝙝𝙖𝙣𝙙 𝙛𝙤𝙧 𝙖 𝙨𝙖𝙛𝙚𝙧, 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙧, 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚 𝙥𝙚𝙖𝙘𝙚𝙛𝙪𝙡 𝙏𝙞𝙩𝙖𝙮!\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1711208497682076.jpg",
+      "publishedDate": "2026-11-13T06:02:34+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1711208497682076",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-pnp-101676331183641_1711185761017683",
       "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
@@ -794,15 +803,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1706564648146461.jpg",
       "publishedDate": "2026-11-09T10:57:43+0000",
       "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1706564648146461",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1706542371482022",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1706542371482022.jpg",
-      "publishedDate": "2026-11-09T10:28:15+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1706542371482022",
       "source": "PNP Titay"
     },
     {
