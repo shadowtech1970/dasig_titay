@@ -1,5 +1,5 @@
 {
-  "version": "1.0.159",
+  "version": "1.0.160",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -165,16 +165,108 @@
       "description": "NARAGSAKAN FESTIVAL 2026 | BAE SA TAYTAY👑✨\n\n#DasigTitay",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196751346935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122196751346935139"
-    },
-    {
-      "id": "fb-751559508033473_122196627728935139",
-      "title": "The Blessing and Turnover of the Patient Transport Vehicle marks another meanin…",
-      "description": "The Blessing and Turnover of the Patient Transport Vehicle marks another meaningful step toward improving healthcare services in the Municipality of Titay.\n\nOur heartfelt gratitude to PAGCOR and Senator Raffy Tulfo for this valuable assistance that will benefit our fellow Titayanons.\n\nWe also extend our sincere appreciation to Mayor DONRIO Martinez for her continued dedication and commitment to improving public services, particularly in healthcare. Through her leadership and support, our municipality continues to work toward making essential services more accessible to every Titayanon, especially those who need medical assistance and transportation.\n\nThank you as well to Rev. Father Francis Mesina for leading the blessing of the vehicle.\n\nMay this vehicle serve as a reliable source of assistance and comfort to our constituents when they need it most.\n\nDASIG TITAY\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122196627728935139.jpg",
-      "targetUrl": "https://www.facebook.com/reel/1672318717564626/"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-pnp-101676331183641_1716616887141237",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716616887141237.jpg",
+      "publishedDate": "2026-11-17T05:43:03+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716616887141237",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716616593807933",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716616593807933.jpg",
+      "publishedDate": "2026-11-17T05:42:39+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716616593807933",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716616273807965",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716616273807965.jpg",
+      "publishedDate": "2026-11-17T05:42:07+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716616273807965",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716615843808008",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716615843808008.jpg",
+      "publishedDate": "2026-11-17T05:41:33+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716615843808008",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716615360474723",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716615360474723.jpg",
+      "publishedDate": "2026-11-17T05:40:56+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716615360474723",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716615017141424",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716615017141424.jpg",
+      "publishedDate": "2026-11-17T05:40:29+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716615017141424",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716614277141498",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716614277141498.jpg",
+      "publishedDate": "2026-11-17T05:39:55+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716614277141498",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716613793808213",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716613793808213.jpg",
+      "publishedDate": "2026-11-17T05:39:20+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716613793808213",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716610050475254",
+      "title": "MOBILE PATROL:",
+      "summary": "MOBILE PATROL: \nNovember 17, 2026 @ about 7:14 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Mobile Patrol at Barangay Poblacion, Titay, Zamboanga Sibugay\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n“In case of emergency call 911”\n#domobilepatrolnovember172026\n#pro9mobilepatrolnovember172026\n#zsbppomobilepatrolnovember172026\n#titaympsmobilepatrolnovember172026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716610050475254.jpg",
+      "publishedDate": "2026-11-17T05:34:21+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/2339309250242546/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716609067142019",
+      "title": "FOOT PATROL:",
+      "summary": "FOOT PATROL: \nNovember 17, 2026 @ about 7:19 AM onwards\nPersonnel of Titay Municipal Police Station conducted intensified Foot Patrol and distribution of flyers at  Barangay Poblacion, Titay, Zamboanga Sibugay \n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman \n“In case of emergency call 911” \n#dofootpatrolnovember2026 \n#pro9footpatrolnovember172026\n#zsbppofootpatrolnovember172026\n#titaympsfootpatrolnovember172026",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716609067142019.jpg",
+      "publishedDate": "2026-11-17T05:33:21+0000",
+      "fullContentUrl": "https://www.facebook.com/reel/1795419748431420/",
+      "source": "PNP Titay"
+    },
+    {
+      "id": "fb-pnp-101676331183641_1716601993809393",
+      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
+      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1716601993809393.jpg",
+      "publishedDate": "2026-11-17T05:23:41+0000",
+      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1716601993809393",
+      "source": "PNP Titay"
+    },
     {
       "id": "fb-bfp-111540694644827_1646412950274674",
       "title": "𝗗𝗔𝗜𝗟𝗬 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 was conducted by Titay Municipal Fir…",
@@ -482,60 +574,6 @@
       "source": "PNP Titay"
     },
     {
-      "id": "fb-pnp-101676331183641_1712506904218902",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712506904218902.jpg",
-      "publishedDate": "2026-11-14T06:56:16+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712506904218902",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1712506520885607",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712506520885607.jpg",
-      "publishedDate": "2026-11-14T06:55:42+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712506520885607",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1712506084218984",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712506084218984.jpg",
-      "publishedDate": "2026-11-14T06:55:08+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712506084218984",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1712505670885692",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712505670885692.jpg",
-      "publishedDate": "2026-11-14T06:54:35+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712505670885692",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1712505214219071",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712505214219071.jpg",
-      "publishedDate": "2026-11-14T06:54:05+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712505214219071",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1712504744219118",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712504744219118.jpg",
-      "publishedDate": "2026-11-14T06:53:27+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712504744219118",
-      "source": "PNP Titay"
-    },
-    {
       "id": "fb-bfp-111540694644827_1148970427646284",
       "title": "𝐃𝐀𝐈𝐋𝐘 𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍",
       "summary": "𝐃𝐀𝐈𝐋𝐘 𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍\nIN PHOTOS | Personnel of the Titay Municipal Fire Station conducted their Daily Formation headed by SFO4 Neil P Siaron, Acting Municipal Fire Marshal, to reinforce discipline, maintain personnel readiness, and ensure operational preparedness.\n\nThe activity included personnel accounting, inspection of proper uniform and grooming, dissemination of important reminders, and discussion of daily assignments and responsibilities to promote teamwork, accountability, and efficient delivery of fire protection and emergency response services.\n\nFor emergencies, call 911 or the Titay MFS Hotline at 0965-509-0944.\n\n#BFPRegionIX #TitayFireStation #DailyFormation #SerbisyongBumbero #FireSafety",
@@ -543,15 +581,6 @@
       "publishedDate": "2026-11-14T06:35:48+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1148970427646284",
       "source": "BFP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1712481477554778",
-      "title": "PNP: GOOD DEEDS",
-      "summary": "PNP: GOOD DEEDS \n\nLITTLE ACTS, BIG SMILES! 💙👮‍♀️\n\nA simple act of kindness can bring happiness and create lasting memories. Through the PNP's Good Deeds, personnel of Titay Municipal Police Station continue to demonstrate compassion, generosity, and genuine concern for the community, especially for our children.\n\nThese little gestures remind us that serving and protecting the people goes beyond wearing the uniform—it is also about sharing kindness, touching lives, and bringing smiles to those around us.\n\nBecause sometimes, the simplest acts of giving create the biggest smiles. ❤️\n\n“Little smiles, simple joys, and moments that remind us how beautiful it is to give.”\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1712481477554778.jpg",
-      "publishedDate": "2026-11-14T06:21:55+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1712481477554778",
-      "source": "PNP Titay"
     },
     {
       "id": "fb-bfp-111540694644827_1148880654321928",
@@ -570,42 +599,6 @@
       "publishedDate": "2026-11-13T21:31:15+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/videos/1927257004972406",
       "source": "BFP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1711208497682076",
-      "title": "𝙎𝙏𝙍𝙀𝙉𝙂𝙏𝙃𝙀𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙐𝙉𝙄𝙏𝙔 𝙋𝙀𝘼𝘾𝙀 𝘼𝙉𝘿 𝙎𝙀𝘾𝙐𝙍𝙄𝙏\ud835…",
-      "summary": "𝙎𝙏𝙍𝙀𝙉𝙂𝙏𝙃𝙀𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙐𝙉𝙄𝙏𝙔 𝙋𝙀𝘼𝘾𝙀 𝘼𝙉𝘿 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔 𝙏𝙃𝙍𝙊𝙐𝙂𝙃 𝘾𝘼𝙋𝘼𝘽𝙄𝙇𝙄𝙏𝙔 𝙀𝙉𝙃𝘼𝙉𝘾𝙀𝙈𝙀𝙉𝙏!  \n\n𝙏𝙝𝙚 𝙏𝙞𝙩𝙖𝙮 𝙈𝙪𝙣𝙞𝙘𝙞𝙥𝙖𝙡 𝙋𝙤𝙡𝙞𝙘𝙚 𝙎𝙩𝙖𝙩𝙞𝙤𝙣, 𝙪𝙣𝙙𝙚𝙧 𝙩𝙝𝙚 𝙡𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 𝙤𝙛 𝙋𝙈𝘼𝙅 𝘼𝙍𝙉𝙊𝙇𝘿 𝘼 𝙀𝙎𝙋𝘼𝙍𝙀𝙎, 𝘼𝘾𝙊𝙋 𝙨𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮 𝙘𝙤𝙣𝙙𝙪𝙘𝙩𝙚𝙙 𝙖 𝙏𝙬𝙤-𝘿𝙖𝙮 𝘾𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙀𝙣𝙝𝙖𝙣𝙘𝙚𝙢𝙚𝙣𝙩 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜 𝙛𝙤𝙧 𝘽𝙖𝙧𝙖𝙣𝙜𝙖𝙮 𝙋𝙚𝙖𝙘𝙚𝙠𝙚𝙚𝙥𝙞𝙣𝙜 𝘼𝙘𝙩𝙞𝙤𝙣 𝙏𝙚𝙖𝙢𝙨 (𝘽𝙋𝘼𝙏𝙨) 𝙖𝙞𝙢𝙚𝙙 𝙖𝙩 𝙚𝙣𝙝𝙖𝙣𝙘𝙞𝙣𝙜 𝙩𝙝𝙚 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚, 𝙨𝙠𝙞𝙡𝙡𝙨, 𝙖𝙣𝙙 𝙘𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 𝙤𝙛 𝘽𝙋𝘼𝙏 𝙢𝙚𝙢𝙗𝙚𝙧𝙨 𝙞𝙣 𝙢𝙖𝙞𝙣𝙩𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙚𝙖𝙘𝙚 𝙖𝙣𝙙 𝙤𝙧𝙙𝙚𝙧, 𝙥𝙧𝙚𝙫𝙚𝙣𝙩𝙞𝙣𝙜 𝙘𝙧𝙞𝙢𝙚𝙨, 𝙖𝙣𝙙 𝙥𝙧𝙤𝙢𝙤𝙩𝙞𝙣𝙜 𝙥𝙪𝙗𝙡𝙞𝙘 𝙨𝙖𝙛𝙚𝙩𝙮 𝙬𝙞𝙩𝙝𝙞𝙣 𝙩𝙝𝙚𝙞𝙧 𝙧𝙚𝙨𝙥𝙚𝙘𝙩𝙞𝙫𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙞𝙚𝙨.  \n\n𝙏𝙝𝙞𝙨 𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙮 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙥𝙤𝙨𝙨𝙞𝙗𝙡𝙚 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙩𝙝𝙚 𝙞𝙣𝙫𝙖𝙡𝙪𝙖𝙗𝙡𝙚 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙖𝙣𝙙 𝙘𝙤𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙩𝙝𝙚 𝙇𝙤𝙘𝙖𝙡 𝙂𝙤𝙫𝙚𝙧𝙣𝙢𝙚𝙣𝙩 𝙐𝙣𝙞𝙩 (𝙇𝙂𝙐) 𝙤𝙛 𝙏𝙞𝙩𝙖𝙮, 𝙥𝙖𝙧𝙩𝙞𝙘𝙪𝙡𝙖𝙧𝙡𝙮 𝙪𝙣𝙙𝙚𝙧 𝙩𝙝𝙚 𝙡𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 𝙤𝙛 𝙈𝙪𝙣𝙞𝙘𝙞𝙥𝙖𝙡 𝙈𝙖𝙮𝙤𝙧 𝙃𝙤𝙣. 𝙍𝙞𝙤𝙧𝙞𝙩𝙖 “𝘿𝙤𝙣𝙧𝙞𝙤” 𝙈. 𝘾𝙖𝙨𝙩𝙞𝙡𝙡𝙤, 𝙖𝙣𝙙 𝙤𝙩𝙝𝙚𝙧 𝙨𝙩𝙖𝙠𝙚𝙝𝙤𝙡𝙙𝙚𝙧𝙨, 𝙬𝙝𝙤𝙨𝙚 𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙚𝙙 𝙘𝙤𝙢𝙢𝙞𝙩𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙜𝙧𝙚𝙖𝙩𝙡𝙮 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝙩𝙤 𝙩𝙝𝙚 𝙨𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡 𝙘𝙤𝙣𝙙𝙪𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝙩𝙧𝙖𝙞𝙣𝙞𝙣𝙜.  \n\n𝙏𝙝𝙚 𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙮 𝙖𝙡𝙨𝙤 𝙨𝙩𝙧𝙚𝙣𝙜𝙩𝙝𝙚𝙣𝙚𝙙 𝙩𝙝𝙚 𝙥𝙖𝙧𝙩𝙣𝙚𝙧𝙨𝙝𝙞𝙥 𝙗𝙚𝙩𝙬𝙚𝙚𝙣 𝙩𝙝𝙚 𝙋𝙝𝙞𝙡𝙞𝙥𝙥𝙞𝙣𝙚 𝙉𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝙋𝙤𝙡𝙞𝙘𝙚 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙗𝙖𝙧𝙖𝙣𝙜𝙖𝙮 𝙥𝙚𝙖𝙘𝙚𝙠𝙚𝙚𝙥𝙞𝙣𝙜 𝙛𝙤𝙧𝙘𝙚, 𝙚𝙢𝙥𝙝𝙖𝙨𝙞𝙯𝙞𝙣𝙜 𝙪𝙣𝙞𝙩𝙮, 𝙘𝙤𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣, 𝙖𝙣𝙙 𝙖𝙘𝙩𝙞𝙫𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝙥𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙨𝙖𝙛𝙚𝙧 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚 𝙥𝙚𝙖𝙘𝙚𝙛𝙪𝙡 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙞𝙚𝙨.  \n\n𝙏𝙤𝙜𝙚𝙩𝙝𝙚𝙧, 𝙡𝙚𝙩 𝙪𝙨 𝙬𝙤𝙧𝙠 𝙝𝙖𝙣𝙙 𝙞𝙣 𝙝𝙖𝙣𝙙 𝙛𝙤𝙧 𝙖 𝙨𝙖𝙛𝙚𝙧, 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙧, 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚 𝙥𝙚𝙖𝙘𝙚𝙛𝙪𝙡 𝙏𝙞𝙩𝙖𝙮!\n\n#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1711208497682076.jpg",
-      "publishedDate": "2026-11-13T06:02:34+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1711208497682076",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1711185761017683",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1711185761017683.jpg",
-      "publishedDate": "2026-11-13T05:33:25+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1711185761017683",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1711184541017805",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1711184541017805.jpg",
-      "publishedDate": "2026-11-13T05:32:01+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1711184541017805",
-      "source": "PNP Titay"
-    },
-    {
-      "id": "fb-pnp-101676331183641_1711184077684518",
-      "title": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman",
-      "summary": "#BagongPNPparasaBagongPilipinasSerbisyongMabilisTapatatNararamdaman\n#ToServeandProtect",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-pnp-101676331183641_1711184077684518.jpg",
-      "publishedDate": "2026-11-13T05:31:24+0000",
-      "fullContentUrl": "https://www.facebook.com/1621772776625649/posts/1711184077684518",
-      "source": "PNP Titay"
     },
     {
       "id": "fb-bfp-111540694644827_1147835251093135",
