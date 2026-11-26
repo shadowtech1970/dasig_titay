@@ -1,5 +1,5 @@
 {
-  "version": "1.0.177",
+  "version": "1.0.178",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,6 +33,20 @@
     }
   ],
   "advertisements": [
+    {
+      "id": "fb-751559508033473_122201624516935139",
+      "title": "Time Check 9:04 PM.❤️",
+      "description": "Time Check 9:04 PM.❤️\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122201624516935139.jpg",
+      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122201624516935139"
+    },
+    {
+      "id": "fb-751559508033473_122201606816935139",
+      "title": "Taytay Night Market.⭐️✨",
+      "description": "Taytay Night Market.⭐️✨\n\n#DASIGTITAY",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122201606816935139.jpg",
+      "targetUrl": "https://www.facebook.com/reel/1432273509081554/"
+    },
     {
       "id": "fb-751559508033473_122201121560935139",
       "title": "Preparation in full bloom. See you this December 2, 2026 at Titay Municipal Par…",
@@ -158,16 +172,18 @@
       "description": "The Municipality of Titay distributed a ₱10,000 cash gift to 25 senior citizens aged 90 years old and above, recognizing their years of life, wisdom, and invaluable contributions to our community.\n\nThis is one of the good practices of our municipality, made possible through our continued commitment to honoring and caring for our elderly.\n\nBecause every year lived is a life worth celebrating, and every senior citizen deserves to feel valued and remembered.\n\nDASIG TITAY!\n\n#DASIGTITAY",
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122197937510935139.jpg",
       "targetUrl": "https://www.facebook.com/122185088246935139/posts/122197937510935139"
-    },
-    {
-      "id": "fb-751559508033473_122197451870935139",
-      "title": "“Today, we remember with love and honor the souls of our departed loved ones. T…",
-      "description": "“Today, we remember with love and honor the souls of our departed loved ones. Though they may no longer be with us, the love they shared, the memories they left, and the lessons they taught will forever remain in our hearts.\n\nHinaot nga pinaagi sa atong mga pag-ampo, magpabilin ang atong pagtuo nga ang gugma dili matapos sa kamatayon. Padayon natong iampo ang ilang mga kalag ug hinaot nga makakaplag sila sa kahayag ug kalinaw diha sa presensya sa Ginoo.\n\nMay the Lord grant eternal rest to all the souls of our departed loved ones. “🤍\n\n-Mayor DONRIO Martinez-Castillo.\n\n#DASIGTITAY",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-751559508033473_122197451870935139.jpg",
-      "targetUrl": "https://www.facebook.com/122185088246935139/posts/122197451870935139"
     }
   ],
   "newsArticles": [
+    {
+      "id": "fb-bfp-111540694644827_1161389219737738",
+      "title": "FIRE TRUCK VISIBILITY AND RECORIDA",
+      "summary": "FIRE TRUCK VISIBILITY AND RECORIDA\n\nIN PHOTOS || On November 25, 2026, personnel of the Titay Municipal Fire Station conducted a fire truck visibility and recorida within the Municipality of Titay, Zamboanga Sibugay, to promote fire safety awareness, increase the visibility of the Bureau of Fire Protection, and remind residents to observe fire prevention measures and remain vigilant against potential fire hazards.\n\nThe activity was conducted under the leadership of SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nFor emergencies, call 911 or the Titay MFS hotline at 0965-509-0944.",
+      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1161389219737738.jpg",
+      "publishedDate": "2026-11-26T12:24:12+0000",
+      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1161389219737738",
+      "source": "BFP Titay"
+    },
     {
       "id": "fb-bfp2-1002128899657876_122129640951081011",
       "title": "HOUSE-TO-HOUSE SURVEY",
@@ -949,15 +965,6 @@
       "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1152865727256754.jpg",
       "publishedDate": "2026-11-18T07:49:00+0000",
       "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1152865727256754",
-      "source": "BFP Titay"
-    },
-    {
-      "id": "fb-bfp-111540694644827_1152863407256986",
-      "title": "𝐃𝐀𝐈𝐋𝐘 𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐀𝐍𝐃 𝐑𝐀𝐍𝐊 𝐈𝐍𝐒𝐏𝐄𝐂𝐓𝐈𝐎𝐍",
-      "summary": "𝐃𝐀𝐈𝐋𝐘 𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐀𝐍𝐃 𝐑𝐀𝐍𝐊 𝐈𝐍𝐒𝐏𝐄𝐂𝐓𝐈𝐎𝐍\n\nNovember 18, 2026\n\nIN PHOTOS | Personnel of the Titay Municipal Fire Station conducted its daily formation and rank inspection as part of the station's continuing efforts to maintain discipline, professionalism, and operational readiness.\n\nThe activity focused on checking personnel's proper uniform, grooming, bearing, and overall appearance, while reinforcing discipline, accountability, and adherence to the Bureau's standards and regulations.\n\nThe activity was conducted under the leadership of SFO4 Neil P Siaron, Acting Municipal Fire Marshal.\n\nFor emergencies, call 911 or the Titay MFS hotline at 0965-509-0944.",
-      "imageUrl": "https://raw.githubusercontent.com/shadowtech1970/dasig_titay/main/images/fb-bfp-111540694644827_1152863407256986.jpg",
-      "publishedDate": "2026-11-18T07:45:38+0000",
-      "fullContentUrl": "https://www.facebook.com/1069816735561654/posts/1152863407256986",
       "source": "BFP Titay"
     },
     {
